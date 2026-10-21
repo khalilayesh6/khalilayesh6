@@ -1,14 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="386" viewBox="0 0 1200 386" role="img" aria-labelledby="title desc">
 <title id="title">How I approach building — a continuous development cycle</title>
-<desc id="desc">Dark GitHub theme with transparent outer background. Five connected stages: understand the problem, design the data, build the logic, test and debug, and improve. An animated light follows the workflow then returns along a feedback line to represent continuous learning and iteration.</desc>
+<desc id="desc">Ambient-edge integrated GitHub design, coherent cyan-violet identity. Dark GitHub theme with transparent outer background. Five connected stages: understand the problem, design the data, build the logic, test and debug, and improve. An animated light follows the workflow then returns along a feedback line to represent continuous learning and iteration.</desc>
 <defs>
  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#091322"/><stop offset=".55" stop-color="#0c1930"/><stop offset="1" stop-color="#171437"/></linearGradient>
  <linearGradient id="progress" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#5cdef5"/><stop offset=".54" stop-color="#5a90dd"/><stop offset="1" stop-color="#b098fc"/></linearGradient>
  <radialGradient id="halo"><stop offset="0" stop-color="#277aca" stop-opacity=".22"/><stop offset="1" stop-color="#277aca" stop-opacity="0"/></radialGradient>
  <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#acc8ff" stroke-width=".55" opacity=".055"/></pattern>
  <clipPath id="clip"><rect width="1200" height="386" rx="21"/></clipPath>
-</defs>
+<radialGradient id="ghAmbientCyan"><stop offset="0" stop-color="#37BDD7" stop-opacity=".15"/><stop offset=".55" stop-color="#2A9DBF" stop-opacity=".045"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></radialGradient><radialGradient id="ghAmbientViolet"><stop offset="0" stop-color="#8C76EA" stop-opacity=".12"/><stop offset=".60" stop-color="#A99AF2" stop-opacity=".045"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></radialGradient><linearGradient id="ghIdentityRail" gradientUnits="userSpaceOnUse" x1="0" y1="45" x2="0" y2="341"><stop offset="0" stop-color="#5FCFE6" stop-opacity="0"/><stop offset=".24" stop-color="#5FCFE6" stop-opacity=".48"/><stop offset=".72" stop-color="#AD9BF3" stop-opacity=".36"/><stop offset="1" stop-color="#AD9BF3" stop-opacity="0"/></linearGradient></defs>
 <g clip-path="url(#clip)" font-family="Arial,Helvetica,sans-serif">
+<g aria-hidden="true"><ellipse cx="304" cy="178" rx="260" ry="166" fill="url(#ghAmbientCyan)"/><ellipse cx="894" cy="201" rx="267" ry="166" fill="url(#ghAmbientViolet)"/><path d="M27 46V341" fill="none" stroke="url(#ghIdentityRail)" stroke-width="2.2" stroke-linecap="round"/><circle cx="27" cy="174" r="3.3" fill="#78DBE5" opacity=".54"/></g>
  
  
  <circle cx="680" cy="188" r="360" fill="url(#halo)"/>
