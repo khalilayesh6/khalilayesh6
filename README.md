@@ -36,6 +36,12 @@
   <img src="./assets/how-i-build.svg" width="100%" alt="How I approach building: Understand the problem, design the data, build logic, test and debug, then improve through continuous iteration." />
 </div>
 
+<br />
+
+<div align="center">
+  <img src="./assets/featured-finance-v1.svg" width="100%" alt="Featured project case study: Finance Management System — accounts, transactions and reporting. Private source code is not linked; illustrated dashboard is conceptual." />
+</div>
+
 ---
 
 <div align="center">
