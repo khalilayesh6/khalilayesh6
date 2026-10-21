@@ -5,18 +5,18 @@
 <br />
 
 <div align="center">
+  <img src="./assets/about.svg" width="100%" alt="About Me — Backend-focused developer. I build practical projects and explore the logic behind APIs, databases, and backend systems." />
+</div>
+
+<br />
+
+<div align="center">
   <img src="https://img.shields.io/badge/FOCUS-BACKEND%20DEVELOPMENT-10243A?style=flat-square&amp;labelColor=14253A&amp;color=167B97" alt="Backend development focus" />
   &nbsp;
   <img src="https://img.shields.io/badge/MINDSET-ALWAYS%20LEARNING-231B42?style=flat-square&amp;labelColor=182438&amp;color=7867C7" alt="Always learning" />
 </div>
 
 <br />
-
-### Hey, I'm Khalil 👋
-
-I'm a **backend-focused developer** who enjoys understanding how applications work behind the scenes.
-
-I'm learning, building practical projects, and improving step by step — especially in **server-side logic, APIs, and databases**. I like turning ideas into systems that are clear, useful, and easier to maintain.
 
 ### ✦ What I'm exploring
 
