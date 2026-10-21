@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="386" viewBox="0 0 1200 386" role="img" aria-labelledby="title desc">
 <title id="title">How I approach building — a continuous development cycle</title>
-<desc id="desc">Flat GitHub canvas with no photo-frame background or ambient haze, optimized for light contrast. Ambient-edge integrated GitHub design, coherent cyan-violet identity. Light GitHub theme with transparent outer background. Five connected stages: understand the problem, design the data, build the logic, test and debug, and improve. An animated light follows the workflow then returns along a feedback line to represent continuous learning and iteration.</desc>
+<desc id="desc">Unified premium type system: restrained editorial headers, high contrast copy, and native GitHub UI borders. Flat GitHub canvas with no photo-frame background or ambient haze, optimized for light contrast. Ambient-edge integrated GitHub design, coherent cyan-violet identity. Light GitHub theme with transparent outer background. Five connected stages: understand the problem, design the data, build the logic, test and debug, and improve. An animated light follows the workflow then returns along a feedback line to represent continuous learning and iteration.</desc>
 <defs>
  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F6F8FA"/><stop offset=".55" stop-color="#F6F8FA"/><stop offset="1" stop-color="#F6F8FA"/></linearGradient>
  <linearGradient id="progress" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#238EAD"/><stop offset=".54" stop-color="#238EAD"/><stop offset="1" stop-color="#8976CF"/></linearGradient>
@@ -8,18 +8,18 @@
  <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#D0D7DE" stroke-width=".55" opacity=".055"/></pattern>
  <clipPath id="clip"><rect width="1200" height="386" rx="21"/></clipPath>
 </defs>
-<g clip-path="url(#clip)" font-family="Arial,Helvetica,sans-serif">
+<g clip-path="url(#clip)" font-family="Segoe UI,Arial,Helvetica,sans-serif">
 
  
  
  
  
  
- <rect x="44" y="22" width="194" height="30" rx="15" fill="#F6F8FA" stroke="#D0D7DE"/>
+ <rect x="44" y="22" width="194" height="30" rx="15" fill="#E9F3F6" stroke="#D0D7DE"/>
  <circle cx="63" cy="37" r="4.3" fill="#65DEC0"><animate attributeName="opacity" values=".5;1;.5" dur="3s" repeatCount="indefinite"/></circle>
- <text x="77" y="42" fill="#1F2328" font-size="13" font-weight="700" letter-spacing="1.5">BUILD WORKFLOW</text>
- <text x="44" y="101" fill="#1F2328" font-size="35" font-weight="800" letter-spacing="-.5">How I Approach Building</text>
- <text x="1154" y="95" text-anchor="end" font-family="monospace" font-size="12.5" letter-spacing="1.2" fill="#59636E">FROM IDEA TO ITERATION</text>
+ <text x="77" y="42" fill="#096B83" font-size="13" font-weight="700" letter-spacing="1.08">BUILD WORKFLOW</text>
+ <text x="44" y="101" fill="#1F2328" font-size="34" font-weight="700" letter-spacing="-0.4">How I Approach Building</text>
+ <text x="1154" y="95" text-anchor="end" font-family="Consolas,Liberation Mono,monospace" font-size="12.5" letter-spacing="1.2" fill="#59636E">FROM IDEA TO ITERATION</text>
 
  <!-- Feedback rail is part of the workflow, not decoration. -->
  <path d="M148 316H1052C1085 316 1085 346 1052 346H148C115 346 115 316 148 316" fill="none" stroke="#D0D7DE" stroke-width="2" stroke-linecap="round"/>
@@ -29,59 +29,59 @@
    <animateMotion path="M148 316H1052C1085 316 1085 346 1052 346H148C115 346 115 316 148 316" dur="13s" repeatCount="indefinite"/>
    <animate attributeName="opacity" values=".7;1;.7" dur="2.6s" repeatCount="indefinite"/>
  </circle>
- <text x="600" y="373" text-anchor="middle" font-family="monospace" font-size="13" letter-spacing="2" fill="#59636E">REVIEW  /  LEARN  /  ITERATE</text>
+ <text x="600" y="373" text-anchor="middle" font-family="Consolas,Liberation Mono,monospace" font-size="13" letter-spacing="1.2" fill="#59636E">REVIEW  /  LEARN  /  ITERATE</text>
 
 <g>
-  <rect x="44" y="127" width="208" height="157" rx="15" fill="#F6F8FA" stroke="#D0D7DE" stroke-width="1.3"/>
+  <rect x="44" y="127" width="208" height="157" rx="15" fill="#F6F8FA" stroke="#D0D7DE" stroke-width="1.2"/>
   <path d="M60 128H236" fill="none" stroke="#4D99B5" stroke-width="2.8" stroke-linecap="round" opacity=".85"/>
-  <text x="62" y="160" font-size="13" font-weight="700" fill="#1A786C" letter-spacing="1.4">01 / STEP</text>
+  <text x="62" y="160" font-size="13" font-weight="700" fill="#096B83" letter-spacing="1.4">01 / STEP</text>
   <rect x="197" y="143" width="38" height="38" rx="11" fill="#F6F8FA" stroke="#4D99B5" stroke-opacity=".5"/>
-  <text x="62" y="224" fill="#1F2328" font-size="24" font-weight="800" letter-spacing="-.45">Understand</text>
-  <text x="62" y="254" fill="#1F2328" font-size="15.2">Clarify the problem</text>
+  <text x="62" y="224" fill="#1F2328" font-size="24" font-weight="700" letter-spacing="-0.36">Understand</text>
+  <text x="62" y="254" fill="#3F4C59" font-size="15.2">Clarify the problem</text>
   <path d="M148 284V311" fill="none" stroke="#D0D7DE" stroke-width="1.9" stroke-dasharray="2 5"/>
   <circle cx="148" cy="316" r="4.4" fill="#6DE0ED"/>
  </g>
 <circle cx="216" cy="162" r="11" stroke="#4D99B5" stroke-width="2" fill="none"/><circle cx="216" cy="162" r="4.7" stroke="#4D99B5" stroke-width="1.6" fill="none"/><circle cx="216" cy="162" r="1.7" fill="#6DE0ED"/>
 <g>
-  <rect x="270" y="127" width="208" height="157" rx="15" fill="#F6F8FA" stroke="#D0D7DE" stroke-width="1.3"/>
+  <rect x="270" y="127" width="208" height="157" rx="15" fill="#F6F8FA" stroke="#D0D7DE" stroke-width="1.2"/>
   <path d="M286 128H462" fill="none" stroke="#D0D7DE" stroke-width="2.8" stroke-linecap="round" opacity=".85"/>
-  <text x="288" y="160" font-size="13" font-weight="700" fill="#6854A7" letter-spacing="1.4">02 / STEP</text>
+  <text x="288" y="160" font-size="13" font-weight="700" fill="#096B83" letter-spacing="1.4">02 / STEP</text>
   <rect x="423" y="143" width="38" height="38" rx="11" fill="#F6F8FA" stroke="#D0D7DE" stroke-opacity=".5"/>
-  <text x="288" y="224" fill="#1F2328" font-size="24" font-weight="800" letter-spacing="-.45">Design Data</text>
-  <text x="288" y="254" fill="#1F2328" font-size="15.2">Plan the structure</text>
+  <text x="288" y="224" fill="#1F2328" font-size="24" font-weight="700" letter-spacing="-0.36">Design Data</text>
+  <text x="288" y="254" fill="#3F4C59" font-size="15.2">Plan the structure</text>
   <path d="M374 284V311" fill="none" stroke="#D0D7DE" stroke-width="1.9" stroke-dasharray="2 5"/>
   <circle cx="374" cy="316" r="4.4" fill="#8FB8FF"/>
  </g>
 <ellipse cx="442" cy="155" rx="11.5" ry="4.8" stroke="#D0D7DE" stroke-width="1.8" fill="none"/><path d="M430.5 155V171C430.5 178 453.5 178 453.5 171V155 M430.5 163C430.5 169 453.5 169 453.5 163" stroke="#D0D7DE" stroke-width="1.7" fill="none"/>
 <g>
-  <rect x="496" y="127" width="208" height="157" rx="15" fill="#F6F8FA" stroke="#D0D7DE" stroke-width="1.3"/>
+  <rect x="496" y="127" width="208" height="157" rx="15" fill="#F6F8FA" stroke="#D0D7DE" stroke-width="1.2"/>
   <path d="M512 128H688" fill="none" stroke="#D0D7DE" stroke-width="2.8" stroke-linecap="round" opacity=".85"/>
-  <text x="514" y="160" font-size="13" font-weight="700" fill="#6854A7" letter-spacing="1.4">03 / STEP</text>
+  <text x="514" y="160" font-size="13" font-weight="700" fill="#7048B4" letter-spacing="1.4">03 / STEP</text>
   <rect x="649" y="143" width="38" height="38" rx="11" fill="#F6F8FA" stroke="#D0D7DE" stroke-opacity=".5"/>
-  <text x="514" y="224" fill="#1F2328" font-size="24" font-weight="800" letter-spacing="-.45">Build Logic</text>
-  <text x="514" y="254" fill="#1F2328" font-size="15.2">Implement the flow</text>
+  <text x="514" y="224" fill="#1F2328" font-size="24" font-weight="700" letter-spacing="-0.36">Build Logic</text>
+  <text x="514" y="254" fill="#3F4C59" font-size="15.2">Implement the flow</text>
   <path d="M600 284V311" fill="none" stroke="#D0D7DE" stroke-width="1.9" stroke-dasharray="2 5"/>
   <circle cx="600" cy="316" r="4.4" fill="#B09BFA"/>
  </g>
 <path d="M660 153l-9 9 9 9m16-18 9 9-9 9m-3-23-9 28" fill="none" stroke="#D0D7DE" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"/>
 <g>
-  <rect x="722" y="127" width="208" height="157" rx="15" fill="#F6F8FA" stroke="#D0D7DE" stroke-width="1.3"/>
+  <rect x="722" y="127" width="208" height="157" rx="15" fill="#F6F8FA" stroke="#D0D7DE" stroke-width="1.2"/>
   <path d="M738 128H914" fill="none" stroke="#4D99B5" stroke-width="2.8" stroke-linecap="round" opacity=".85"/>
-  <text x="740" y="160" font-size="13" font-weight="700" fill="#176F93" letter-spacing="1.4">04 / STEP</text>
+  <text x="740" y="160" font-size="13" font-weight="700" fill="#096B83" letter-spacing="1.4">04 / STEP</text>
   <rect x="875" y="143" width="38" height="38" rx="11" fill="#F6F8FA" stroke="#4D99B5" stroke-opacity=".5"/>
-  <text x="740" y="224" fill="#1F2328" font-size="23" font-weight="800" letter-spacing="-.45">Test &amp; Debug</text>
-  <text x="740" y="254" fill="#1F2328" font-size="15.2">Find and fix issues</text>
+  <text x="740" y="224" fill="#1F2328" font-size="23" font-weight="700" letter-spacing="-0.36">Test &amp; Debug</text>
+  <text x="740" y="254" fill="#3F4C59" font-size="15.2">Find and fix issues</text>
   <path d="M826 284V311" fill="none" stroke="#D0D7DE" stroke-width="1.9" stroke-dasharray="2 5"/>
   <circle cx="826" cy="316" r="4.4" fill="#78CCE9"/>
  </g>
 <path d="M881 163l8 8 17-19" fill="none" stroke="#4D99B5" stroke-width="2.9" stroke-linecap="round" stroke-linejoin="round"/><circle cx="894" cy="162" r="13.2" fill="none" stroke="#4D99B5" stroke-opacity=".5" stroke-width="1.3"/>
 <g>
-  <rect x="948" y="127" width="208" height="157" rx="15" fill="#F6F8FA" stroke="#D0D7DE" stroke-width="1.3"/>
+  <rect x="948" y="127" width="208" height="157" rx="15" fill="#F6F8FA" stroke="#D0D7DE" stroke-width="1.2"/>
   <path d="M964 128H1140" fill="none" stroke="#4D99B5" stroke-width="2.8" stroke-linecap="round" opacity=".85"/>
-  <text x="966" y="160" font-size="13" font-weight="700" fill="#1A786C" letter-spacing="1.4">05 / STEP</text>
+  <text x="966" y="160" font-size="13" font-weight="700" fill="#7048B4" letter-spacing="1.4">05 / STEP</text>
   <rect x="1101" y="143" width="38" height="38" rx="11" fill="#F6F8FA" stroke="#4D99B5" stroke-opacity=".5"/>
-  <text x="966" y="224" fill="#1F2328" font-size="24" font-weight="800" letter-spacing="-.45">Improve</text>
-  <text x="966" y="254" fill="#1F2328" font-size="15.2">Refine what works</text>
+  <text x="966" y="224" fill="#1F2328" font-size="24" font-weight="700" letter-spacing="-0.36">Improve</text>
+  <text x="966" y="254" fill="#3F4C59" font-size="15.2">Refine what works</text>
   <path d="M1052 284V311" fill="none" stroke="#D0D7DE" stroke-width="1.9" stroke-dasharray="2 5"/>
   <circle cx="1052" cy="316" r="4.4" fill="#71E0C6"/>
  </g>
