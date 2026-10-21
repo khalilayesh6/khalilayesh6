@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="274" viewBox="0 0 1200 274" role="img" aria-labelledby="title desc">
+<title id="title">Let's Keep Building — Connect and Explore</title>
+<desc id="desc">Elegant GitHub profile footer. Two destinations: view the GitHub profile and browse public repositories. Actual clickable links appear below this visual in the README. No unverified contact addresses are displayed.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+   <stop offset="0" stop-color="#091525"/><stop offset=".53" stop-color="#0d1b32"/><stop offset="1" stop-color="#1a1738"/>
+ </linearGradient>
+ <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+   <stop offset="0" stop-color="#5CDBEB"/><stop offset=".54" stop-color="#4C90DE"/><stop offset="1" stop-color="#B6A2FF"/>
+ </linearGradient>
+ <radialGradient id="glow"><stop offset="0" stop-color="#587FE6" stop-opacity=".18"/><stop offset="1" stop-color="#587FE6" stop-opacity="0"/></radialGradient>
+ <clipPath id="rounded"><rect width="1200" height="274" rx="21"/></clipPath>
+</defs>
+<g clip-path="url(#rounded)" font-family="Arial,Helvetica,sans-serif">
+ <rect width="1200" height="274" fill="url(#bg)"/>
+ <circle cx="910" cy="160" r="350" fill="url(#glow)"/>
+ <path d="M0 2H1200" stroke="url(#accent)" stroke-width="3.2"/>
+ <path d="M0 271H1200" stroke="url(#accent)" stroke-width="1.8" opacity=".45"/>
+ <rect x="46" y="27" width="172" height="30" rx="15" fill="#123149" stroke="#315C7A"/>
+ <circle cx="63" cy="42" r="4.2" fill="#68DEBF">
+  <animate attributeName="opacity" values=".5;1;.5" dur="3s" repeatCount="indefinite"/>
+ </circle>
+ <text x="77" y="47" font-size="12.5" font-weight="700" letter-spacing="1.55" fill="#BFE1ED">LET'S CONNECT</text>
+ <text x="44" y="123" fill="#F2F7FF" font-size="38" font-weight="800" letter-spacing="-.65">Keep Learning.</text>
+ <text x="44" y="165" fill="#F2F7FF" font-size="38" font-weight="800" letter-spacing="-.65">Keep Building.</text>
+ <path d="M46 185H102" stroke="#67DFEA" stroke-width="3" stroke-linecap="round"/>
+ <path d="M115 185H144" stroke="#B4A4FA" stroke-width="3" stroke-linecap="round"/>
+ <text x="46" y="215" font-size="16.7" fill="#ABC5D8">Explore my code and follow my work on GitHub.</text>
+ <text x="47" y="251" font-size="12.5" font-family="monospace" letter-spacing="1.35" fill="#8EADC3">CURIOSITY  /  CONSISTENCY  /  PROGRESS</text>
+ <path d="M625 37V240" stroke="#344F70" stroke-width="1.25"/>
+
+ <!-- Visual representations only. Actual links are immediately below in README. -->
+ <rect x="664" y="70" width="218" height="142" rx="16" fill="#14253F" stroke="#3E7690" stroke-width="1.35"/>
+ <path d="M680 71H866" stroke="#62D7E9" stroke-width="2.3" stroke-linecap="round"/>
+ <rect x="681" y="88" width="49" height="49" rx="13" fill="#193C50" stroke="#3F8698"/>
+ <circle cx="705.5" cy="103" r="7" fill="none" stroke="#8DEAF0" stroke-width="2"/>
+ <path d="M692 125C692 112 719 112 719 125" stroke="#8DEAF0" stroke-width="2" fill="none" stroke-linecap="round"/>
+ <text x="680" y="164" font-size="21.5" font-weight="800" fill="#F0F6FF">GitHub Profile</text>
+ <text x="681" y="190" font-size="14.5" fill="#9FBED3">Updates &amp; public activity</text>
+ <rect x="700" y="198" width="150" height="3" rx="1.5" fill="#284C65"/>
+
+ <rect x="929" y="70" width="224" height="142" rx="16" fill="#1B243F" stroke="#6A5B9D" stroke-width="1.35"/>
+ <path d="M945 71H1137" stroke="#AE9AF6" stroke-width="2.3" stroke-linecap="round"/>
+ <rect x="946" y="88" width="49" height="49" rx="13" fill="#302B4C" stroke="#7563A9"/>
+ <path d="M956 98H967L973 104H986V125H956Z" fill="none" stroke="#C9B9FF" stroke-width="2" stroke-linejoin="round"/>
+ <path d="M961 111H981M961 118H976" stroke="#C9B9FF" stroke-width="1.4" stroke-linecap="round"/>
+ <text x="947" y="164" font-size="21.5" font-weight="800" fill="#F0F6FF">Repositories</text>
+ <text x="947" y="190" font-size="14.5" fill="#B9B7DD">Explore available projects</text>
+ <rect x="964" y="198" width="156" height="3" rx="1.5" fill="#44385E"/>
+
+ <!-- A gentle signal moves between the two destinations. -->
+ <path d="M882 141H929" stroke="#50647E" stroke-width="2.1" stroke-linecap="round"/>
+ <path d="M915 136L922 141L915 146" stroke="#B6A5F8" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+ <circle r="4" fill="#DAEFFF" stroke="#A99BF1" stroke-width=".8">
+   <animateMotion path="M882 141H929" dur="5s" repeatCount="indefinite"/>
+ </circle>
+ <rect x=".6" y=".6" width="1198.8" height="272.8" rx="20.4" fill="none" stroke="#48627F" stroke-opacity=".72" stroke-width="1.2"/>
+</g></svg>
