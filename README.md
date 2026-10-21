@@ -42,14 +42,34 @@
   <img src="./assets/selected-projects-cinematic.svg" width="100%" alt="Selected Projects animated stories: Mizan Finance depicts choosing a wallet account, saving an income or expense entry, updating a financial summary and account balance. Smart University Library shows a book moving from shelf to student and returning, with loan status and records updated and fines checked when overdue. Illustrative data; both repositories are private." />
 </div>
 
----
+<br />
 
 <div align="center">
-  <b>Code. Learn. Improve. Repeat.</b>
-  <br /><br />
-  <a href="https://github.com/khalilayesh6?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-174D69?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my GitHub repositories" />
-  </a>
-  <br /><br />
-  <sub>Made with curiosity and a focus on better backend development.</sub>
+  <img src="./assets/github-activity.svg" width="100%" alt="Recent public GitHub profile repository activity: merged PR #8 for grouped projects, PR #9 for purposeful workflow animations, and PR #10 for cinematic system stories. Historical snapshot dated October 21 2026, not live contribution statistics." />
 </div>
+
+<p align="center">
+  <a href="https://github.com/khalilayesh6?tab=overview">
+    <img src="https://img.shields.io/badge/VIEW%20GITHUB%20ACTIVITY-153D57?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View live GitHub activity" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/khalilayesh6/khalilayesh6/commits/main">
+    <img src="https://img.shields.io/badge/RECENT%20PUBLIC%20COMMITS-2C315C?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="See recent profile repository commits" />
+  </a>
+</p>
+
+<br />
+
+<div align="center">
+  <img src="./assets/connect-footer.svg" width="100%" alt="Let's Connect: Keep learning and building. Find the verified GitHub profile and explore available public repositories." />
+</div>
+
+<p align="center">
+  <a href="https://github.com/khalilayesh6">
+    <img src="https://img.shields.io/badge/GITHUB%20PROFILE-17536D?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Open Khalil's GitHub profile" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/khalilayesh6?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE%20REPOSITORIES-453775?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore public GitHub repositories" />
+  </a>
+</p>
