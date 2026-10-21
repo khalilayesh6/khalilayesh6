@@ -39,7 +39,13 @@
 <br />
 
 <div align="center">
-  <img src="./assets/featured-finance-v2.svg" width="100%" alt="Featured project case study: Finance Management System. Goal: organized financial activity. Includes accounts, transactions, and reporting. Source code remains private." />
+  <img src="./assets/featured-mizan-v3.svg" width="100%" alt="Featured project 1: Mizan Finance Management System. Accounts, transactions and reporting. Source code is private." />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="./assets/featured-library-v1.svg" width="100%" alt="Featured project 2: Smart University Library Management System. Java, JavaFX, Maven, books, students, borrowing, returns, fines and file storage. Source code is private." />
 </div>
 
 ---
