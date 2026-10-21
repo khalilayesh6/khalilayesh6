@@ -1,79 +1,51 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/editorial-hero-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/editorial-hero-light.svg" />
-    <img src="./assets/editorial-hero-light.svg" width="100%" alt="Khalil Ayesh — large editorial backend developer introduction with a moving application-to-database system diagram." />
-  </picture>
+  <img src="./assets/hero.svg" width="100%" alt="Khalil Ayesh — Backend Developer. Animated dark technical banner." />
 </div>
 
 <br />
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/about-github-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/about-github-light.svg" />
-    <img src="./assets/about-github-light.svg" width="100%" alt="About Me — Backend-focused developer. I build practical projects and explore the logic behind APIs, databases, and backend systems." />
-  </picture>
-</div>
-
-<br />
-
-<p align="center">
-  <code>BACKEND DEVELOPMENT</code>
-  &nbsp;&nbsp;
-  <code>ALWAYS LEARNING</code>
-</p>
-
-<br />
-
-<h3 align="center">What I’m Exploring</h3>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/focus-github-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/focus-github-light.svg" />
-    <img src="./assets/focus-github-light.svg" width="100%" alt="Learning focus: API development, databases, and better code." />
-  </picture>
+  <img src="./assets/about.svg" width="100%" alt="About Me — Backend-focused developer. I build practical projects and explore the logic behind APIs, databases, and backend systems." />
 </div>
 
 <br />
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/editorial-stack-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/editorial-stack-light.svg" />
-    <img src="./assets/editorial-stack-light.svg" width="100%" alt="Developer Toolkit: three architectural cards for PHP and Laravel, MySQL, and Git/GitHub, with Java listed separately as learning." />
-  </picture>
+  <img src="https://img.shields.io/badge/FOCUS-BACKEND%20DEVELOPMENT-10243A?style=flat-square&amp;labelColor=14253A&amp;color=167B97" alt="Backend development focus" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/MINDSET-ALWAYS%20LEARNING-231B42?style=flat-square&amp;labelColor=182438&amp;color=7867C7" alt="Always learning" />
+</div>
+
+<br />
+
+### ✦ What I'm exploring
+
+<div align="center">
+  <img src="./assets/focus.svg" width="100%" alt="Learning focus: API development, databases, and better code." />
 </div>
 
 <br />
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/how-i-build-github-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/how-i-build-github-light.svg" />
-    <img src="./assets/how-i-build-github-light.svg" width="100%" alt="How I approach building: Understand the problem, design the data, build logic, test and debug, then improve through continuous iteration." />
-  </picture>
+  <img src="./assets/tech-stack-flow.svg" width="100%" alt="Developer Toolkit: backend and languages PHP, Laravel, Java; database MySQL; version control Git and GitHub. Technologies I am learning and building with." />
 </div>
 
 <br />
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/editorial-projects-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/editorial-projects-light.svg" />
-    <img src="./assets/editorial-projects-light.svg" width="100%" alt="Selected Projects: illustrated Mizan Finance workflow from account through saved transaction to updated report, and Smart University Library book circulation from catalog to borrower and back. Conceptual animations with illustrative values; repositories are private." />
-  </picture>
+  <img src="./assets/how-i-build.svg" width="100%" alt="How I approach building: Understand the problem, design the data, build logic, test and debug, then improve through continuous iteration." />
 </div>
 
 <br />
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/mizan-ui-evidence-github-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/mizan-ui-evidence-github-light.svg" />
-    <img src="./assets/mizan-ui-evidence-github-light.svg" width="100%" alt="Mizan Finance interface study — an illustrative vector overview informed by the supplied application screenshots, covering the dashboard, accounts, transactions, debt tracking, reconciliation, budgets, and financial reporting." />
-  </picture>
+  <img src="./assets/selected-projects-cinematic.svg" width="100%" alt="Selected Projects animated stories: Mizan Finance depicts choosing a wallet account, saving an income or expense entry, updating a financial summary and account balance. Smart University Library shows a book moving from shelf to student and returning, with loan status and records updated and fines checked when overdue. Illustrative data; both repositories are private." />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="./assets/mizan-ui-evidence.svg" width="100%" alt="Mizan Finance interface study — an illustrative vector overview informed by the supplied application screenshots, covering the dashboard, accounts, transactions, debt tracking, reconciliation, budgets, and financial reporting." />
 </div>
 
 <p align="center"><sub>Screen-based illustration. The actual application screenshots are shared separately for review.</sub></p>
