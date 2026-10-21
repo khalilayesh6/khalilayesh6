@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="370" viewBox="0 0 1200 370" role="img" aria-labelledby="title description">
 <title id="title">Backend System Map — Logic, Data, and Code Quality</title>
-<desc id="description">Ambient-edge integrated GitHub design, coherent cyan-violet identity. Dark GitHub theme with transparent outer background. APIs and business logic exchange data with the database through two animated light paths. Code quality, testing, debugging and refactoring form a shared foundation that supports both.</desc>
+<desc id="description">GitHub-native flat canvas: no image-wide background, no atmospheric overlays, dark contrast. Ambient-edge integrated GitHub design, coherent cyan-violet identity. Dark GitHub theme with transparent outer background. APIs and business logic exchange data with the database through two animated light paths. Code quality, testing, debugging and refactoring form a shared foundation that supports both.</desc>
 <defs>
   <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
     <stop offset="0" stop-color="#091525"/>
@@ -13,9 +13,9 @@
     <stop offset="1" stop-color="#ac91fa"/>
   </linearGradient>
   <linearGradient id="quality" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0" stop-color="#112941"/>
-    <stop offset=".54" stop-color="#12263f"/>
-    <stop offset="1" stop-color="#20213f"/>
+    <stop offset="0" stop-color="#151B23"/>
+    <stop offset=".54" stop-color="#212830"/>
+    <stop offset="1" stop-color="#212830"/>
   </linearGradient>
   <radialGradient id="glow">
     <stop offset="0" stop-color="#2993d3" stop-opacity=".23"/>
@@ -25,12 +25,12 @@
     <path d="M34 0H0V34" fill="none" stroke="#9bb3dc" stroke-width=".6" stroke-opacity=".08"/>
   </pattern>
   <clipPath id="frame"><rect width="1200" height="370" rx="20"/></clipPath>
-<radialGradient id="ghAmbientCyan" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#37BDD7" stop-opacity=".15"/><stop offset=".55" stop-color="#2A9DBF" stop-opacity=".045"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></radialGradient><radialGradient id="ghAmbientViolet" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#8C76EA" stop-opacity=".12"/><stop offset=".60" stop-color="#A99AF2" stop-opacity=".045"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></radialGradient><linearGradient id="ghIdentityRail" gradientUnits="userSpaceOnUse" x1="0" y1="45" x2="0" y2="325"><stop offset="0" stop-color="#5FCFE6" stop-opacity="0"/><stop offset=".24" stop-color="#5FCFE6" stop-opacity=".48"/><stop offset=".72" stop-color="#AD9BF3" stop-opacity=".36"/><stop offset="1" stop-color="#AD9BF3" stop-opacity="0"/></linearGradient></defs>
+</defs>
 <g clip-path="url(#frame)">
-<g aria-hidden="true"><ellipse cx="304" cy="170" rx="260" ry="159" fill="url(#ghAmbientCyan)"/><ellipse cx="894" cy="192" rx="267" ry="159" fill="url(#ghAmbientViolet)"/><path d="M27 46V325" fill="none" stroke="url(#ghIdentityRail)" stroke-width="2.2" stroke-linecap="round"/><circle cx="27" cy="167" r="3.3" fill="#78DBE5" opacity=".54"/></g>
+
   
   
-  <circle cx="601" cy="124" r="365" fill="url(#glow)"/>
+  
   
   
 
@@ -54,7 +54,7 @@
   </circle>
 
   <!-- Application node -->
-  <rect x="35" y="72" width="492" height="170" rx="16" fill="#101f34" stroke="#2E435B" stroke-width="1.15"/>
+  <rect x="35" y="72" width="492" height="170" rx="16" fill="#151B23" stroke="#30363D" stroke-width="1.15"/>
   <path d="M52 73H510" stroke="#5bdaec" stroke-width="2.8" stroke-linecap="round"/>
   <rect x="56" y="96" width="49" height="49" rx="12" fill="#14364b" stroke="#37758e"/>
   <path d="M74 109L65 120L74 131M89 109L98 120L89 131M85 105L79 135" stroke="#73e1f0" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
@@ -65,7 +65,7 @@
   <text x="57" y="217" font-family="monospace" font-size="13" fill="#7faac9" letter-spacing=".5">ROUTES  /  ENDPOINTS  /  BEHAVIOR</text>
 
   <!-- Data node -->
-  <rect x="673" y="72" width="492" height="170" rx="16" fill="#121e36" stroke="#2E435B" stroke-width="1.15"/>
+  <rect x="673" y="72" width="492" height="170" rx="16" fill="#151B23" stroke="#30363D" stroke-width="1.15"/>
   <path d="M690 73H1148" stroke="#a395fb" stroke-width="2.8" stroke-linecap="round"/>
   <rect x="694" y="96" width="49" height="49" rx="12" fill="#272844" stroke="#6a5ea2"/>
   <ellipse cx="718.5" cy="110" rx="14" ry="5.5" fill="none" stroke="#b3a3ff" stroke-width="2"/>
