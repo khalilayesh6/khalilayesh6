@@ -39,7 +39,7 @@
 <br />
 
 <div align="center">
-  <img src="./assets/selected-projects-group.svg" width="100%" alt="Selected Projects: a unified showcase with two project cards. Mizan Finance covers accounts, transactions, and financial reporting. Smart University Library is a Java/JavaFX desktop project covering library items, students, borrowing, returns, and fines. Both source repositories are private." />
+  <img src="./assets/selected-projects-storyflow.svg" width="100%" alt="Selected Projects: Mizan Finance workflow animates account selection, transaction recording, and report updates. Smart University Library workflow shows catalog, borrowing and returns, with a return signal and record and fine updates. Both source repositories remain private." />
 </div>
 
 ---
