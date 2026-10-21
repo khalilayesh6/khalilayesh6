@@ -32,8 +32,6 @@
 
 <br />
 
-<br />
-
 <div align="center">
   <img src="./assets/how-i-build.svg" width="100%" alt="How I approach building: Understand the problem, design the data, build logic, test and debug, then improve through continuous iteration." />
 </div>
