@@ -1,18 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="386" viewBox="0 0 1200 386" role="img" aria-labelledby="title desc">
 <title id="title">How I approach building — a continuous development cycle</title>
-<desc id="desc">Ambient-edge integrated GitHub design, coherent cyan-violet identity. Dark GitHub theme with transparent outer background. Five connected stages: understand the problem, design the data, build the logic, test and debug, and improve. An animated light follows the workflow then returns along a feedback line to represent continuous learning and iteration.</desc>
+<desc id="desc">Flat GitHub canvas with no photo-frame background or ambient haze, optimized for dark contrast. Ambient-edge integrated GitHub design, coherent cyan-violet identity. Dark GitHub theme with transparent outer background. Five connected stages: understand the problem, design the data, build the logic, test and debug, and improve. An animated light follows the workflow then returns along a feedback line to represent continuous learning and iteration.</desc>
 <defs>
- <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#091322"/><stop offset=".55" stop-color="#0c1930"/><stop offset="1" stop-color="#171437"/></linearGradient>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#091322"/><stop offset=".55" stop-color="#0c1930"/><stop offset="1" stop-color="#151B23"/></linearGradient>
  <linearGradient id="progress" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#5cdef5"/><stop offset=".54" stop-color="#5a90dd"/><stop offset="1" stop-color="#b098fc"/></linearGradient>
  <radialGradient id="halo"><stop offset="0" stop-color="#277aca" stop-opacity=".22"/><stop offset="1" stop-color="#277aca" stop-opacity="0"/></radialGradient>
  <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#acc8ff" stroke-width=".55" opacity=".055"/></pattern>
  <clipPath id="clip"><rect width="1200" height="386" rx="21"/></clipPath>
-<radialGradient id="ghAmbientCyan"><stop offset="0" stop-color="#37BDD7" stop-opacity=".15"/><stop offset=".55" stop-color="#2A9DBF" stop-opacity=".045"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></radialGradient><radialGradient id="ghAmbientViolet"><stop offset="0" stop-color="#8C76EA" stop-opacity=".12"/><stop offset=".60" stop-color="#A99AF2" stop-opacity=".045"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></radialGradient><linearGradient id="ghIdentityRail" gradientUnits="userSpaceOnUse" x1="0" y1="45" x2="0" y2="341"><stop offset="0" stop-color="#5FCFE6" stop-opacity="0"/><stop offset=".24" stop-color="#5FCFE6" stop-opacity=".48"/><stop offset=".72" stop-color="#AD9BF3" stop-opacity=".36"/><stop offset="1" stop-color="#AD9BF3" stop-opacity="0"/></linearGradient></defs>
+</defs>
 <g clip-path="url(#clip)" font-family="Arial,Helvetica,sans-serif">
-<g aria-hidden="true"><ellipse cx="304" cy="178" rx="260" ry="166" fill="url(#ghAmbientCyan)"/><ellipse cx="894" cy="201" rx="267" ry="166" fill="url(#ghAmbientViolet)"/><path d="M27 46V341" fill="none" stroke="url(#ghIdentityRail)" stroke-width="2.2" stroke-linecap="round"/><circle cx="27" cy="174" r="3.3" fill="#78DBE5" opacity=".54"/></g>
+
  
  
- <circle cx="680" cy="188" r="360" fill="url(#halo)"/>
+ 
  
  
  <rect x="44" y="22" width="194" height="30" rx="15" fill="#112e43" stroke="#2f617b"/>
@@ -32,7 +32,7 @@
  <text x="600" y="373" text-anchor="middle" font-family="monospace" font-size="13" letter-spacing="2" fill="#91b2c8">REVIEW  /  LEARN  /  ITERATE</text>
 
 <g>
-  <rect x="44" y="127" width="208" height="157" rx="15" fill="#112039" stroke="#334f70" stroke-width="1.3"/>
+  <rect x="44" y="127" width="208" height="157" rx="15" fill="#151B23" stroke="#334f70" stroke-width="1.3"/>
   <path d="M60 128H236" fill="none" stroke="#6de0ed" stroke-width="2.8" stroke-linecap="round" opacity=".85"/>
   <text x="62" y="160" font-size="13" font-weight="700" fill="#6de0ed" letter-spacing="1.4">01 / STEP</text>
   <rect x="197" y="143" width="38" height="38" rx="11" fill="#1b304b" stroke="#6de0ed" stroke-opacity=".5"/>
@@ -43,7 +43,7 @@
  </g>
 <circle cx="216" cy="162" r="11" stroke="#6de0ed" stroke-width="2" fill="none"/><circle cx="216" cy="162" r="4.7" stroke="#6de0ed" stroke-width="1.6" fill="none"/><circle cx="216" cy="162" r="1.7" fill="#6de0ed"/>
 <g>
-  <rect x="270" y="127" width="208" height="157" rx="15" fill="#112039" stroke="#334f70" stroke-width="1.3"/>
+  <rect x="270" y="127" width="208" height="157" rx="15" fill="#151B23" stroke="#334f70" stroke-width="1.3"/>
   <path d="M286 128H462" fill="none" stroke="#8fb8ff" stroke-width="2.8" stroke-linecap="round" opacity=".85"/>
   <text x="288" y="160" font-size="13" font-weight="700" fill="#8fb8ff" letter-spacing="1.4">02 / STEP</text>
   <rect x="423" y="143" width="38" height="38" rx="11" fill="#1b304b" stroke="#8fb8ff" stroke-opacity=".5"/>
@@ -54,7 +54,7 @@
  </g>
 <ellipse cx="442" cy="155" rx="11.5" ry="4.8" stroke="#8fb8ff" stroke-width="1.8" fill="none"/><path d="M430.5 155V171C430.5 178 453.5 178 453.5 171V155 M430.5 163C430.5 169 453.5 169 453.5 163" stroke="#8fb8ff" stroke-width="1.7" fill="none"/>
 <g>
-  <rect x="496" y="127" width="208" height="157" rx="15" fill="#112039" stroke="#334f70" stroke-width="1.3"/>
+  <rect x="496" y="127" width="208" height="157" rx="15" fill="#151B23" stroke="#334f70" stroke-width="1.3"/>
   <path d="M512 128H688" fill="none" stroke="#b09bfa" stroke-width="2.8" stroke-linecap="round" opacity=".85"/>
   <text x="514" y="160" font-size="13" font-weight="700" fill="#b09bfa" letter-spacing="1.4">03 / STEP</text>
   <rect x="649" y="143" width="38" height="38" rx="11" fill="#1b304b" stroke="#b09bfa" stroke-opacity=".5"/>
@@ -65,7 +65,7 @@
  </g>
 <path d="M660 153l-9 9 9 9m16-18 9 9-9 9m-3-23-9 28" fill="none" stroke="#b09bfa" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"/>
 <g>
-  <rect x="722" y="127" width="208" height="157" rx="15" fill="#112039" stroke="#334f70" stroke-width="1.3"/>
+  <rect x="722" y="127" width="208" height="157" rx="15" fill="#151B23" stroke="#334f70" stroke-width="1.3"/>
   <path d="M738 128H914" fill="none" stroke="#78cce9" stroke-width="2.8" stroke-linecap="round" opacity=".85"/>
   <text x="740" y="160" font-size="13" font-weight="700" fill="#78cce9" letter-spacing="1.4">04 / STEP</text>
   <rect x="875" y="143" width="38" height="38" rx="11" fill="#1b304b" stroke="#78cce9" stroke-opacity=".5"/>
@@ -76,7 +76,7 @@
  </g>
 <path d="M881 163l8 8 17-19" fill="none" stroke="#78cce9" stroke-width="2.9" stroke-linecap="round" stroke-linejoin="round"/><circle cx="894" cy="162" r="13.2" fill="none" stroke="#78cce9" stroke-opacity=".5" stroke-width="1.3"/>
 <g>
-  <rect x="948" y="127" width="208" height="157" rx="15" fill="#112039" stroke="#334f70" stroke-width="1.3"/>
+  <rect x="948" y="127" width="208" height="157" rx="15" fill="#151B23" stroke="#334f70" stroke-width="1.3"/>
   <path d="M964 128H1140" fill="none" stroke="#71e0c6" stroke-width="2.8" stroke-linecap="round" opacity=".85"/>
   <text x="966" y="160" font-size="13" font-weight="700" fill="#71e0c6" letter-spacing="1.4">05 / STEP</text>
   <rect x="1101" y="143" width="38" height="38" rx="11" fill="#1b304b" stroke="#71e0c6" stroke-opacity=".5"/>
