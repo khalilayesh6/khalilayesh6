@@ -27,7 +27,7 @@
 <br />
 
 <div align="center">
-  <img src="./assets/tech-stack-clean.svg" width="100%" alt="Developer Toolkit: backend and languages PHP, Laravel, Java; database MySQL; version control Git and GitHub. Technologies I am learning and building with." />
+  <img src="./assets/tech-stack-flow.svg" width="100%" alt="Developer Toolkit: backend and languages PHP, Laravel, Java; database MySQL; version control Git and GitHub. Technologies I am learning and building with." />
 </div>
 
 <br />
