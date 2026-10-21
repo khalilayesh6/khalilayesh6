@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="370" viewBox="0 0 1200 370" role="img" aria-labelledby="title description">
 <title id="title">Backend System Map — Logic, Data, and Code Quality</title>
-<desc id="description">GitHub-native flat canvas: no image-wide background, no atmospheric overlays, dark contrast. Ambient-edge integrated GitHub design, coherent cyan-violet identity. Dark GitHub theme with transparent outer background. APIs and business logic exchange data with the database through two animated light paths. Code quality, testing, debugging and refactoring form a shared foundation that supports both.</desc>
+<desc id="description">Unified hierarchy, high contrast type and calm native GitHub card strokes. GitHub-native flat canvas: no image-wide background, no atmospheric overlays, dark contrast. Ambient-edge integrated GitHub design, coherent cyan-violet identity. Dark GitHub theme with transparent outer background. APIs and business logic exchange data with the database through two animated light paths. Code quality, testing, debugging and refactoring form a shared foundation that supports both.</desc>
 <defs>
   <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
     <stop offset="0" stop-color="#091525"/>
@@ -39,8 +39,8 @@
   <circle cx="54" cy="38" r="4.5" fill="#54ddb7">
     <animate attributeName="opacity" values=".5;1;.5" dur="3s" repeatCount="indefinite"/>
   </circle>
-  <text x="70" y="43" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="13" letter-spacing="1.5" fill="#bce9f1">BACKEND SYSTEM MAP</text>
-  <text x="1162" y="43" text-anchor="end" font-family="monospace" font-size="13" letter-spacing="1" fill="#839ebc">ONE SYSTEM · CONNECTED DISCIPLINES</text>
+  <text x="70" y="43" font-family="Segoe UI,Arial,Helvetica,sans-serif" font-weight="700" font-size="13" letter-spacing="1.08" fill="#72D8EC">BACKEND SYSTEM MAP</text>
+  <text x="1162" y="43" text-anchor="end" font-family="Consolas,Liberation Mono,monospace" font-size="13" letter-spacing="1" fill="#A7B2BE">ONE SYSTEM · CONNECTED DISCIPLINES</text>
 
   <!-- Shared quality-layer connections (behind cards). -->
   <path d="M270 241V277M930 241V277" stroke="#537b9c" stroke-width="2" fill="none" stroke-dasharray="4 6"/>
@@ -54,31 +54,31 @@
   </circle>
 
   <!-- Application node -->
-  <rect x="35" y="72" width="492" height="170" rx="16" fill="#151B23" stroke="#30363D" stroke-width="1.15"/>
+  <rect x="35" y="72" width="492" height="170" rx="14" fill="#151B23" stroke="#3D444D" stroke-width="1.15"/>
   <path d="M52 73H510" stroke="#5bdaec" stroke-width="2.8" stroke-linecap="round"/>
   <rect x="56" y="96" width="49" height="49" rx="12" fill="#14364b" stroke="#37758e"/>
   <path d="M74 109L65 120L74 131M89 109L98 120L89 131M85 105L79 135" stroke="#73e1f0" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
-  <text x="123" y="111" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="1.65" fill="#60d9ec">APPLICATION LAYER</text>
-  <text x="122" y="141" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="800" letter-spacing="-.5" fill="#f2f7ff">APIs &amp; Logic</text>
+  <text x="123" y="111" font-family="Segoe UI,Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="1.19" fill="#72D8EC">APPLICATION LAYER</text>
+  <text x="122" y="141" font-family="Segoe UI,Arial,Helvetica,sans-serif" font-size="30" font-weight="700" letter-spacing="-0.4" fill="#F0F6FC">APIs &amp; Logic</text>
   <path d="M57 161H497" stroke="#2e4b66" stroke-width="1"/>
-  <text x="57" y="189" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#bdd1e5">Requests, validation &amp; business logic</text>
-  <text x="57" y="217" font-family="monospace" font-size="13" fill="#7faac9" letter-spacing=".5">ROUTES  /  ENDPOINTS  /  BEHAVIOR</text>
+  <text x="57" y="189" font-family="Segoe UI,Arial,Helvetica,sans-serif" font-size="18" fill="#C9D1D9">Requests, validation &amp; business logic</text>
+  <text x="57" y="217" font-family="Consolas,Liberation Mono,monospace" font-size="13" fill="#A7B2BE" letter-spacing="0.5">ROUTES  /  ENDPOINTS  /  BEHAVIOR</text>
 
   <!-- Data node -->
-  <rect x="673" y="72" width="492" height="170" rx="16" fill="#151B23" stroke="#30363D" stroke-width="1.15"/>
+  <rect x="673" y="72" width="492" height="170" rx="14" fill="#151B23" stroke="#3D444D" stroke-width="1.15"/>
   <path d="M690 73H1148" stroke="#a395fb" stroke-width="2.8" stroke-linecap="round"/>
   <rect x="694" y="96" width="49" height="49" rx="12" fill="#272844" stroke="#6a5ea2"/>
   <ellipse cx="718.5" cy="110" rx="14" ry="5.5" fill="none" stroke="#b3a3ff" stroke-width="2"/>
   <path d="M704.5 110V128C704.5 135 732.5 135 732.5 128V110M704.5 119C704.5 126 732.5 126 732.5 119" fill="none" stroke="#b3a3ff" stroke-width="2"/>
-  <text x="761" y="111" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="1.65" fill="#b29ef6">DATA LAYER</text>
-  <text x="760" y="141" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="800" letter-spacing="-.5" fill="#f2f7ff">Database Design</text>
+  <text x="761" y="111" font-family="Segoe UI,Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="1.19" fill="#C1A7F7">DATA LAYER</text>
+  <text x="760" y="141" font-family="Segoe UI,Arial,Helvetica,sans-serif" font-size="30" font-weight="700" letter-spacing="-0.4" fill="#F0F6FC">Database Design</text>
   <path d="M695 161H1135" stroke="#3d4266" stroke-width="1"/>
-  <text x="695" y="189" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#bdd1e5">Models, relationships &amp; queries</text>
-  <text x="695" y="217" font-family="monospace" font-size="13" fill="#a69fd9" letter-spacing=".5">STRUCTURE  /  STORE  /  RETRIEVE</text>
+  <text x="695" y="189" font-family="Segoe UI,Arial,Helvetica,sans-serif" font-size="18" fill="#C9D1D9">Models, relationships &amp; queries</text>
+  <text x="695" y="217" font-family="Consolas,Liberation Mono,monospace" font-size="13" fill="#A7B2BE" letter-spacing="0.5">STRUCTURE  /  STORE  /  RETRIEVE</text>
 
   <!-- Two-way communication tracks -->
   <rect x="542" y="82" width="116" height="29" rx="14.5" fill="#162a43" stroke="#3d6085"/>
-  <text x="600" y="102" font-family="monospace" font-size="12" font-weight="700" text-anchor="middle" fill="#b9d5eb" letter-spacing="1.25">DATA FLOW</text>
+  <text x="600" y="102" font-family="Consolas,Liberation Mono,monospace" font-size="12" font-weight="700" text-anchor="middle" fill="#C1A7F7" letter-spacing="1.25">DATA FLOW</text>
   <path d="M534 151H665" stroke="#4f7fa2" stroke-width="2.5" fill="none" stroke-linecap="round"/>
   <path d="M534 187H665" stroke="#615b91" stroke-width="2.5" fill="none" stroke-linecap="round"/>
   <path d="M660 145L668 151L660 157" fill="none" stroke="#68deef" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
@@ -91,16 +91,16 @@
   </circle>
 
   <!-- Continuous reliability layer -->
-  <rect x="35" y="276" width="1130" height="70" rx="14" fill="url(#quality)" stroke="#466587" stroke-width="1.4"/>
+  <rect x="35" y="276" width="1130" height="70" rx="14" fill="url(#quality)" stroke="#3D444D" stroke-width="1.2"/>
   <path d="M51 277H1149" stroke="url(#edge)" stroke-width="2.5" stroke-linecap="round"/>
   <rect x="56" y="289" width="44" height="44" rx="11" fill="#14364a" stroke="#4a8b9c"/>
   <path d="M78 297L91 302V312C91 322 86 327 78 330C70 327 65 322 65 312V302Z" fill="none" stroke="#70e4dc" stroke-width="2.2" stroke-linejoin="round"/>
   <path d="M72 313L76 317L84 308" fill="none" stroke="#70e4dc" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="119" y="311" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="800" fill="#f2f7ff">Code Quality</text>
-  <text x="120" y="333" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#b7cde1">Testing · Debugging · Refactoring</text>
+  <text x="119" y="311" font-family="Segoe UI,Arial,Helvetica,sans-serif" font-size="24" font-weight="700" fill="#F0F6FC">Code Quality</text>
+  <text x="120" y="333" font-family="Segoe UI,Arial,Helvetica,sans-serif" font-size="16" fill="#C9D1D9">Testing · Debugging · Refactoring</text>
   <rect x="889" y="295" width="250" height="31" rx="15.5" fill="#1b2e48" stroke="#43678c"/>
   <circle cx="907" cy="310.5" r="4" fill="#67e0c5"/>
-  <text x="920" y="316" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="1" fill="#add4e8">SUPPORTS BOTH LAYERS</text>
+  <text x="920" y="316" font-family="Segoe UI,Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="1" fill="#72D8EC">SUPPORTS BOTH LAYERS</text>
 
   
 </g>
