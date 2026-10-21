@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="366" viewBox="0 0 1200 366" role="img" aria-labelledby="title desc">
 <title id="title">My developer toolkit — application, data and workflow</title>
-<desc id="desc">Dark GitHub theme with transparent outer background. An animated visual shows PHP and Laravel used for application logic exchanging data with MySQL, and changes flowing from Git to GitHub. Java is shown separately as another language being learned.</desc>
+<desc id="desc">Ambient-edge integrated GitHub design, coherent cyan-violet identity. Dark GitHub theme with transparent outer background. An animated visual shows PHP and Laravel used for application logic exchanging data with MySQL, and changes flowing from Git to GitHub. Java is shown separately as another language being learned.</desc>
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
     <stop offset="0" stop-color="#091321"/>
@@ -17,8 +17,9 @@
     <stop offset="1" stop-color="#2772c1" stop-opacity="0"/>
   </radialGradient>
   <clipPath id="clip"><rect width="1200" height="366" rx="20"/></clipPath>
-</defs>
+<radialGradient id="ghAmbientCyan"><stop offset="0" stop-color="#37BDD7" stop-opacity=".15"/><stop offset=".55" stop-color="#2A9DBF" stop-opacity=".045"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></radialGradient><radialGradient id="ghAmbientViolet"><stop offset="0" stop-color="#8C76EA" stop-opacity=".12"/><stop offset=".6" stop-color="#A99AF2" stop-opacity=".045"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></radialGradient><linearGradient id="ghIdentityRail" gradientUnits="userSpaceOnUse" x1="0" y1="45" x2="0" y2="321"><stop offset="0" stop-color="#5FCFE6" stop-opacity="0"/><stop offset=".24" stop-color="#5FCFE6" stop-opacity=".48"/><stop offset=".72" stop-color="#AD9BF3" stop-opacity=".36"/><stop offset="1" stop-color="#AD9BF3" stop-opacity="0"/></linearGradient></defs>
 <g clip-path="url(#clip)" font-family="Arial,Helvetica,sans-serif">
+<g aria-hidden="true"><ellipse cx="304" cy="168" rx="260" ry="157" fill="url(#ghAmbientCyan)"/><ellipse cx="894" cy="190" rx="267" ry="157" fill="url(#ghAmbientViolet)"/><path d="M27 46V321" fill="none" stroke="url(#ghIdentityRail)" stroke-width="2.2" stroke-linecap="round"/><circle cx="27" cy="165" r="3.3" fill="#78DBE5" opacity=".54"/></g>
   
   <circle cx="858" cy="153" r="332" fill="url(#halo)"/>
   
@@ -42,7 +43,7 @@
   <text x="402" y="55" font-size="13.5" font-weight="700" letter-spacing="1.8" fill="#76ddeb">01 / APPLICATION &amp; DATA</text>
   <text x="1159" y="55" font-size="12.5" font-family="monospace" text-anchor="end" letter-spacing="1.2" fill="#809bbd">REQUEST / RESPONSE</text>
 
-  <rect x="402" y="79" width="405" height="127" rx="15" fill="#101f34" stroke="#35627f" stroke-width="1.35"/>
+  <rect x="402" y="79" width="405" height="127" rx="15" fill="#101f34" stroke="#2E435B" stroke-width="1.15"/>
   <path d="M419 80H790" stroke="#5bd9e9" stroke-width="2.8" stroke-linecap="round"/>
   <rect x="424" y="104" width="54" height="54" rx="12" fill="#153548" stroke="#39778e"/>
   <path d="M443 119L435 131L443 143M459 119L467 131L459 143M455 114L448 148" fill="none" stroke="#72e2f0" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/>
