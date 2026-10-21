@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600" role="img" aria-labelledby="t d">
+<title id="t">Mizan Finance interface study</title><desc id="d">Dark GitHub theme with transparent outer background. Illustrative vector diagram based on actual screenshots provided by the owner. This is not a raw screenshot. Describes the financial dashboard, accounts, transactions, debts, reconciliation, budget planning and financial reports. No original transaction data or identifiers are published.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#091827"/><stop offset=".7" stop-color="#0D1E34"/><stop offset="1" stop-color="#1A1835"/></linearGradient><linearGradient id="grad" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#58E1E1"/><stop offset="1" stop-color="#B4A3FE"/></linearGradient><clipPath id="outer"><rect width="1200" height="600" rx="21"/></clipPath></defs>
+<g clip-path="url(#outer)" font-family="Arial,Helvetica,sans-serif">
+
+<rect x="39" y="27" width="232" height="29" rx="14.5" fill="#13344A" stroke="#356E84"/><circle cx="57" cy="41.5" r="4" fill="#66E3CC"/>
+<text x="71" y="46.5" font-size="12.5" letter-spacing="1.1" font-weight="700" fill="#B7E1EB">MIZAN / PRODUCT STUDY</text>
+<text x="40" y="106" fill="#F1F8FC" font-size="37" font-weight="800">Inside Mizan Finance</text>
+<text x="41" y="136" fill="#AAC7D7" font-size="17">Real product modules, mapped from the screenshots you provided.</text>
+<text x="1158" y="45" text-anchor="end" fill="#91ADC4" font-family="monospace" font-size="12">INTERFACE STRUCTURE</text>
+<text x="1158" y="62" text-anchor="end" fill="#91ADC4" font-family="monospace" font-size="11">NOT AN ORIGINAL SCREENSHOT</text>
+<rect x="39" y="160" width="1122" height="324" rx="17" fill="#152A3F" stroke="#45667C"/>
+<rect x="50" y="171" width="1100" height="302" rx="10" fill="#F4F7F9"/>
+<rect x="50" y="171" width="1100" height="34" rx="8" fill="#FFFFFF"/>
+<path d="M50 205H1150" stroke="#DCE5E9"/>
+<circle cx="74" cy="187" r="7" fill="#E6ECEE"/><circle cx="101" cy="187" r="7" fill="#E6ECEE"/>
+<rect x="956" y="205" width="194" height="268" fill="#FFFFFF"/><path d="M956 205V473" stroke="#DCE6EA"/>
+<rect x="974" y="217" width="159" height="45" rx="6" fill="#EFF6F3"/>
+<rect x="1095" y="224" width="29" height="29" rx="7" fill="#12856F"/>
+<path d="M1101 236L1110 230L1118 236L1110 246Z" fill="none" stroke="#E2FFF5" stroke-width="2"/>
+<text x="1084" y="245" fill="#15554E" text-anchor="end" font-size="16" font-weight="800">MIZAN</text>
+
+<rect x="969" y="264" width="166" height="24" rx="5" fill="#E9F3EE"/>
+<text x="1124" y="278" text-anchor="end" fill="#108369" font-size="11.7" font-weight="700">Overview</text>
+<text x="1124" y="304" text-anchor="end" fill="#778A99" font-size="11.7" font-weight="400">Transactions</text>
+<text x="1124" y="330" text-anchor="end" fill="#778A99" font-size="11.7" font-weight="400">Accounts &amp; Wallets</text>
+<text x="1124" y="356" text-anchor="end" fill="#778A99" font-size="11.7" font-weight="400">Debts</text>
+<text x="1124" y="382" text-anchor="end" fill="#778A99" font-size="11.7" font-weight="400">Reconciliation</text>
+<text x="1124" y="408" text-anchor="end" fill="#778A99" font-size="11.7" font-weight="400">Budgets</text>
+<text x="1124" y="434" text-anchor="end" fill="#778A99" font-size="11.7" font-weight="400">Reports</text>
+<text x="922" y="229" text-anchor="end" font-size="16" font-weight="800" fill="#253840">Financial overview</text>
+<text x="922" y="247" text-anchor="end" font-size="10" fill="#8398A5">Snapshot of accounts and everyday activity</text>
+<rect x="68" y="262" width="195" height="67" rx="9" fill="#FFFFFF" stroke="#D8E3E7"/>
+<text x="249" y="281" text-anchor="end" font-size="11" fill="#8599A6">Receivables</text><rect x="155" y="300" width="91" height="12" rx="6" fill="#DCEDEC"/>
+<rect x="276" y="262" width="195" height="67" rx="9" fill="#FFFFFF" stroke="#D8E3E7"/>
+<text x="457" y="281" text-anchor="end" font-size="11" fill="#8599A6">Payables</text><rect x="363" y="300" width="91" height="12" rx="6" fill="#F6ECE4"/>
+<rect x="484" y="262" width="195" height="67" rx="9" fill="#FFFFFF" stroke="#D8E3E7"/>
+<text x="665" y="281" text-anchor="end" font-size="11" fill="#8599A6">Balances</text><rect x="571" y="300" width="91" height="12" rx="6" fill="#E7F2ED"/>
+<rect x="692" y="262" width="234" height="67" rx="9" fill="#137B65" stroke="#137B65"/>
+<text x="912" y="281" text-anchor="end" font-size="11" fill="#C8EEE5">Net position</text><rect x="818" y="300" width="91" height="12" rx="6" fill="#BDEBD8"/>
+<rect x="68" y="343" width="308" height="113" rx="9" fill="#FFFFFF" stroke="#D9E4E9"/><rect x="390" y="343" width="536" height="113" rx="9" fill="#FFFFFF" stroke="#D9E4E9"/>
+<text x="359" y="360" font-size="11" text-anchor="end" fill="#607687" font-weight="700">Expense breakdown</text>
+<text x="909" y="360" font-size="11" text-anchor="end" fill="#607687" font-weight="700">Income vs spending</text>
+<circle cx="172" cy="405" r="32" fill="none" stroke="#E0EBEF" stroke-width="11"/>
+<circle cx="172" cy="405" r="32" fill="none" stroke="#2489AF" stroke-width="11" stroke-dasharray="84 201" transform="rotate(-90 172 405)"/>
+<circle cx="172" cy="405" r="32" fill="none" stroke="#128568" stroke-width="11" stroke-dasharray="54 201" stroke-dashoffset="-87" transform="rotate(-90 172 405)"/>
+<circle cx="172" cy="405" r="32" fill="none" stroke="#A8A1E7" stroke-width="11" stroke-dasharray="23 201" stroke-dashoffset="-143" transform="rotate(-90 172 405)"/>
+<path d="M411 432H904M411 408H904M411 385H904" stroke="#E9EFF2" stroke-dasharray="4 5"/>
+<path d="M421 438C463 402 494 371 539 371H897" fill="none" stroke="#158B71" stroke-width="3.2"/>
+<path d="M421 439H536C572 439 600 425 642 425H898" fill="none" stroke="#689EC8" stroke-dasharray="5 5" stroke-width="2"/>
+<text x="40" y="521" fill="#B9D0DD" font-weight="700" font-size="13" letter-spacing=".8">WHAT THE ACTUAL SCREENS DEMONSTRATE</text>
+<rect x="39" y="534" width="270" height="46" rx="8" fill="#142D41" stroke="#3E6077"/><circle cx="56" cy="547" r="4" fill="#64DCD5"/><text x="69" y="552" font-size="13.5" font-weight="700" fill="#EFF7FF">Accounts &amp; Wallets</text><text x="56" y="569" font-size="10.3" fill="#9CB9C8">Multi-currency accounts</text>
+<rect x="324" y="534" width="270" height="46" rx="8" fill="#142D41" stroke="#3E6077"/><circle cx="341" cy="547" r="4" fill="#86BBF4"/><text x="354" y="552" font-size="13.5" font-weight="700" fill="#EFF7FF">Money Movements</text><text x="341" y="569" font-size="10.3" fill="#9CB9C8">Income, expense, transfers</text>
+<rect x="609" y="534" width="270" height="46" rx="8" fill="#142D41" stroke="#3E6077"/><circle cx="626" cy="547" r="4" fill="#7DD7BA"/><text x="639" y="552" font-size="13.5" font-weight="700" fill="#EFF7FF">Debts &amp; Matching</text><text x="626" y="569" font-size="10.3" fill="#9CB9C8">Settlement, reconciliation</text>
+<rect x="894" y="534" width="270" height="46" rx="8" fill="#142D41" stroke="#3E6077"/><circle cx="911" cy="547" r="4" fill="#B3A3F8"/><text x="924" y="552" font-size="13.5" font-weight="700" fill="#EFF7FF">Reports &amp; Budgets</text><text x="911" y="569" font-size="10.3" fill="#9CB9C8">Exports, planning</text>
+
+</g></svg>
