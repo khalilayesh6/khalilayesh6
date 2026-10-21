@@ -32,11 +32,11 @@
 
 <br />
 
-### ✦ How I approach building
+<br />
 
-> **Understand the problem** → Design the data → Build the logic → Test → Keep improving.
-
-I value straightforward solutions, steady progress, and learning from every project.
+<div align="center">
+  <img src="./assets/how-i-build.svg" width="100%" alt="How I approach building: Understand the problem, design the data, build logic, test and debug, then improve through continuous iteration." />
+</div>
 
 ---
 
