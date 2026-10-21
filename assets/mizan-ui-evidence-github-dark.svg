@@ -1,7 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600" role="img" aria-labelledby="t d">
-<title id="t">Mizan Finance interface study</title><desc id="d">Dark GitHub theme with transparent outer background. Illustrative vector diagram based on actual screenshots provided by the owner. This is not a raw screenshot. Describes the financial dashboard, accounts, transactions, debts, reconciliation, budget planning and financial reports. No original transaction data or identifiers are published.</desc>
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#091827"/><stop offset=".7" stop-color="#0D1E34"/><stop offset="1" stop-color="#1A1835"/></linearGradient><linearGradient id="grad" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#58E1E1"/><stop offset="1" stop-color="#B4A3FE"/></linearGradient><clipPath id="outer"><rect width="1200" height="600" rx="21"/></clipPath></defs>
+<title id="t">Mizan Finance interface study</title><desc id="d">Ambient-edge integrated GitHub design, coherent cyan-violet identity. Dark GitHub theme with transparent outer background. Illustrative vector diagram based on actual screenshots provided by the owner. This is not a raw screenshot. Describes the financial dashboard, accounts, transactions, debts, reconciliation, budget planning and financial reports. No original transaction data or identifiers are published.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#091827"/><stop offset=".7" stop-color="#0D1E34"/><stop offset="1" stop-color="#1A1835"/></linearGradient><linearGradient id="grad" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#58E1E1"/><stop offset="1" stop-color="#B4A3FE"/></linearGradient><clipPath id="outer"><rect width="1200" height="600" rx="21"/></clipPath><radialGradient id="ghAmbientCyan"><stop offset="0" stop-color="#37BDD7" stop-opacity=".15"/><stop offset=".55" stop-color="#2A9DBF" stop-opacity=".045"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></radialGradient><radialGradient id="ghAmbientViolet"><stop offset="0" stop-color="#8C76EA" stop-opacity=".12"/><stop offset=".60" stop-color="#A99AF2" stop-opacity=".045"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></radialGradient><linearGradient id="ghIdentityRail" gradientUnits="userSpaceOnUse" x1="0" y1="45" x2="0" y2="555"><stop offset="0" stop-color="#5FCFE6" stop-opacity="0"/><stop offset=".24" stop-color="#5FCFE6" stop-opacity=".48"/><stop offset=".72" stop-color="#AD9BF3" stop-opacity=".36"/><stop offset="1" stop-color="#AD9BF3" stop-opacity="0"/></linearGradient></defs>
 <g clip-path="url(#outer)" font-family="Arial,Helvetica,sans-serif">
+<g aria-hidden="true"><ellipse cx="304" cy="276" rx="260" ry="258" fill="url(#ghAmbientCyan)"/><ellipse cx="894" cy="312" rx="267" ry="258" fill="url(#ghAmbientViolet)"/><path d="M27 46V555" fill="none" stroke="url(#ghIdentityRail)" stroke-width="2.2" stroke-linecap="round"/><circle cx="27" cy="270" r="3.3" fill="#78DBE5" opacity=".54"/></g>
 
 <rect x="39" y="27" width="232" height="29" rx="14.5" fill="#13344A" stroke="#356E84"/><circle cx="57" cy="41.5" r="4" fill="#66E3CC"/>
 <text x="71" y="46.5" font-size="12.5" letter-spacing="1.1" font-weight="700" fill="#B7E1EB">MIZAN / PRODUCT STUDY</text>
@@ -9,7 +10,7 @@
 <text x="41" y="136" fill="#AAC7D7" font-size="17">Real product modules, mapped from the screenshots you provided.</text>
 <text x="1158" y="45" text-anchor="end" fill="#91ADC4" font-family="monospace" font-size="12">INTERFACE STRUCTURE</text>
 <text x="1158" y="62" text-anchor="end" fill="#91ADC4" font-family="monospace" font-size="11">NOT AN ORIGINAL SCREENSHOT</text>
-<rect x="39" y="160" width="1122" height="324" rx="17" fill="#152A3F" stroke="#45667C"/>
+<rect x="39" y="160" width="1122" height="324" rx="17" fill="#152A3F" stroke="#2E435B"/>
 <rect x="50" y="171" width="1100" height="302" rx="10" fill="#F4F7F9"/>
 <rect x="50" y="171" width="1100" height="34" rx="8" fill="#FFFFFF"/>
 <path d="M50 205H1150" stroke="#DCE5E9"/>
@@ -38,7 +39,7 @@
 <text x="665" y="281" text-anchor="end" font-size="11" fill="#8599A6">Balances</text><rect x="571" y="300" width="91" height="12" rx="6" fill="#E7F2ED"/>
 <rect x="692" y="262" width="234" height="67" rx="9" fill="#137B65" stroke="#137B65"/>
 <text x="912" y="281" text-anchor="end" font-size="11" fill="#C8EEE5">Net position</text><rect x="818" y="300" width="91" height="12" rx="6" fill="#BDEBD8"/>
-<rect x="68" y="343" width="308" height="113" rx="9" fill="#FFFFFF" stroke="#D9E4E9"/><rect x="390" y="343" width="536" height="113" rx="9" fill="#FFFFFF" stroke="#D9E4E9"/>
+<rect x="68" y="343" width="308" height="113" rx="9" fill="#FFFFFF" stroke="#2E435B"/><rect x="390" y="343" width="536" height="113" rx="9" fill="#FFFFFF" stroke="#2E435B"/>
 <text x="359" y="360" font-size="11" text-anchor="end" fill="#607687" font-weight="700">Expense breakdown</text>
 <text x="909" y="360" font-size="11" text-anchor="end" fill="#607687" font-weight="700">Income vs spending</text>
 <circle cx="172" cy="405" r="32" fill="none" stroke="#E0EBEF" stroke-width="11"/>
