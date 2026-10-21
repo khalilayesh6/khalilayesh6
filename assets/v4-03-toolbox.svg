@@ -1,0 +1,141 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="339" viewBox="0 1080 920 339" role="img">
+<title>Khalil Ayesh profile section</title><desc id="desc">A cohesive dark navy developer profile for Khalil Ayesh. Sections include About, Focus, Technology Stack, Selected Work, Workflow, Activity, and Connect. Animated cyan and violet accents.</desc>
+<defs>
+ <linearGradient id="canvas" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071323"/><stop offset=".5" stop-color="#091b2e"/><stop offset="1" stop-color="#141531"/></linearGradient>
+ <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#63e0f0"/><stop offset=".54" stop-color="#528ae8"/><stop offset="1" stop-color="#b08df6"/></linearGradient>
+ <radialGradient id="halo"><stop stop-color="#1f8fd2" stop-opacity=".35"/><stop offset="1" stop-color="#1f8fd2" stop-opacity="0"/></radialGradient>
+ <radialGradient id="purple"><stop stop-color="#8e6cdd" stop-opacity=".18"/><stop offset="1" stop-color="#8e6cdd" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#9cbce1" stroke-opacity=".085" stroke-width=".7"/></pattern>
+ <clipPath id="outer"><rect width="920" height="2540" rx="24"/></clipPath>
+ </defs><g clip-path="url(#outer)">
+<rect width="920" height="2540" fill="url(#canvas)"/><rect width="920" height="2540" fill="url(#grid)"/>
+<rect x="0" y="0" width="920" height="5" fill="url(#accent)"/>
+<circle cx="740" cy="140" r="300" fill="url(#halo)"></circle>
+<circle cx="910" cy="460" r="300" fill="url(#purple)"/>
+<rect x="25" y="27" width="870" height="383" rx="20" fill="#0b1e32" stroke="#355672" />
+<line x1="55" y1="68" x2="855" y2="68" stroke="#2e516c" stroke-width="1" />
+<circle cx="66" cy="51" r="5" fill="#59dbb5" stroke="none" />
+<text x="84" y="57" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" fill="#b6cbe2" letter-spacing="2.2">KHALIL AYESH  /  DEVELOPER PROFILE</text>
+<text x="62" y="179" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="74" font-weight="800" fill="#f2f7ff" letter-spacing="-2.5">Khalil Ayesh</text>
+<text x="65" y="235" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="31" font-weight="750" fill="#68def1" letter-spacing="3.4">BACKEND DEVELOPER</text>
+<text x="65" y="283" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="500" fill="#b6cbe2" >Learning by building useful things.</text>
+<text x="65" y="315" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="500" fill="#b6cbe2" >Exploring systems, APIs and databases.</text>
+<rect x="62" y="337" width="792" height="45" rx="9" fill="#122c44" stroke="#2e5f78" />
+<text x="82" y="366" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21" font-weight="600" fill="#68def1" font-family="monospace">&gt;  learn()  →  build()  →  test()  →  improve()</text>
+<rect x="831" y="350" width="11" height="23" rx="2" fill="#68def1" stroke="none" />
+<circle cx="792" cy="160" r="90" fill="none" stroke="#5b9cc5" stroke-opacity=".22" stroke-width="1.5" stroke-dasharray="5 10"></circle>
+<circle cx="792" cy="160" r="64" fill="#10304d" fill-opacity=".53" stroke="#3b84b6" stroke-opacity=".48" stroke-width="1.5"/>
+<text x="792" y="174" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="47" font-weight="800" fill="#68def1" text-anchor="middle">KA</text>
+<rect x="25" y="427" width="870" height="230" rx="19" fill="#0d2035" stroke="#314e6b" />
+<rect x="25" y="427" width="5" height="230" rx="2" fill="url(#accent)" stroke="none" />
+<text x="60" y="469" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" fill="#68def1" letter-spacing="2.4">01 / INTRODUCTION</text>
+<text x="60" y="518" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="36" font-weight="800" fill="#f2f7ff" letter-spacing="-.6">Building behind the scenes.</text>
+<line x1="60" y1="539" x2="859" y2="539" stroke="#29455f" stroke-width="1" />
+<text x="60" y="574" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="500" fill="#b6cbe2" >I'm a backend-focused developer learning through real projects.</text>
+<text x="60" y="609" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="500" fill="#b6cbe2" >I enjoy understanding server-side logic and designing useful</text>
+<text x="60" y="644" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="500" fill="#b6cbe2" >systems — improving my skills one project at a time.</text>
+<rect x="25" y="675" width="870" height="394" rx="19" fill="#0d2035" stroke="#314e6b" />
+<rect x="25" y="675" width="5" height="394" rx="2" fill="url(#accent)" stroke="none" />
+<text x="60" y="717" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" fill="#68def1" letter-spacing="2.4">02 / THE FOCUS</text>
+<text x="60" y="766" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="36" font-weight="800" fill="#f2f7ff" letter-spacing="-.6">What I'm exploring</text>
+<line x1="60" y1="787" x2="859" y2="787" stroke="#29455f" stroke-width="1" />
+<rect x="54" y="797" width="812" height="76" rx="12" fill="#112740" stroke="#2f506e" />
+<rect x="55" y="798" width="4" height="74" rx="2" fill="#68def1" stroke="none" />
+<circle cx="91" cy="835" r="21" fill="#173a51" stroke="#366584" />
+<text x="91" y="843" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21" font-weight="800" fill="#68def1" text-anchor="middle">A</text>
+<text x="132" y="829" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="740" fill="#f2f7ff" >APIs &amp; server-side logic</text>
+<text x="133" y="858" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" font-weight="450" fill="#b6cbe2" >Routes, validation and application behavior</text>
+<text x="839" y="842" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="31" font-weight="550" fill="#68def1" text-anchor="middle">›</text>
+<rect x="54" y="880" width="812" height="76" rx="12" fill="#112740" stroke="#2f506e" />
+<rect x="55" y="881" width="4" height="74" rx="2" fill="#a493f6" stroke="none" />
+<circle cx="91" cy="918" r="21" fill="#173a51" stroke="#366584" />
+<text x="91" y="926" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21" font-weight="800" fill="#a493f6" text-anchor="middle">B</text>
+<text x="132" y="912" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="740" fill="#f2f7ff" >Databases &amp; data models</text>
+<text x="133" y="941" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" font-weight="450" fill="#b6cbe2" >Tables, relationships and clear data structure</text>
+<text x="839" y="925" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="31" font-weight="550" fill="#a493f6" text-anchor="middle">›</text>
+<rect x="54" y="963" width="812" height="76" rx="12" fill="#112740" stroke="#2f506e" />
+<rect x="55" y="964" width="4" height="74" rx="2" fill="#59dbb5" stroke="none" />
+<circle cx="91" cy="1001" r="21" fill="#173a51" stroke="#366584" />
+<text x="91" y="1009" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21" font-weight="800" fill="#59dbb5" text-anchor="middle">C</text>
+<text x="132" y="995" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="740" fill="#f2f7ff" >Better code, every day</text>
+<text x="133" y="1024" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" font-weight="450" fill="#b6cbe2" >Debugging, testing and maintainable solutions</text>
+<text x="839" y="1008" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="31" font-weight="550" fill="#59dbb5" text-anchor="middle">›</text>
+<rect x="25" y="1087" width="870" height="322" rx="19" fill="#0d2035" stroke="#314e6b" />
+<rect x="25" y="1087" width="5" height="322" rx="2" fill="url(#accent)" stroke="none" />
+<text x="60" y="1129" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" fill="#68def1" letter-spacing="2.4">03 / THE TOOLBOX</text>
+<text x="60" y="1178" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="36" font-weight="800" fill="#f2f7ff" letter-spacing="-.6">Technologies &amp; tools</text>
+<line x1="60" y1="1199" x2="859" y2="1199" stroke="#29455f" stroke-width="1" />
+<text x="60" y="1225" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="800" fill="#7e9dbd" letter-spacing="1.4">BACKEND &amp; LANGUAGES</text>
+<rect x="353" y="1194" width="131" height="39" rx="10" fill="#112b41" stroke="#35617c" />
+<circle cx="372" cy="1214" r="4.5" fill="#a493f6" stroke="none" />
+<text x="386" y="1220" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="650" fill="#f2f7ff" >PHP</text>
+<rect x="497" y="1194" width="154" height="39" rx="10" fill="#112b41" stroke="#35617c" />
+<circle cx="516" cy="1214" r="4.5" fill="#ff8a89" stroke="none" />
+<text x="530" y="1220" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="650" fill="#f2f7ff" >Laravel</text>
+<rect x="665" y="1194" width="168" height="39" rx="10" fill="#112b41" stroke="#35617c" />
+<circle cx="684" cy="1214" r="4.5" fill="#f8c07f" stroke="none" />
+<text x="698" y="1220" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="650" fill="#f2f7ff" >Java</text>
+<line x1="59" y1="1248" x2="860" y2="1248" stroke="#29455f" stroke-width="1" />
+<text x="60" y="1291" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="800" fill="#7e9dbd" letter-spacing="1.4">DATABASES</text>
+<rect x="353" y="1261" width="172" height="39" rx="10" fill="#112b41" stroke="#35617c" />
+<circle cx="372" cy="1281" r="4.5" fill="#68def1" stroke="none" />
+<text x="386" y="1287" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="650" fill="#f2f7ff" >MySQL</text>
+<line x1="59" y1="1315" x2="860" y2="1315" stroke="#29455f" stroke-width="1" />
+<text x="60" y="1358" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="800" fill="#7e9dbd" letter-spacing="1.4">WORKFLOW</text>
+<rect x="353" y="1328" width="137" height="39" rx="10" fill="#112b41" stroke="#35617c" />
+<circle cx="372" cy="1348" r="4.5" fill="#ef9f79" stroke="none" />
+<text x="386" y="1354" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="650" fill="#f2f7ff" >Git</text>
+<rect x="504" y="1328" width="166" height="39" rx="10" fill="#112b41" stroke="#35617c" />
+<circle cx="523" cy="1348" r="4.5" fill="#a493f6" stroke="none" />
+<text x="537" y="1354" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="650" fill="#f2f7ff" >GitHub</text>
+<rect x="25" y="1427" width="870" height="294" rx="19" fill="#0d2035" stroke="#314e6b" />
+<rect x="25" y="1427" width="5" height="294" rx="2" fill="url(#accent)" stroke="none" />
+<text x="60" y="1469" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" fill="#68def1" letter-spacing="2.4">04 / SELECTED WORK</text>
+<text x="60" y="1518" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="36" font-weight="800" fill="#f2f7ff" letter-spacing="-.6">Projects, not promises.</text>
+<line x1="60" y1="1539" x2="859" y2="1539" stroke="#29455f" stroke-width="1" />
+<rect x="55" y="1550" width="810" height="139" rx="13" fill="#112740" stroke="#335877" />
+<rect x="55" y="1550" width="4" height="139" rx="2" fill="url(#accent)" stroke="none" />
+<text x="82" y="1592" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="750" fill="#68def1" letter-spacing=".7">PUBLIC CASE STUDIES — IN PREPARATION</text>
+<text x="82" y="1631" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="550" fill="#f2f7ff" >I'm documenting practical projects to share the</text>
+<text x="82" y="1666" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="450" fill="#b6cbe2" >code, decisions and lessons I've learned.</text>
+<path d="M807 1586l21 20-21 20m-19 0 21-40" fill="none" stroke="#8f95f0" stroke-opacity=".5" stroke-width="3" stroke-linecap="round"/>
+<rect x="25" y="1739" width="870" height="288" rx="19" fill="#0d2035" stroke="#314e6b" />
+<rect x="25" y="1739" width="5" height="288" rx="2" fill="url(#accent)" stroke="none" />
+<text x="60" y="1781" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" fill="#68def1" letter-spacing="2.4">05 / WORKFLOW</text>
+<text x="60" y="1830" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="36" font-weight="800" fill="#f2f7ff" letter-spacing="-.6">How I approach a project</text>
+<line x1="60" y1="1851" x2="859" y2="1851" stroke="#29455f" stroke-width="1" />
+<line x1="115" y1="1888" x2="804" y2="1888" stroke="#456385" stroke-width="3" stroke-dasharray="6 12"/>
+<path d="M115 1888H804" stroke="url(#accent)" stroke-width="2" fill="none" stroke-dasharray="8 14"></path>
+<circle cx="114" cy="1888" r="24" fill="#153249" stroke="#74d8ed" />
+<text x="114" y="1896" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" font-weight="750" fill="#f2f7ff" text-anchor="middle">01</text>
+<text x="114" y="1938" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="650" fill="#b6cbe2" text-anchor="middle">Understand</text>
+<circle cx="286" cy="1888" r="24" fill="#153249" stroke="#74d8ed" />
+<text x="286" y="1896" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" font-weight="750" fill="#f2f7ff" text-anchor="middle">02</text>
+<text x="286" y="1938" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="650" fill="#b6cbe2" text-anchor="middle">Design</text>
+<circle cx="459" cy="1888" r="24" fill="#153249" stroke="#74d8ed" />
+<text x="459" y="1896" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" font-weight="750" fill="#f2f7ff" text-anchor="middle">03</text>
+<text x="459" y="1938" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="650" fill="#b6cbe2" text-anchor="middle">Build</text>
+<circle cx="632" cy="1888" r="24" fill="#153249" stroke="#74d8ed" />
+<text x="632" y="1896" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" font-weight="750" fill="#f2f7ff" text-anchor="middle">04</text>
+<text x="632" y="1938" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="650" fill="#b6cbe2" text-anchor="middle">Test</text>
+<circle cx="806" cy="1888" r="24" fill="#153249" stroke="#74d8ed" />
+<text x="806" y="1896" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" font-weight="750" fill="#f2f7ff" text-anchor="middle">05</text>
+<text x="806" y="1938" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="650" fill="#b6cbe2" text-anchor="middle">Improve</text>
+<text x="61" y="1993" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21" font-weight="500" fill="#7e9dbd" >Clearer thinking. Better foundations. Steady progress.</text>
+<rect x="25" y="2045" width="870" height="225" rx="19" fill="#0d2035" stroke="#314e6b" />
+<rect x="25" y="2045" width="5" height="225" rx="2" fill="url(#accent)" stroke="none" />
+<text x="60" y="2087" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" fill="#68def1" letter-spacing="2.4">06 / GITHUB ACTIVITY</text>
+<text x="60" y="2136" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="36" font-weight="800" fill="#f2f7ff" letter-spacing="-.6">Follow the real progress.</text>
+<line x1="60" y1="2157" x2="859" y2="2157" stroke="#29455f" stroke-width="1" />
+<text x="60" y="2184" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="500" fill="#b6cbe2" >Public commits, contributions and repositories live on GitHub.</text>
+<text x="60" y="2220" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21" font-weight="500" fill="#7e9dbd" >No fabricated numbers. No broken third-party stat cards.</text>
+<g transform="translate(745 2100)" stroke="#79dbee" fill="none" stroke-width="2.5"><circle cx="0" cy="0" r="9" fill="#153e51"/><circle cx="60" cy="50" r="9" fill="#153e51"/><circle cx="0" cy="93" r="9" fill="#153e51"/><path d="M0 9V84M0 44H33Q60 44 60 50" stroke-dasharray="5 6"></path></g>
+<rect x="25" y="2288" width="870" height="196" rx="19" fill="#0d2035" stroke="#314e6b" />
+<rect x="25" y="2288" width="5" height="196" rx="2" fill="url(#accent)" stroke="none" />
+<text x="60" y="2330" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" fill="#68def1" letter-spacing="2.4">07 / CONNECT</text>
+<text x="60" y="2379" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="36" font-weight="800" fill="#f2f7ff" letter-spacing="-.6">Let's keep learning.</text>
+<line x1="60" y1="2400" x2="859" y2="2400" stroke="#29455f" stroke-width="1" />
+<text x="60" y="2434" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="500" fill="#b6cbe2" >Explore my repositories, follow my work, and connect on GitHub.</text>
+<line x1="75" y1="2510" x2="845" y2="2510" stroke="url(#accent)" stroke-width="2" />
+<text x="460" y="2529" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" fill="#7e9dbd" text-anchor="middle" letter-spacing="1.7">KHALIL AYESH  •  CODE  /  LEARN  /  IMPROVE</text>
+</g><rect x=".5" y=".5" width="919" height="2539" rx="23.5" fill="none" stroke="#405874" stroke-opacity=".7"/></svg>
