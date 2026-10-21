@@ -1,38 +1,68 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-labelledby="title desc">
-  <title id="title">Areas I'm exploring</title>
-  <desc id="desc">Three dark navy technical panels about APIs, databases, and engineering practices.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#091526"/><stop offset="1" stop-color="#101b38"/></linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#55dafa"/><stop offset="1" stop-color="#aa8fff"/></linearGradient>
-  </defs>
-  <rect width="1200" height="230" rx="18" fill="url(#bg)"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="274" viewBox="0 0 1200 274" role="img" aria-labelledby="title desc">
+<title id="title">My backend focus: APIs and logic, database design, code quality</title>
+<desc id="desc">Three connected areas of backend development: build endpoints and server logic, structure databases and queries, and improve code through testing and debugging.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#091526"/>
+    <stop offset=".58" stop-color="#0d1c32"/>
+    <stop offset="1" stop-color="#151735"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#58dcef"/>
+    <stop offset=".54" stop-color="#608ddf"/>
+    <stop offset="1" stop-color="#af92fc"/>
+  </linearGradient>
+  <pattern id="grid" width="31" height="31" patternUnits="userSpaceOnUse">
+    <path d="M31 0H0V31" fill="none" stroke="#9fb6da" stroke-width=".7" opacity=".075"/>
+  </pattern>
+  <clipPath id="frame"><rect width="1200" height="274" rx="19"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+  <rect width="1200" height="274" fill="url(#bg)"/>
+  <rect width="1200" height="274" fill="url(#grid)"/>
+  <path d="M0 2H1200" stroke="url(#accent)" stroke-width="3" opacity=".75"/>
+  <rect x="23" y="23" width="215" height="29" rx="14.5" fill="#122b42" stroke="#2b5975"/>
+  <circle cx="43" cy="37.5" r="4" fill="#5bdab9"/>
+  <text x="58" y="42" font-family="Arial,Helvetica,sans-serif" font-size="12.5" font-weight="700" letter-spacing="1.7" fill="#abd9e9">BACKEND FOCUS</text>
+  <text x="1176" y="42" font-family="monospace" font-size="12" fill="#7a95b4" letter-spacing="1" text-anchor="end">THREE CORE AREAS</text>
+  <line x1="400" y1="78" x2="400" y2="227" stroke="#3a5375" stroke-opacity=".8"/>
+  <line x1="800" y1="78" x2="800" y2="227" stroke="#3a5375" stroke-opacity=".8"/>
+  <!-- Shared rail, making the three areas visibly connected. -->
+  <path d="M63 235H1137" fill="none" stroke="#406487" stroke-width="2" stroke-dasharray="3 9" stroke-linecap="round"/>
+  <path d="M63 235H1137" fill="none" stroke="url(#accent)" stroke-width="2" stroke-dasharray="2 30" stroke-linecap="round" opacity=".8">
+    <animate attributeName="stroke-dashoffset" values="0;-96" dur="12s" repeatCount="indefinite"/>
+  </path>
+  <!-- Pillar 1 -->
   <g font-family="Arial,Helvetica,sans-serif">
-    <g transform="translate(21 21)">
-      <rect width="372" height="188" rx="13" fill="#101e33" stroke="#2c5070"/>
-      <rect x="0" y="0" width="372" height="3" rx="1.5" fill="#55dafa"/>
-      <text x="25" y="43" fill="#55dafa" font-size="15" font-weight="700" letter-spacing="2">01 / LOGIC</text>
-      <text x="25" y="95" fill="#f1f6ff" font-size="29" font-weight="700">API Development</text>
-      <text x="25" y="130" fill="#aac3db" font-size="17">Endpoints, data flow, validation</text>
-      <path d="M25 156h174" stroke="#437c9b" stroke-width="2" stroke-dasharray="3 10" stroke-linecap="round"/>
-      <circle cx="215" cy="156" r="4" fill="#55dafa"><animate attributeName="cx" values="35;215;35" dur="5s" repeatCount="indefinite"/></circle>
-    </g>
-    <g transform="translate(414 21)">
-      <rect width="372" height="188" rx="13" fill="#101e33" stroke="#3d4771"/>
-      <rect x="0" y="0" width="372" height="3" rx="1.5" fill="#918bfa"/>
-      <text x="25" y="43" fill="#a99bff" font-size="15" font-weight="700" letter-spacing="2">02 / DATA</text>
-      <text x="25" y="95" fill="#f1f6ff" font-size="29" font-weight="700">Databases</text>
-      <text x="25" y="130" fill="#aac3db" font-size="17">Models, queries, relationships</text>
-      <path d="M25 156h174" stroke="#7665ad" stroke-width="2" stroke-dasharray="3 10" stroke-linecap="round"/>
-      <circle cx="215" cy="156" r="4" fill="#a99bff"><animate attributeName="cx" values="35;215;35" dur="6s" repeatCount="indefinite"/></circle>
-    </g>
-    <g transform="translate(807 21)">
-      <rect width="372" height="188" rx="13" fill="#101e33" stroke="#2c5070"/>
-      <rect x="0" y="0" width="372" height="3" rx="1.5" fill="url(#accent)"/>
-      <text x="25" y="43" fill="#66d9ea" font-size="15" font-weight="700" letter-spacing="2">03 / GROWTH</text>
-      <text x="25" y="95" fill="#f1f6ff" font-size="29" font-weight="700">Better Code</text>
-      <text x="25" y="130" fill="#aac3db" font-size="17">Practice, debugging, improving</text>
-      <path d="M25 156h174" stroke="#437c9b" stroke-width="2" stroke-dasharray="3 10" stroke-linecap="round"/>
-      <circle cx="215" cy="156" r="4" fill="#55dafa"><animate attributeName="cx" values="35;215;35" dur="7s" repeatCount="indefinite"/></circle>
-    </g>
+    <text x="35" y="94" font-size="15" font-weight="700" letter-spacing="1.7" fill="#60d9ef">01 / APPLICATION</text>
+    <rect x="319" y="76" width="49" height="49" rx="12" fill="#102e45" stroke="#36728a"/>
+    <path d="M337 90l-9 10 9 10m15-20 9 10-9 10m-9 5 7-29" fill="none" stroke="#6de0f4" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="35" y="153" font-size="31" font-weight="800" fill="#f2f7ff" letter-spacing="-.7">APIs &amp; Logic</text>
+    <text x="35" y="185" font-size="18" fill="#aec5df">Routes, requests, validation</text>
+    <rect x="35" y="198" width="245" height="27" rx="8" fill="#152b42" stroke="#305875" stroke-opacity=".75"/>
+    <text x="48" y="216.5" font-family="monospace" font-size="13.5" fill="#8ddcf0">REQUEST → RESPONSE</text>
+    <circle cx="181" cy="235" r="4.5" fill="#59def2"/>
+    <!-- Pillar 2 -->
+    <text x="432" y="94" font-size="15" font-weight="700" letter-spacing="1.7" fill="#a79bf3">02 / DATA</text>
+    <rect x="716" y="76" width="49" height="49" rx="12" fill="#242442" stroke="#635b9d"/>
+    <ellipse cx="741" cy="91" rx="15" ry="6" fill="none" stroke="#ae9df8" stroke-width="2.1"/>
+    <path d="M726 91v18c0 8 30 8 30 0V91m-30 9c0 8 30 8 30 0" fill="none" stroke="#ae9df8" stroke-width="2.1"/>
+    <text x="432" y="153" font-size="31" font-weight="800" fill="#f2f7ff" letter-spacing="-.7">Database Design</text>
+    <text x="432" y="185" font-size="18" fill="#aec5df">Models, queries, relationships</text>
+    <rect x="432" y="198" width="236" height="27" rx="8" fill="#1b2545" stroke="#5c567e" stroke-opacity=".78"/>
+    <text x="445" y="216.5" font-family="monospace" font-size="13.5" fill="#b0a2f4">STRUCTURE → STORE</text>
+    <circle cx="585" cy="235" r="4.5" fill="#a999f5"/>
+    <!-- Pillar 3 -->
+    <text x="834" y="94" font-size="15" font-weight="700" letter-spacing="1.7" fill="#65dbe9">03 / QUALITY</text>
+    <rect x="1117" y="76" width="49" height="49" rx="12" fill="#102b44" stroke="#3b6b86"/>
+    <path d="M1130 101l10 10 16-19" fill="none" stroke="#77e2e6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="1142" cy="101" r="17" fill="none" stroke="#70cbeb" stroke-opacity=".4" stroke-width="1.5"/>
+    <text x="834" y="153" font-size="31" font-weight="800" fill="#f2f7ff" letter-spacing="-.7">Code Quality</text>
+    <text x="834" y="185" font-size="18" fill="#aec5df">Testing, debugging, improving</text>
+    <rect x="834" y="198" width="242" height="27" rx="8" fill="#152b42" stroke="#305875" stroke-opacity=".75"/>
+    <text x="847" y="216.5" font-family="monospace" font-size="13.5" fill="#8ddcf0">TEST → REFINE</text>
+    <circle cx="982" cy="235" r="4.5" fill="#79e2ec"/>
   </g>
+  <rect x=".5" y=".5" width="1199" height="273" rx="18.5" fill="none" stroke="#365477" stroke-opacity=".7"/>
+</g>
 </svg>
