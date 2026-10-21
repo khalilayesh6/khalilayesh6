@@ -61,7 +61,7 @@ I'm especially interested in **server-side logic, APIs, and data-driven applicat
 <img src="https://img.shields.io/badge/Laravel-11213A?style=for-the-badge&amp;logo=laravel&amp;logoColor=FF777B" alt="Laravel" />
 <img src="https://img.shields.io/badge/Java-11213A?style=for-the-badge&amp;logo=openjdk&amp;logoColor=E8B481" alt="Java" />
 
-<br /><br />
+<br />
 
 **DATABASES**
 
@@ -69,7 +69,7 @@ I'm especially interested in **server-side logic, APIs, and data-driven applicat
 
 <img src="https://img.shields.io/badge/MySQL-11213A?style=for-the-badge&amp;logo=mysql&amp;logoColor=68D5EF" alt="MySQL" />
 
-<br /><br />
+<br />
 
 **VERSION CONTROL & WORKFLOW**
 
@@ -78,7 +78,7 @@ I'm especially interested in **server-side logic, APIs, and data-driven applicat
 <img src="https://img.shields.io/badge/Git-11213A?style=for-the-badge&amp;logo=git&amp;logoColor=F37D69" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-11213A?style=for-the-badge&amp;logo=github&amp;logoColor=F1F5FC" alt="GitHub" />
 
-<br /><br />
+<br />
 
 <sub>Tools I'm learning and using — not a claim of expert-level proficiency.</sub>
 
