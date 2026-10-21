@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="919" viewBox="0 0 1200 919" role="img" aria-labelledby="title desc">
 <title id="title">Systems in Motion — Selected Projects</title>
-<desc id="desc">Ambient-edge integrated GitHub design, coherent cyan-violet identity. Dark GitHub theme with transparent outer background. A premium portfolio showcase for Mizan Finance and Smart University Library. Two animated miniature stories show a finance transaction saved and reflected in a report and account balance, and a physical book going from catalog to student then returning while circulation records update. Illustrative workflows, not live software or real user data.</desc>
+<desc id="desc">Flat GitHub canvas with no photo-frame background or ambient haze, optimized for dark contrast. Ambient-edge integrated GitHub design, coherent cyan-violet identity. Dark GitHub theme with transparent outer background. A premium portfolio showcase for Mizan Finance and Smart University Library. Two animated miniature stories show a finance transaction saved and reflected in a report and account balance, and a physical book going from catalog to student then returning while circulation records update. Illustrative workflows, not live software or real user data.</desc>
 
 <defs>
   <linearGradient id="scene" x1="0" y1="0" x2="1" y2="1">
@@ -10,24 +10,24 @@
     <stop offset="0" stop-color="#58DDEB"/><stop offset=".53" stop-color="#5B8DDE"/><stop offset="1" stop-color="#AE9BF8"/>
   </linearGradient>
   <linearGradient id="mizanBg" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0" stop-color="#112940"/><stop offset="1" stop-color="#142238"/>
+    <stop offset="0" stop-color="#151B23"/><stop offset="1" stop-color="#212830"/>
   </linearGradient>
   <linearGradient id="libraryBg" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0" stop-color="#182642"/><stop offset="1" stop-color="#201D3C"/>
+    <stop offset="0" stop-color="#151B23"/><stop offset="1" stop-color="#212830"/>
   </linearGradient>
   <radialGradient id="cyanAura"><stop offset="0" stop-color="#2590B8" stop-opacity=".16"/><stop offset="1" stop-color="#2590B8" stop-opacity="0"/></radialGradient>
   <radialGradient id="violetAura"><stop offset="0" stop-color="#7064D0" stop-opacity=".15"/><stop offset="1" stop-color="#7064D0" stop-opacity="0"/></radialGradient>
   <pattern id="matrix" width="33" height="33" patternUnits="userSpaceOnUse"><path d="M33 0H0V33" fill="none" stroke="#97B2D4" stroke-width=".5" opacity=".072"/></pattern>
   <clipPath id="clip"><rect width="1200" height="919" rx="23"/></clipPath>
-<radialGradient id="ghAmbientCyan"><stop offset="0" stop-color="#37BDD7" stop-opacity=".15"/><stop offset=".55" stop-color="#2A9DBF" stop-opacity=".045"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></radialGradient><radialGradient id="ghAmbientViolet"><stop offset="0" stop-color="#8C76EA" stop-opacity=".12"/><stop offset=".60" stop-color="#A99AF2" stop-opacity=".045"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></radialGradient><linearGradient id="ghIdentityRail" gradientUnits="userSpaceOnUse" x1="0" y1="45" x2="0" y2="874"><stop offset="0" stop-color="#5FCFE6" stop-opacity="0"/><stop offset=".24" stop-color="#5FCFE6" stop-opacity=".48"/><stop offset=".72" stop-color="#AD9BF3" stop-opacity=".36"/><stop offset="1" stop-color="#AD9BF3" stop-opacity="0"/></linearGradient></defs>
+</defs>
 
 <g clip-path="url(#clip)" font-family="Arial,Helvetica,sans-serif">
-<g aria-hidden="true"><ellipse cx="304" cy="423" rx="260" ry="395" fill="url(#ghAmbientCyan)"/><ellipse cx="894" cy="478" rx="267" ry="395" fill="url(#ghAmbientViolet)"/><path d="M27 46V874" fill="none" stroke="url(#ghIdentityRail)" stroke-width="2.2" stroke-linecap="round"/><circle cx="27" cy="414" r="3.3" fill="#78DBE5" opacity=".54"/></g>
 
 
 
-<circle cx="1020" cy="300" r="320" fill="url(#cyanAura)"/>
-<circle cx="1040" cy="660" r="360" fill="url(#violetAura)"/>
+
+
+
 
 
 <rect x="44" y="28" width="195" height="30" rx="15" fill="#102F47" stroke="#386584"/>
@@ -40,23 +40,23 @@
 
 
 
-<rect x="43" y="181" width="1114" height="337" rx="19" fill="url(#mizanBg)" stroke="#2E435B" stroke-width="1.15"/>
+<rect x="43" y="181" width="1114" height="337" rx="19" fill="url(#mizanBg)" stroke="#30363D" stroke-width="1.15"/>
 <path d="M65 182H380" stroke="#62D9ED" stroke-width="2.5" opacity=".9"/>
 <path d="M506 203V494" stroke="#456078" stroke-width="1.15" opacity=".7"/>
 
-<rect x="70" y="203" width="155" height="27" rx="13.5" fill="#132F44" stroke="#39728D" stroke-width=".9"/><text x="147.5" y="221" text-anchor="middle" font-family="monospace" font-size="11.8" letter-spacing=".3" font-weight="700" fill="#D0E0F1">01 / CASE STUDY</text>
+<rect x="70" y="203" width="155" height="27" rx="13.5" fill="#212830" stroke="#39728D" stroke-width=".9"/><text x="147.5" y="221" text-anchor="middle" font-family="monospace" font-size="11.8" letter-spacing=".3" font-weight="700" fill="#D0E0F1">01 / CASE STUDY</text>
 <text x="72" y="285" font-size="45" letter-spacing="-.7" font-weight="800" fill="#F3F8FF">Mizan</text>
 <text x="72" y="333" font-size="45" letter-spacing="-.7" font-weight="800" fill="#F3F8FF">Finance</text>
 <text x="72" y="371" font-size="14" font-weight="700" letter-spacing="1.8" fill="#68D9EC">FINANCIAL MANAGEMENT</text>
 <text x="72" y="409" font-size="17.2" fill="#BBD0DF">From recording a transaction</text>
 <text x="72" y="434" font-size="17.2" fill="#BBD0DF">to seeing its financial impact.</text>
-<rect x="72" y="462" width="102" height="27" rx="13.5" fill="#132F44" stroke="#39728D" stroke-width=".9"/><text x="123" y="480" text-anchor="middle" font-family="monospace" font-size="11.8" letter-spacing=".3" font-weight="700" fill="#D0E0F1">ACCOUNTS</text>
-<rect x="182" y="462" width="143" height="27" rx="13.5" fill="#132F44" stroke="#39728D" stroke-width=".9"/><text x="253.5" y="480" text-anchor="middle" font-family="monospace" font-size="11.8" letter-spacing=".3" font-weight="700" fill="#D0E0F1">TRANSACTIONS</text>
-<rect x="334" y="462" width="96" height="27" rx="13.5" fill="#132F44" stroke="#39728D" stroke-width=".9"/><text x="382" y="480" text-anchor="middle" font-family="monospace" font-size="11.8" letter-spacing=".3" font-weight="700" fill="#D0E0F1">REPORTS</text>
+<rect x="72" y="462" width="102" height="27" rx="13.5" fill="#212830" stroke="#39728D" stroke-width=".9"/><text x="123" y="480" text-anchor="middle" font-family="monospace" font-size="11.8" letter-spacing=".3" font-weight="700" fill="#D0E0F1">ACCOUNTS</text>
+<rect x="182" y="462" width="143" height="27" rx="13.5" fill="#212830" stroke="#39728D" stroke-width=".9"/><text x="253.5" y="480" text-anchor="middle" font-family="monospace" font-size="11.8" letter-spacing=".3" font-weight="700" fill="#D0E0F1">TRANSACTIONS</text>
+<rect x="334" y="462" width="96" height="27" rx="13.5" fill="#212830" stroke="#39728D" stroke-width=".9"/><text x="382" y="480" text-anchor="middle" font-family="monospace" font-size="11.8" letter-spacing=".3" font-weight="700" fill="#D0E0F1">REPORTS</text>
 <text x="535" y="224" font-family="monospace" font-size="13" letter-spacing="1.1" fill="#A4C7DC">TRANSACTION STORY</text>
 <text x="1130" y="224" text-anchor="end" font-family="monospace" font-size="12" fill="#5BD7E7">SAMPLE WORKFLOW</text>
 <!-- Account module -->
-<rect x="533" y="242" width="170" height="194" rx="14" fill="#10253B" stroke="#367C91" stroke-width="1.1"/>
+<rect x="533" y="242" width="170" height="194" rx="14" fill="#212830" stroke="#367C91" stroke-width="1.1"/>
 <circle cx="559" cy="269" r="8.8" fill="#174B5B" stroke="#5ED6E9" stroke-width="1.2"/>
 <path d="M554 268H564M554 272H562" stroke="#9BECF6" stroke-width="1.5" stroke-linecap="round"/>
 <text x="576" y="273" font-size="14.2" font-weight="700" fill="#EEF8FF">Account</text>
@@ -70,7 +70,7 @@
 </rect>
 
 <!-- Transaction module -->
-<rect x="747" y="242" width="171" height="194" rx="14" fill="#10253B" stroke="#3B6E91" stroke-width="1.1"/>
+<rect x="747" y="242" width="171" height="194" rx="14" fill="#212830" stroke="#3B6E91" stroke-width="1.1"/>
 <path d="M763 264H778M773 259L780 264L773 269" stroke="#78BCEF" stroke-width="1.9" fill="none" stroke-linecap="round"/>
 <text x="788" y="273" font-size="14.2" font-weight="700" fill="#EEF8FF">Transaction</text>
 <text x="763" y="319" font-family="monospace" font-size="11.4" fill="#80BBD2" letter-spacing=".8">ACTION</text>
@@ -88,7 +88,7 @@
 </rect>
 
 <!-- report module -->
-<rect x="962" y="242" width="170" height="194" rx="14" fill="#10253B" stroke="#625D94" stroke-width="1.1"/>
+<rect x="962" y="242" width="170" height="194" rx="14" fill="#212830" stroke="#625D94" stroke-width="1.1"/>
 <path d="M977 273V259H995" fill="none" stroke="#BAADFC" stroke-width="1.7" stroke-linecap="round"/>
 <path d="M980 271L985 264L989 267L997 257" fill="none" stroke="#BAADFC" stroke-width="1.7"/>
 <text x="1004" y="273" font-size="14.2" font-weight="700" fill="#EEF8FF">Reporting</text>
@@ -132,7 +132,7 @@
 
 
 
-<rect x="43" y="531" width="1114" height="337" rx="19" fill="url(#libraryBg)" stroke="#2E435B" stroke-width="1.15"/>
+<rect x="43" y="531" width="1114" height="337" rx="19" fill="url(#libraryBg)" stroke="#30363D" stroke-width="1.15"/>
 <path d="M65 532H380" stroke="#AF9BFB" stroke-width="2.5" opacity=".9"/>
 <path d="M506 553V844" stroke="#456078" stroke-width="1.15" opacity=".7"/>
 
@@ -148,7 +148,7 @@
 <text x="1130" y="574" text-anchor="end" font-family="monospace" font-size="12" fill="#B7A6FE">SAMPLE WORKFLOW</text>
 
 <!-- Shelf -->
-<rect x="535" y="596" width="166" height="198" rx="14" fill="#1B2540" stroke="#5F5895" stroke-width="1.2"/>
+<rect x="535" y="596" width="166" height="198" rx="14" fill="#212830" stroke="#5F5895" stroke-width="1.2"/>
 <text x="550" y="625" font-size="14.2" font-weight="700" fill="#EEEAFE">Catalog</text>
 <text x="550" y="644" font-size="12.5" fill="#ACAFDA">Books &amp; students</text>
 <path d="M549 725H687" stroke="#8D89C4" stroke-width="2.2" stroke-linecap="round"/>
@@ -168,7 +168,7 @@
 </text>
 
 <!-- Student / circulation -->
-<rect x="736" y="596" width="179" height="198" rx="14" fill="#1B2540" stroke="#625B96" stroke-width="1.2"/>
+<rect x="736" y="596" width="179" height="198" rx="14" fill="#212830" stroke="#625B96" stroke-width="1.2"/>
 <text x="751" y="625" font-size="14.2" font-weight="700" fill="#EEEAFE">Borrow / Return</text>
 <text x="751" y="644" font-size="12.5" fill="#ACAFDA">Student circulation</text>
 <circle cx="817" cy="686" r="13" fill="none" stroke="#ADACDB" stroke-width="2"/>
@@ -183,7 +183,7 @@
 </text>
 
 <!-- Records with discrete loan/return state changes -->
-<rect x="947" y="596" width="185" height="198" rx="14" fill="#1B2540" stroke="#625B96" stroke-width="1.2"/>
+<rect x="947" y="596" width="185" height="198" rx="14" fill="#212830" stroke="#625B96" stroke-width="1.2"/>
 <text x="962" y="625" font-size="14.2" font-weight="700" fill="#EEEAFE">Records</text>
 <text x="962" y="644" font-size="12.5" fill="#ACAFDA">Status &amp; fines</text>
 <rect x="961" y="660" width="157" height="41" rx="9" fill="#292B48" stroke="#575581"/>
