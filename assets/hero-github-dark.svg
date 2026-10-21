@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="370" viewBox="0 0 1200 370" role="img" aria-labelledby="title desc">
   <title id="title">Khalil H Ayesh — Backend Developer</title>
-  <desc id="desc">Ambient-edge integrated GitHub design, coherent cyan-violet identity. Dark GitHub theme with transparent outer background. Animated dark navy developer workspace banner with cyan and violet lighting, and a code editor illustration.</desc>
+  <desc id="desc">GitHub-native flat canvas: no image-wide background, no atmospheric overlays, dark contrast. Ambient-edge integrated GitHub design, coherent cyan-violet identity. Dark GitHub theme with transparent outer background. Animated dark navy developer workspace banner with cyan and violet lighting, and a code editor illustration.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#091322"/>
@@ -31,17 +31,13 @@
     <clipPath id="rounded">
       <rect width="1200" height="370" rx="24"/>
     </clipPath>
-  <radialGradient id="ghAmbientCyan" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#37BDD7" stop-opacity=".15"/><stop offset=".55" stop-color="#2A9DBF" stop-opacity=".045"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></radialGradient><radialGradient id="ghAmbientViolet" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#8C76EA" stop-opacity=".12"/><stop offset=".60" stop-color="#A99AF2" stop-opacity=".045"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></radialGradient><linearGradient id="ghIdentityRail" gradientUnits="userSpaceOnUse" x1="0" y1="45" x2="0" y2="325"><stop offset="0" stop-color="#5FCFE6" stop-opacity="0"/><stop offset=".24" stop-color="#5FCFE6" stop-opacity=".48"/><stop offset=".72" stop-color="#AD9BF3" stop-opacity=".36"/><stop offset="1" stop-color="#AD9BF3" stop-opacity="0"/></linearGradient></defs>
+  </defs>
   <g clip-path="url(#rounded)">
-<g aria-hidden="true"><ellipse cx="304" cy="170" rx="260" ry="159" fill="url(#ghAmbientCyan)"/><ellipse cx="894" cy="192" rx="267" ry="159" fill="url(#ghAmbientViolet)"/><path d="M27 46V325" fill="none" stroke="url(#ghIdentityRail)" stroke-width="2.2" stroke-linecap="round"/><circle cx="27" cy="167" r="3.3" fill="#78DBE5" opacity=".54"/></g>
+
     
     
-    <circle cx="720" cy="140" r="340" fill="url(#blue)">
-      <animate attributeName="opacity" values=".55;1;.55" dur="7s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="1130" cy="295" r="250" fill="url(#purple)">
-      <animate attributeName="opacity" values=".9;.45;.9" dur="9s" repeatCount="indefinite"/>
-    </circle>
+    
+    
     <path d="M-70 315C200 243 319 447 638 336S1020 340 1290 165" fill="none" stroke="#55dffa" stroke-width="1.2" opacity=".16"/>
     <path d="M-70 330C200 258 319 462 638 351S1020 355 1290 180" fill="none" stroke="#9684ef" stroke-width="1" opacity=".12"/>
     <path d="M0 3H1200" stroke="url(#edge)" stroke-width="5"/>
@@ -63,7 +59,7 @@
     <text x="79" y="293" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#b6c8e6">Learning something new every day.</text>
     <text x="79" y="335" font-family="monospace" font-size="12" letter-spacing="1.5" fill="#7794b5">BUILD  /  LEARN  /  IMPROVE</text>
     <g>
-      <rect x="720" y="49" width="422" height="273" rx="17" fill="#080f20" stroke="#2E435B" stroke-width="1.15"/>
+      <rect x="720" y="49" width="422" height="273" rx="17" fill="#151B23" stroke="#30363D" stroke-width="1.15"/>
       <rect x="720" y="49" width="422" height="42" rx="17" fill="#18243d"/>
       <path d="M720 78V91H1142V78" fill="#18243d"/>
       <line x1="720" y1="91" x2="1142" y2="91" stroke="#384968" stroke-width="1"/>
