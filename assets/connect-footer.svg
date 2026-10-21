@@ -37,7 +37,7 @@
  <path d="M692 125C692 112 719 112 719 125" stroke="#8DEAF0" stroke-width="2" fill="none" stroke-linecap="round"/>
  <text x="680" y="164" font-size="21.5" font-weight="800" fill="#F0F6FF">GitHub Profile</text>
  <text x="681" y="190" font-size="14.5" fill="#9FBED3">Updates &amp; public activity</text>
- <rect x="700" y="218" width="150" height="3" rx="1.5" fill="#284C65"/>
+ <rect x="700" y="198" width="150" height="3" rx="1.5" fill="#284C65"/>
 
  <rect x="929" y="70" width="224" height="142" rx="16" fill="#1B243F" stroke="#6A5B9D" stroke-width="1.35"/>
  <path d="M945 71H1137" stroke="#AE9AF6" stroke-width="2.3" stroke-linecap="round"/>
@@ -46,7 +46,7 @@
  <path d="M961 111H981M961 118H976" stroke="#C9B9FF" stroke-width="1.4" stroke-linecap="round"/>
  <text x="947" y="164" font-size="21.5" font-weight="800" fill="#F0F6FF">Repositories</text>
  <text x="947" y="190" font-size="14.5" fill="#B9B7DD">Explore available projects</text>
- <rect x="964" y="218" width="156" height="3" rx="1.5" fill="#44385E"/>
+ <rect x="964" y="198" width="156" height="3" rx="1.5" fill="#44385E"/>
 
  <!-- A gentle signal moves between the two destinations. -->
  <path d="M882 141H929" stroke="#50647E" stroke-width="2.1" stroke-linecap="round"/>
