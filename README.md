@@ -39,13 +39,7 @@
 <br />
 
 <div align="center">
-  <img src="./assets/featured-mizan-v3.svg" width="100%" alt="Featured project 1: Mizan Finance Management System. Accounts, transactions and reporting. Source code is private." />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="./assets/featured-library-v1.svg" width="100%" alt="Featured project 2: Smart University Library Management System. Java, JavaFX, Maven, books, students, borrowing, returns, fines and file storage. Source code is private." />
+  <img src="./assets/selected-projects-group.svg" width="100%" alt="Selected Projects: a unified showcase with two project cards. Mizan Finance covers accounts, transactions, and financial reporting. Smart University Library is a Java/JavaFX desktop project covering library items, students, borrowing, returns, and fines. Both source repositories are private." />
 </div>
 
 ---
