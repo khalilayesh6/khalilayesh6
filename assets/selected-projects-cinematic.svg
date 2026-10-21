@@ -202,11 +202,11 @@
 <text x="962" y="777" font-family="monospace" font-size="11" fill="#B4AADF">PERSIST TO FILE</text>
 
 <!-- The book icon travels shelf → student → shelf. Unlike generic packets it signifies a book. -->
-<path d="M679 705H750" stroke="#7677B2" stroke-width="1.9" stroke-dasharray="3 6"/>
-<path d="M732 700L739 705L732 710 M690 700L683 705L690 710" stroke="#BEB3F3" stroke-width="1.6" fill="none"/>
+<path d="M679 705Q749 693 817 719" stroke="#7677B2" stroke-width="1.9" stroke-dasharray="3 6"/>
+<path d="M797 708L808 715L795 720 M690 700L683 705L690 710" stroke="#BEB3F3" stroke-width="1.6" fill="none"/>
 <g transform="translate(672 686)">
   <g>
-    <animateTransform attributeName="transform" type="translate" values="0 0;78 0;78 0;0 0;0 0" keyTimes="0;.27;.62;.83;1" dur="12s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0 0;145 33;145 33;0 0;0 0" keyTimes="0;.27;.62;.83;1" dur="12s" repeatCount="indefinite"/>
     <rect x="-10" y="-9" width="18" height="25" rx="2" fill="#D5C6FF" stroke="#FFF4FF" stroke-width="1.1"/>
     <path d="M-6 -4H5M-6 2H3M-6 8H4" stroke="#6553A9" stroke-width="1.4" stroke-linecap="round"/>
   </g>
