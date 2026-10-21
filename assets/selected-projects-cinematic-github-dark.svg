@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="919" viewBox="0 0 1200 919" role="img" aria-labelledby="title desc">
 <title id="title">Systems in Motion — Selected Projects</title>
-<desc id="desc">Dark GitHub theme with transparent outer background. A premium portfolio showcase for Mizan Finance and Smart University Library. Two animated miniature stories show a finance transaction saved and reflected in a report and account balance, and a physical book going from catalog to student then returning while circulation records update. Illustrative workflows, not live software or real user data.</desc>
+<desc id="desc">Ambient-edge integrated GitHub design, coherent cyan-violet identity. Dark GitHub theme with transparent outer background. A premium portfolio showcase for Mizan Finance and Smart University Library. Two animated miniature stories show a finance transaction saved and reflected in a report and account balance, and a physical book going from catalog to student then returning while circulation records update. Illustrative workflows, not live software or real user data.</desc>
 
 <defs>
   <linearGradient id="scene" x1="0" y1="0" x2="1" y2="1">
@@ -19,9 +19,10 @@
   <radialGradient id="violetAura"><stop offset="0" stop-color="#7064D0" stop-opacity=".15"/><stop offset="1" stop-color="#7064D0" stop-opacity="0"/></radialGradient>
   <pattern id="matrix" width="33" height="33" patternUnits="userSpaceOnUse"><path d="M33 0H0V33" fill="none" stroke="#97B2D4" stroke-width=".5" opacity=".072"/></pattern>
   <clipPath id="clip"><rect width="1200" height="919" rx="23"/></clipPath>
-</defs>
+<radialGradient id="ghAmbientCyan"><stop offset="0" stop-color="#37BDD7" stop-opacity=".15"/><stop offset=".55" stop-color="#2A9DBF" stop-opacity=".045"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></radialGradient><radialGradient id="ghAmbientViolet"><stop offset="0" stop-color="#8C76EA" stop-opacity=".12"/><stop offset=".60" stop-color="#A99AF2" stop-opacity=".045"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></radialGradient><linearGradient id="ghIdentityRail" gradientUnits="userSpaceOnUse" x1="0" y1="45" x2="0" y2="874"><stop offset="0" stop-color="#5FCFE6" stop-opacity="0"/><stop offset=".24" stop-color="#5FCFE6" stop-opacity=".48"/><stop offset=".72" stop-color="#AD9BF3" stop-opacity=".36"/><stop offset="1" stop-color="#AD9BF3" stop-opacity="0"/></linearGradient></defs>
 
 <g clip-path="url(#clip)" font-family="Arial,Helvetica,sans-serif">
+<g aria-hidden="true"><ellipse cx="304" cy="423" rx="260" ry="395" fill="url(#ghAmbientCyan)"/><ellipse cx="894" cy="478" rx="267" ry="395" fill="url(#ghAmbientViolet)"/><path d="M27 46V874" fill="none" stroke="url(#ghIdentityRail)" stroke-width="2.2" stroke-linecap="round"/><circle cx="27" cy="414" r="3.3" fill="#78DBE5" opacity=".54"/></g>
 
 
 
@@ -39,7 +40,7 @@
 
 
 
-<rect x="43" y="181" width="1114" height="337" rx="19" fill="url(#mizanBg)" stroke="#2D6681" stroke-width="1.4"/>
+<rect x="43" y="181" width="1114" height="337" rx="19" fill="url(#mizanBg)" stroke="#2E435B" stroke-width="1.15"/>
 <path d="M65 182H380" stroke="#62D9ED" stroke-width="2.5" opacity=".9"/>
 <path d="M506 203V494" stroke="#456078" stroke-width="1.15" opacity=".7"/>
 
@@ -131,7 +132,7 @@
 
 
 
-<rect x="43" y="531" width="1114" height="337" rx="19" fill="url(#libraryBg)" stroke="#5C568F" stroke-width="1.4"/>
+<rect x="43" y="531" width="1114" height="337" rx="19" fill="url(#libraryBg)" stroke="#2E435B" stroke-width="1.15"/>
 <path d="M65 532H380" stroke="#AF9BFB" stroke-width="2.5" opacity=".9"/>
 <path d="M506 553V844" stroke="#456078" stroke-width="1.15" opacity=".7"/>
 

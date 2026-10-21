@@ -1,27 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="919" viewBox="0 0 1200 919" role="img" aria-labelledby="title desc">
 <title id="title">Systems in Motion — Selected Projects</title>
-<desc id="desc">Light GitHub theme with transparent outer background. A premium portfolio showcase for Mizan Finance and Smart University Library. Two animated miniature stories show a finance transaction saved and reflected in a report and account balance, and a physical book going from catalog to student then returning while circulation records update. Illustrative workflows, not live software or real user data.</desc>
+<desc id="desc">Ambient-edge integrated GitHub design, coherent cyan-violet identity. Light GitHub theme with transparent outer background. A premium portfolio showcase for Mizan Finance and Smart University Library. Two animated miniature stories show a finance transaction saved and reflected in a report and account balance, and a physical book going from catalog to student then returning while circulation records update. Illustrative workflows, not live software or real user data.</desc>
 
 <defs>
   <linearGradient id="scene" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0" stop-color="#F1EFFB"/><stop offset=".58" stop-color="#F1EFFB"/><stop offset="1" stop-color="#F1EFFB"/>
+    <stop offset="0" stop-color="#F8FAFD"/><stop offset=".58" stop-color="#F8FAFD"/><stop offset="1" stop-color="#F8FAFD"/>
   </linearGradient>
   <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
     <stop offset="0" stop-color="#238EAD"/><stop offset=".53" stop-color="#238EAD"/><stop offset="1" stop-color="#8976CF"/>
   </linearGradient>
   <linearGradient id="mizanBg" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0" stop-color="#F1EFFB"/><stop offset="1" stop-color="#F1EFFB"/>
+    <stop offset="0" stop-color="#F8FAFD"/><stop offset="1" stop-color="#F8FAFD"/>
   </linearGradient>
   <linearGradient id="libraryBg" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0" stop-color="#F1EFFB"/><stop offset="1" stop-color="#F1EFFB"/>
+    <stop offset="0" stop-color="#F8FAFD"/><stop offset="1" stop-color="#F8FAFD"/>
   </linearGradient>
   <radialGradient id="cyanAura"><stop offset="0" stop-color="#2590B8" stop-opacity=".16"/><stop offset="1" stop-color="#2590B8" stop-opacity="0"/></radialGradient>
   <radialGradient id="violetAura"><stop offset="0" stop-color="#8976CF" stop-opacity=".15"/><stop offset="1" stop-color="#8976CF" stop-opacity="0"/></radialGradient>
-  <pattern id="matrix" width="33" height="33" patternUnits="userSpaceOnUse"><path d="M33 0H0V33" fill="none" stroke="#897BC8" stroke-width=".5" opacity=".072"/></pattern>
+  <pattern id="matrix" width="33" height="33" patternUnits="userSpaceOnUse"><path d="M33 0H0V33" fill="none" stroke="#D4D7E8" stroke-width=".5" opacity=".072"/></pattern>
   <clipPath id="clip"><rect width="1200" height="919" rx="23"/></clipPath>
-</defs>
+<radialGradient id="ghAmbientCyan"><stop offset="0" stop-color="#6EC9E6" stop-opacity=".23"/><stop offset=".55" stop-color="#C7EBF6" stop-opacity=".10"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></radialGradient><radialGradient id="ghAmbientViolet"><stop offset="0" stop-color="#AA9BEE" stop-opacity=".16"/><stop offset=".60" stop-color="#A99AF2" stop-opacity=".045"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></radialGradient><linearGradient id="ghIdentityRail" gradientUnits="userSpaceOnUse" x1="0" y1="45" x2="0" y2="874"><stop offset="0" stop-color="#5FCFE6" stop-opacity="0"/><stop offset=".24" stop-color="#5FCFE6" stop-opacity=".48"/><stop offset=".72" stop-color="#AD9BF3" stop-opacity=".36"/><stop offset="1" stop-color="#AD9BF3" stop-opacity="0"/></linearGradient></defs>
 
 <g clip-path="url(#clip)" font-family="Arial,Helvetica,sans-serif">
+<g aria-hidden="true"><ellipse cx="304" cy="423" rx="260" ry="395" fill="url(#ghAmbientCyan)"/><ellipse cx="894" cy="478" rx="267" ry="395" fill="url(#ghAmbientViolet)"/><path d="M27 46V874" fill="none" stroke="url(#ghIdentityRail)" stroke-width="2.2" stroke-linecap="round"/><circle cx="27" cy="414" r="3.3" fill="#43A0BC" opacity=".54"/></g>
 
 
 
@@ -29,53 +30,53 @@
 <circle cx="1040" cy="660" r="360" fill="url(#violetAura)"/>
 
 
-<rect x="44" y="28" width="195" height="30" rx="15" fill="#F1EFFB" stroke="#897BC8"/>
+<rect x="44" y="28" width="195" height="30" rx="15" fill="#F8FAFD" stroke="#D4D7E8"/>
 <circle cx="62" cy="43" r="4.3" fill="#62DFBE"/>
 <text x="76" y="48" font-size="12.5" font-weight="700" letter-spacing="1.7" fill="#24364B">SELECTED PROJECTS</text>
 <text x="44" y="114" font-size="44" letter-spacing="-.8" font-weight="800" fill="#24364B">Systems in Motion</text>
 <text x="46" y="149" font-size="18.4" fill="#24364B">Two projects, told through the actions that make them useful.</text>
 <text x="1154" y="102" font-family="monospace" font-size="13" letter-spacing="1.25" text-anchor="end" fill="#4D657C">02 / INTERACTIVE STORIES</text>
-<path d="M44 163H1155" stroke="#CBD8E4" stroke-width="1"/>
+<path d="M44 163H1155" stroke="#DEE7EF" stroke-width="1"/>
 
 
 
-<rect x="43" y="181" width="1114" height="337" rx="19" fill="url(#mizanBg)" stroke="#897BC8" stroke-width="1.4"/>
+<rect x="43" y="181" width="1114" height="337" rx="19" fill="url(#mizanBg)" stroke="#D8E4EC" stroke-width="1.15"/>
 <path d="M65 182H380" stroke="#4D99B5" stroke-width="2.5" opacity=".9"/>
-<path d="M506 203V494" stroke="#CBD8E4" stroke-width="1.15" opacity=".7"/>
+<path d="M506 203V494" stroke="#DEE7EF" stroke-width="1.15" opacity=".7"/>
 
-<rect x="70" y="203" width="155" height="27" rx="13.5" fill="#F1EFFB" stroke="#897BC8" stroke-width=".9"/><text x="147.5" y="221" text-anchor="middle" font-family="monospace" font-size="11.8" letter-spacing=".3" font-weight="700" fill="#24364B">01 / CASE STUDY</text>
+<rect x="70" y="203" width="155" height="27" rx="13.5" fill="#F8FAFD" stroke="#D4D7E8" stroke-width=".9"/><text x="147.5" y="221" text-anchor="middle" font-family="monospace" font-size="11.8" letter-spacing=".3" font-weight="700" fill="#24364B">01 / CASE STUDY</text>
 <text x="72" y="285" font-size="45" letter-spacing="-.7" font-weight="800" fill="#24364B">Mizan</text>
 <text x="72" y="333" font-size="45" letter-spacing="-.7" font-weight="800" fill="#24364B">Finance</text>
 <text x="72" y="371" font-size="14" font-weight="700" letter-spacing="1.8" fill="#176F93">FINANCIAL MANAGEMENT</text>
 <text x="72" y="409" font-size="17.2" fill="#24364B">From recording a transaction</text>
 <text x="72" y="434" font-size="17.2" fill="#24364B">to seeing its financial impact.</text>
-<rect x="72" y="462" width="102" height="27" rx="13.5" fill="#F1EFFB" stroke="#897BC8" stroke-width=".9"/><text x="123" y="480" text-anchor="middle" font-family="monospace" font-size="11.8" letter-spacing=".3" font-weight="700" fill="#24364B">ACCOUNTS</text>
-<rect x="182" y="462" width="143" height="27" rx="13.5" fill="#F1EFFB" stroke="#897BC8" stroke-width=".9"/><text x="253.5" y="480" text-anchor="middle" font-family="monospace" font-size="11.8" letter-spacing=".3" font-weight="700" fill="#24364B">TRANSACTIONS</text>
-<rect x="334" y="462" width="96" height="27" rx="13.5" fill="#F1EFFB" stroke="#897BC8" stroke-width=".9"/><text x="382" y="480" text-anchor="middle" font-family="monospace" font-size="11.8" letter-spacing=".3" font-weight="700" fill="#24364B">REPORTS</text>
+<rect x="72" y="462" width="102" height="27" rx="13.5" fill="#F8FAFD" stroke="#D4D7E8" stroke-width=".9"/><text x="123" y="480" text-anchor="middle" font-family="monospace" font-size="11.8" letter-spacing=".3" font-weight="700" fill="#24364B">ACCOUNTS</text>
+<rect x="182" y="462" width="143" height="27" rx="13.5" fill="#F8FAFD" stroke="#D4D7E8" stroke-width=".9"/><text x="253.5" y="480" text-anchor="middle" font-family="monospace" font-size="11.8" letter-spacing=".3" font-weight="700" fill="#24364B">TRANSACTIONS</text>
+<rect x="334" y="462" width="96" height="27" rx="13.5" fill="#F8FAFD" stroke="#D4D7E8" stroke-width=".9"/><text x="382" y="480" text-anchor="middle" font-family="monospace" font-size="11.8" letter-spacing=".3" font-weight="700" fill="#24364B">REPORTS</text>
 <text x="535" y="224" font-family="monospace" font-size="13" letter-spacing="1.1" fill="#24364B">TRANSACTION STORY</text>
 <text x="1130" y="224" text-anchor="end" font-family="monospace" font-size="12" fill="#1A786C">SAMPLE WORKFLOW</text>
 <!-- Account module -->
-<rect x="533" y="242" width="170" height="194" rx="14" fill="#F1EFFB" stroke="#897BC8" stroke-width="1.1"/>
-<circle cx="559" cy="269" r="8.8" fill="#F1EFFB" stroke="#4D99B5" stroke-width="1.2"/>
+<rect x="533" y="242" width="170" height="194" rx="14" fill="#F8FAFD" stroke="#D4D7E8" stroke-width="1.1"/>
+<circle cx="559" cy="269" r="8.8" fill="#F8FAFD" stroke="#4D99B5" stroke-width="1.2"/>
 <path d="M554 268H564M554 272H562" stroke="#4D99B5" stroke-width="1.5" stroke-linecap="round"/>
 <text x="576" y="273" font-size="14.2" font-weight="700" fill="#24364B">Account</text>
 <text x="549" y="319" font-family="monospace" font-size="11.4" fill="#176F93" letter-spacing=".8">SOURCE</text>
 <text x="549" y="350" font-size="17.5" font-weight="700" fill="#24364B">Primary wallet</text>
 <text x="549" y="377" font-size="13.4" fill="#4D657C">Selected account</text>
-<rect x="549" y="398" width="137" height="25" rx="12.5" fill="#F1EFFB" stroke="#897BC8"/>
+<rect x="549" y="398" width="137" height="25" rx="12.5" fill="#F8FAFD" stroke="#D4D7E8"/>
 <text x="617" y="415" text-anchor="middle" font-family="monospace" font-size="12" fill="#1A786C">READY</text>
-<rect x="549" y="398" width="137" height="25" rx="12.5" fill="#F1EFFB" stroke="#4D99B5" opacity=".06">
+<rect x="549" y="398" width="137" height="25" rx="12.5" fill="#F8FAFD" stroke="#4D99B5" opacity=".06">
   <animate attributeName="opacity" values=".95;.95;.08;.08;.95" keyTimes="0;.22;.27;.9;1" dur="12s" repeatCount="indefinite"/>
 </rect>
 
 <!-- Transaction module -->
-<rect x="747" y="242" width="171" height="194" rx="14" fill="#F1EFFB" stroke="#897BC8" stroke-width="1.1"/>
-<path d="M763 264H778M773 259L780 264L773 269" stroke="#897BC8" stroke-width="1.9" fill="none" stroke-linecap="round"/>
+<rect x="747" y="242" width="171" height="194" rx="14" fill="#F8FAFD" stroke="#D4D7E8" stroke-width="1.1"/>
+<path d="M763 264H778M773 259L780 264L773 269" stroke="#D4D7E8" stroke-width="1.9" fill="none" stroke-linecap="round"/>
 <text x="788" y="273" font-size="14.2" font-weight="700" fill="#24364B">Transaction</text>
 <text x="763" y="319" font-family="monospace" font-size="11.4" fill="#176F93" letter-spacing=".8">ACTION</text>
 <text x="763" y="349" font-size="17.5" font-weight="700" fill="#24364B">Add entry</text>
 <text x="763" y="377" font-size="13.4" fill="#4D657C">Income / expense</text>
-<rect x="761" y="399" width="142" height="24" rx="12" fill="#F1EFFB" stroke="#897BC8"/>
+<rect x="761" y="399" width="142" height="24" rx="12" fill="#F8FAFD" stroke="#D4D7E8"/>
 <text x="832" y="415" text-anchor="middle" font-family="monospace" font-size="11.9" fill="#24364B">ENTRY PENDING
  <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;.28;.34;.90;1" dur="12s" repeatCount="indefinite"/>
 </text>
@@ -87,9 +88,9 @@
 </rect>
 
 <!-- report module -->
-<rect x="962" y="242" width="170" height="194" rx="14" fill="#F1EFFB" stroke="#897BC8" stroke-width="1.1"/>
-<path d="M977 273V259H995" fill="none" stroke="#897BC8" stroke-width="1.7" stroke-linecap="round"/>
-<path d="M980 271L985 264L989 267L997 257" fill="none" stroke="#897BC8" stroke-width="1.7"/>
+<rect x="962" y="242" width="170" height="194" rx="14" fill="#F8FAFD" stroke="#D4D7E8" stroke-width="1.1"/>
+<path d="M977 273V259H995" fill="none" stroke="#D4D7E8" stroke-width="1.7" stroke-linecap="round"/>
+<path d="M980 271L985 264L989 267L997 257" fill="none" stroke="#D4D7E8" stroke-width="1.7"/>
 <text x="1004" y="273" font-size="14.2" font-weight="700" fill="#24364B">Reporting</text>
 <text x="978" y="319" font-family="monospace" font-size="11.4" letter-spacing=".8" fill="#24364B">RESULT</text>
 <g>
@@ -105,18 +106,18 @@
 <text x="978" y="415" font-family="monospace" font-size="12" fill="#6854A7">SUMMARY UPDATED
  <animate attributeName="opacity" values=".37;.37;.37;1;1;.37" keyTimes="0;.36;.54;.65;.9;1" dur="12s" repeatCount="indefinite"/>
 </text>
-<rect x="962" y="242" width="170" height="194" rx="14" fill="none" stroke="#897BC8" stroke-width="1.8" opacity=".08">
+<rect x="962" y="242" width="170" height="194" rx="14" fill="none" stroke="#D4D7E8" stroke-width="1.8" opacity=".08">
  <animate attributeName="opacity" values=".08;.08;.08;.85;.85;.08" keyTimes="0;.45;.57;.7;.87;1" dur="12s" repeatCount="indefinite"/>
 </rect>
 
 <!-- Event flow: from selected account to saved entry and out to report. -->
-<path d="M703 335H747M918 335H962" stroke="#897BC8" stroke-width="2.2" stroke-linecap="round"/>
+<path d="M703 335H747M918 335H962" stroke="#D4D7E8" stroke-width="2.2" stroke-linecap="round"/>
 <path d="M734 330L741 335L734 340M949 330L956 335L949 340" stroke="#4D99B5" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
 <circle r="5.7" fill="#E1F7FF" stroke="#4D99B5" stroke-width="1.4">
  <animateMotion path="M704 335H746" dur="12s" keyPoints="0;0;1;1;1" keyTimes="0;.15;.3;.4;1" calcMode="linear" repeatCount="indefinite"/>
  <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.15;.29;.37;1" dur="12s" repeatCount="indefinite"/>
 </circle>
-<circle r="5.7" fill="#E9E2FF" stroke="#897BC8" stroke-width="1.4">
+<circle r="5.7" fill="#E9E2FF" stroke="#D4D7E8" stroke-width="1.4">
  <animateMotion path="M919 335H961" dur="12s" keyPoints="0;0;1;1;1" keyTimes="0;.43;.58;.69;1" calcMode="linear" repeatCount="indefinite"/>
  <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.42;.47;.65;.72;1" dur="12s" repeatCount="indefinite"/>
 </circle>
@@ -131,32 +132,32 @@
 
 
 
-<rect x="43" y="531" width="1114" height="337" rx="19" fill="url(#libraryBg)" stroke="#897BC8" stroke-width="1.4"/>
-<path d="M65 532H380" stroke="#897BC8" stroke-width="2.5" opacity=".9"/>
-<path d="M506 553V844" stroke="#CBD8E4" stroke-width="1.15" opacity=".7"/>
+<rect x="43" y="531" width="1114" height="337" rx="19" fill="url(#libraryBg)" stroke="#D8E4EC" stroke-width="1.15"/>
+<path d="M65 532H380" stroke="#D4D7E8" stroke-width="2.5" opacity=".9"/>
+<path d="M506 553V844" stroke="#DEE7EF" stroke-width="1.15" opacity=".7"/>
 
-<rect x="70" y="553" width="155" height="27" rx="13.5" fill="#F1EFFB" stroke="#897BC8" stroke-width=".9"/><text x="147.5" y="571" text-anchor="middle" font-family="monospace" font-size="11.8" letter-spacing=".3" font-weight="700" fill="#24364B">02 / CASE STUDY</text>
+<rect x="70" y="553" width="155" height="27" rx="13.5" fill="#F8FAFD" stroke="#D4D7E8" stroke-width=".9"/><text x="147.5" y="571" text-anchor="middle" font-family="monospace" font-size="11.8" letter-spacing=".3" font-weight="700" fill="#24364B">02 / CASE STUDY</text>
 <text x="72" y="634" font-size="36" letter-spacing="-.65" font-weight="800" fill="#24364B">Smart University</text>
 <text x="72" y="677" font-size="44" letter-spacing="-.65" font-weight="800" fill="#24364B">Library</text>
 <text x="72" y="712" font-size="13.4" font-weight="700" letter-spacing="1.75" fill="#6854A7">JAVA · JAVAFX · MAVEN</text>
 <text x="72" y="755" font-size="17.2" fill="#24364B">Follow a book from the shelf</text>
 <text x="72" y="780" font-size="17.2" fill="#24364B">to a student and back.</text>
-<rect x="72" y="814" width="97" height="27" rx="13.5" fill="#F1EFFB" stroke="#897BC8" stroke-width=".9"/><text x="120.5" y="832" text-anchor="middle" font-family="monospace" font-size="11.8" letter-spacing=".3" font-weight="700" fill="#24364B">CATALOG</text>
-<rect x="177" y="814" width="175" height="27" rx="13.5" fill="#F1EFFB" stroke="#897BC8" stroke-width=".9"/><text x="264.5" y="832" text-anchor="middle" font-family="monospace" font-size="11.8" letter-spacing=".3" font-weight="700" fill="#24364B">BORROW / RETURN</text>
+<rect x="72" y="814" width="97" height="27" rx="13.5" fill="#F8FAFD" stroke="#D4D7E8" stroke-width=".9"/><text x="120.5" y="832" text-anchor="middle" font-family="monospace" font-size="11.8" letter-spacing=".3" font-weight="700" fill="#24364B">CATALOG</text>
+<rect x="177" y="814" width="175" height="27" rx="13.5" fill="#F8FAFD" stroke="#D4D7E8" stroke-width=".9"/><text x="264.5" y="832" text-anchor="middle" font-family="monospace" font-size="11.8" letter-spacing=".3" font-weight="700" fill="#24364B">BORROW / RETURN</text>
 <text x="535" y="574" font-family="monospace" font-size="13" letter-spacing="1.1" fill="#24364B">LIBRARY CIRCULATION STORY</text>
 <text x="1130" y="574" text-anchor="end" font-family="monospace" font-size="12" fill="#6854A7">SAMPLE WORKFLOW</text>
 
 <!-- Shelf -->
-<rect x="535" y="596" width="166" height="198" rx="14" fill="#F1EFFB" stroke="#897BC8" stroke-width="1.2"/>
+<rect x="535" y="596" width="166" height="198" rx="14" fill="#F8FAFD" stroke="#D4D7E8" stroke-width="1.2"/>
 <text x="550" y="625" font-size="14.2" font-weight="700" fill="#24364B">Catalog</text>
 <text x="550" y="644" font-size="12.5" fill="#24364B">Books &amp; students</text>
-<path d="M549 725H687" stroke="#897BC8" stroke-width="2.2" stroke-linecap="round"/>
-<rect x="556" y="664" width="17" height="60" rx="2" fill="#526EAB" stroke="#897BC8"/>
-<rect x="579" y="679" width="17" height="45" rx="2" fill="#806DB4" stroke="#BACBD9"/>
+<path d="M549 725H687" stroke="#D4D7E8" stroke-width="2.2" stroke-linecap="round"/>
+<rect x="556" y="664" width="17" height="60" rx="2" fill="#526EAB" stroke="#D4D7E8"/>
+<rect x="579" y="679" width="17" height="45" rx="2" fill="#806DB4" stroke="#D6E2E9"/>
 <rect x="602" y="670" width="17" height="54" rx="2" fill="#3F8FAD" stroke="#4D99B5"/>
-<rect x="625" y="664" width="17" height="60" rx="2" fill="#A18ACE" stroke="#BACBD9"/>
-<path d="M556 683H572 M579 697H595 M603 689H618 M626 685H641" stroke="#BACBD9" opacity=".5"/>
-<rect x="548" y="752" width="140" height="27" rx="13.5" fill="#F1EFFB" stroke="#897BC8"/>
+<rect x="625" y="664" width="17" height="60" rx="2" fill="#A18ACE" stroke="#D6E2E9"/>
+<path d="M556 683H572 M579 697H595 M603 689H618 M626 685H641" stroke="#D6E2E9" opacity=".5"/>
+<rect x="548" y="752" width="140" height="27" rx="13.5" fill="#F8FAFD" stroke="#D4D7E8"/>
 <text x="618" y="770" text-anchor="middle" font-family="monospace" font-size="12.4" fill="#24364B">
   AVAILABLE
   <animate attributeName="opacity" values="1;1;0;0;1;1" keyTimes="0;.25;.31;.70;.81;1" dur="12s" repeatCount="indefinite"/>
@@ -167,13 +168,13 @@
 </text>
 
 <!-- Student / circulation -->
-<rect x="736" y="596" width="179" height="198" rx="14" fill="#F1EFFB" stroke="#897BC8" stroke-width="1.2"/>
+<rect x="736" y="596" width="179" height="198" rx="14" fill="#F8FAFD" stroke="#D4D7E8" stroke-width="1.2"/>
 <text x="751" y="625" font-size="14.2" font-weight="700" fill="#24364B">Borrow / Return</text>
 <text x="751" y="644" font-size="12.5" fill="#24364B">Student circulation</text>
-<circle cx="817" cy="686" r="13" fill="none" stroke="#897BC8" stroke-width="2"/>
-<path d="M788 730Q788 703 817 703Q846 703 846 730" stroke="#897BC8" stroke-width="2" fill="none" stroke-linecap="round"/>
-<path d="M793 741H840" stroke="#897BC8" stroke-width="1.4"/>
-<rect x="749" y="752" width="152" height="27" rx="13.5" fill="#F1EFFB" stroke="#897BC8"/>
+<circle cx="817" cy="686" r="13" fill="none" stroke="#D4D7E8" stroke-width="2"/>
+<path d="M788 730Q788 703 817 703Q846 703 846 730" stroke="#D4D7E8" stroke-width="2" fill="none" stroke-linecap="round"/>
+<path d="M793 741H840" stroke="#D4D7E8" stroke-width="1.4"/>
+<rect x="749" y="752" width="152" height="27" rx="13.5" fill="#F8FAFD" stroke="#D4D7E8"/>
 <text x="825" y="770" text-anchor="middle" font-family="monospace" font-size="11.6" fill="#24364B">WAITING
  <animate attributeName="opacity" values="1;1;0;0;1;1" keyTimes="0;.25;.31;.7;.82;1" dur="12s" repeatCount="indefinite"/>
 </text>
@@ -182,39 +183,39 @@
 </text>
 
 <!-- Records with discrete loan/return state changes -->
-<rect x="947" y="596" width="185" height="198" rx="14" fill="#F1EFFB" stroke="#897BC8" stroke-width="1.2"/>
+<rect x="947" y="596" width="185" height="198" rx="14" fill="#F8FAFD" stroke="#D4D7E8" stroke-width="1.2"/>
 <text x="962" y="625" font-size="14.2" font-weight="700" fill="#24364B">Records</text>
 <text x="962" y="644" font-size="12.5" fill="#24364B">Status &amp; fines</text>
-<rect x="961" y="660" width="157" height="41" rx="9" fill="#F1EFFB" stroke="#897BC8"/>
+<rect x="961" y="660" width="157" height="41" rx="9" fill="#F8FAFD" stroke="#D4D7E8"/>
 <circle cx="973" cy="681" r="3.8" fill="#7A9ADE"/>
 <text x="984" y="678" font-family="monospace" font-size="11.2" fill="#24364B">LOAN ENTRY</text>
 <text x="984" y="692" font-family="monospace" font-size="10.7" fill="#4D657C">Saved when lent</text>
-<rect x="961" y="712" width="157" height="43" rx="9" fill="#F1EFFB" stroke="#897BC8"/>
+<rect x="961" y="712" width="157" height="43" rx="9" fill="#F8FAFD" stroke="#D4D7E8"/>
 <circle cx="973" cy="733" r="3.8" fill="#B6A8F0"/>
 <text x="984" y="730" font-family="monospace" font-size="11.1" fill="#24364B">RETURN ENTRY</text>
 <text x="984" y="744" font-family="monospace" font-size="10.7" fill="#4D657C">Fine if overdue</text>
-<rect x="961" y="660" width="157" height="41" rx="9" fill="none" stroke="#897BC8" stroke-width="1.8" opacity=".06">
+<rect x="961" y="660" width="157" height="41" rx="9" fill="none" stroke="#D4D7E8" stroke-width="1.8" opacity=".06">
  <animate attributeName="opacity" values=".06;.06;.9;.9;.06" keyTimes="0;.29;.37;.55;1" dur="12s" repeatCount="indefinite"/>
 </rect>
-<rect x="961" y="712" width="157" height="43" rx="9" fill="none" stroke="#897BC8" stroke-width="1.8" opacity=".06">
+<rect x="961" y="712" width="157" height="43" rx="9" fill="none" stroke="#D4D7E8" stroke-width="1.8" opacity=".06">
  <animate attributeName="opacity" values=".06;.06;.06;.9;.9;.06" keyTimes="0;.67;.77;.83;.91;1" dur="12s" repeatCount="indefinite"/>
 </rect>
 <text x="962" y="777" font-family="monospace" font-size="11" fill="#24364B">PERSIST TO FILE</text>
 
 <!-- The book icon travels shelf → student → shelf. Unlike generic packets it signifies a book. -->
-<path d="M679 705Q749 693 817 719" stroke="#897BC8" stroke-width="1.9" stroke-dasharray="3 6"/>
-<path d="M797 708L808 715L795 720 M690 700L683 705L690 710" stroke="#897BC8" stroke-width="1.6" fill="none"/>
+<path d="M679 705Q749 693 817 719" stroke="#D4D7E8" stroke-width="1.9" stroke-dasharray="3 6"/>
+<path d="M797 708L808 715L795 720 M690 700L683 705L690 710" stroke="#D4D7E8" stroke-width="1.6" fill="none"/>
 <g transform="translate(672 686)">
   <g>
     <animateTransform attributeName="transform" type="translate" values="0 0;145 33;145 33;0 0;0 0" keyTimes="0;.27;.62;.83;1" dur="12s" repeatCount="indefinite"/>
-    <rect x="-10" y="-9" width="18" height="25" rx="2" fill="#D5C6FF" stroke="#BACBD9" stroke-width="1.1"/>
-    <path d="M-6 -4H5M-6 2H3M-6 8H4" stroke="#897BC8" stroke-width="1.4" stroke-linecap="round"/>
+    <rect x="-10" y="-9" width="18" height="25" rx="2" fill="#D5C6FF" stroke="#D6E2E9" stroke-width="1.1"/>
+    <path d="M-6 -4H5M-6 2H3M-6 8H4" stroke="#D4D7E8" stroke-width="1.4" stroke-linecap="round"/>
   </g>
 </g>
 <!-- Activity notifications move from circulation to records at loan and return milestones. -->
-<path d="M915 706H946" stroke="#897BC8" stroke-width="1.9" stroke-dasharray="3 6"/>
-<path d="M935 701L942 706L935 711" stroke="#897BC8" stroke-width="1.4" fill="none"/>
-<circle r="4.5" fill="#E2D8FF" stroke="#897BC8">
+<path d="M915 706H946" stroke="#D4D7E8" stroke-width="1.9" stroke-dasharray="3 6"/>
+<path d="M935 701L942 706L935 711" stroke="#D4D7E8" stroke-width="1.4" fill="none"/>
+<circle r="4.5" fill="#E2D8FF" stroke="#D4D7E8">
  <animateMotion path="M916 706H946" keyPoints="0;0;1;1;1" keyTimes="0;.32;.39;.46;1" dur="12s" repeatCount="indefinite"/>
  <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;.3;.37;.45;1" dur="12s" repeatCount="indefinite"/>
 </circle>
@@ -225,7 +226,7 @@
 <text x="535" y="848" font-family="monospace" font-size="12.2" letter-spacing=".48" fill="#24364B">REGISTER BOOK  /  BORROW &amp; RETURN  /  UPDATE RECORD &amp; FINE STATUS</text>
 
 
-<path d="M44 883H1155" stroke="#CBD8E4"/>
+<path d="M44 883H1155" stroke="#DEE7EF"/>
 <text x="45" y="905" font-family="monospace" font-size="12" fill="#4D657C" letter-spacing="1">PROJECT CASE STUDIES  ·  DEMONSTRATION ONLY</text>
 <text x="1151" y="905" text-anchor="end" font-family="monospace" font-size="12" fill="#4D657C" letter-spacing=".7">PRIVATE REPOSITORIES</text>
 

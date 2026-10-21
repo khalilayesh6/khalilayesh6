@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="about-title about-desc">
   <title id="about-title">About Me — Backend-focused Developer</title>
-  <desc id="about-desc">Light GitHub theme with transparent outer background. I enjoy building practical projects and exploring the logic behind APIs, databases and backend systems. A navy developer-themed banner with a code panel.</desc>
+  <desc id="about-desc">Ambient-edge integrated GitHub design, coherent cyan-violet identity. Light GitHub theme with transparent outer background. I enjoy building practical projects and exploring the logic behind APIs, databases and backend systems. A navy developer-themed banner with a code panel.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#F1EFFB"/>
-      <stop offset=".55" stop-color="#F1EFFB"/>
-      <stop offset="1" stop-color="#F1EFFB"/>
+      <stop offset="0" stop-color="#F8FAFD"/>
+      <stop offset=".55" stop-color="#F8FAFD"/>
+      <stop offset="1" stop-color="#F8FAFD"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#238EAD"/>
@@ -17,18 +17,19 @@
       <stop offset="1" stop-color="#238EAD" stop-opacity="0"/>
     </radialGradient>
     <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
-      <path d="M34 0H0V34" stroke="#897BC8" stroke-width=".55" opacity=".08" fill="none"/>
+      <path d="M34 0H0V34" stroke="#D4D7E8" stroke-width=".55" opacity=".08" fill="none"/>
     </pattern>
     <clipPath id="clip"><rect width="1200" height="280" rx="22"/></clipPath>
-  </defs>
+  <radialGradient id="ghAmbientCyan" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#6EC9E6" stop-opacity=".23"/><stop offset=".55" stop-color="#C7EBF6" stop-opacity=".10"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></radialGradient><radialGradient id="ghAmbientViolet" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#AA9BEE" stop-opacity=".16"/><stop offset=".60" stop-color="#A99AF2" stop-opacity=".045"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></radialGradient><linearGradient id="ghIdentityRail" gradientUnits="userSpaceOnUse" x1="0" y1="45" x2="0" y2="235"><stop offset="0" stop-color="#5FCFE6" stop-opacity="0"/><stop offset=".24" stop-color="#5FCFE6" stop-opacity=".48"/><stop offset=".72" stop-color="#AD9BF3" stop-opacity=".36"/><stop offset="1" stop-color="#AD9BF3" stop-opacity="0"/></linearGradient></defs>
   <g clip-path="url(#clip)">
+<g aria-hidden="true"><ellipse cx="304" cy="129" rx="260" ry="120" fill="url(#ghAmbientCyan)"/><ellipse cx="894" cy="146" rx="267" ry="120" fill="url(#ghAmbientViolet)"/><path d="M27 46V235" fill="none" stroke="url(#ghIdentityRail)" stroke-width="2.2" stroke-linecap="round"/><circle cx="27" cy="126" r="3.3" fill="#43A0BC" opacity=".54"/></g>
     
     
     <circle cx="877" cy="137" r="355" fill="url(#halo)"/>
     
     
     <path d="M55 38V237" fill="none" stroke="#4D99B5" stroke-width="3" opacity=".9"/>
-    <rect x="76" y="37" width="172" height="30" rx="15" fill="#F1EFFB" stroke="#CBD8E4"/>
+    <rect x="76" y="37" width="172" height="30" rx="15" fill="#F8FAFD" stroke="#DEE7EF"/>
     <circle cx="94" cy="52" r="4.5" fill="#46DDBA"/>
     <text x="109" y="57" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="1.6" fill="#24364B">ABOUT ME</text>
     <text x="76" y="120" font-family="Arial,Helvetica,sans-serif" font-size="36" font-weight="800" letter-spacing="-.6" fill="#24364B">Backend-focused developer</text>
@@ -38,10 +39,10 @@
     <text x="76" y="211" font-family="Arial,Helvetica,sans-serif" font-size="20" fill="#24364B">behind APIs, databases, and backend systems.</text>
     <text x="76" y="248" font-family="monospace" font-size="13" letter-spacing="1.3" fill="#6854A7">BUILD  /  DEBUG  /  IMPROVE</text>
     <g transform="translate(769 42)">
-      <rect width="377" height="200" rx="15" fill="#F1EFFB" stroke="#897BC8" stroke-width="1.3"/>
-      <rect width="377" height="39" rx="15" fill="#F1EFFB"/>
-      <path d="M0 22V39H377V22" fill="#F1EFFB"/>
-      <line x1="0" y1="39" x2="377" y2="39" stroke="#CBD8E4"/>
+      <rect width="377" height="200" rx="15" fill="#F8FAFD" stroke="#D8E4EC" stroke-width="1.15"/>
+      <rect width="377" height="39" rx="15" fill="#F8FAFD"/>
+      <path d="M0 22V39H377V22" fill="#F8FAFD"/>
+      <line x1="0" y1="39" x2="377" y2="39" stroke="#DEE7EF"/>
       <circle cx="24" cy="20" r="5.2" fill="#FF777C"/>
       <circle cx="43" cy="20" r="5.2" fill="#FFCC70"/>
       <circle cx="62" cy="20" r="5.2" fill="#47D3AA"/>
