@@ -39,7 +39,7 @@
 <br />
 
 <div align="center">
-  <img src="./assets/selected-projects-storyflow.svg" width="100%" alt="Selected Projects: Mizan Finance workflow animates account selection, transaction recording, and report updates. Smart University Library workflow shows catalog, borrowing and returns, with a return signal and record and fine updates. Both source repositories remain private." />
+  <img src="./assets/selected-projects-cinematic.svg" width="100%" alt="Selected Projects animated stories: Mizan Finance depicts choosing a wallet account, saving an income or expense entry, updating a financial summary and account balance. Smart University Library shows a book moving from shelf to student and returning, with loan status and records updated and fines checked when overdue. Illustrative data; both repositories are private." />
 </div>
 
 ---
