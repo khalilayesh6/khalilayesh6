@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-labelledby="title desc">
+  <title id="title">Areas I'm exploring</title>
+  <desc id="desc">Three dark navy technical panels about APIs, databases, and engineering practices.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#091526"/><stop offset="1" stop-color="#101b38"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#55dafa"/><stop offset="1" stop-color="#aa8fff"/></linearGradient>
+  </defs>
+  <rect width="1200" height="230" rx="18" fill="url(#bg)"/>
+  <g font-family="Arial,Helvetica,sans-serif">
+    <g transform="translate(21 21)">
+      <rect width="372" height="188" rx="13" fill="#101e33" stroke="#2c5070"/>
+      <rect x="0" y="0" width="372" height="3" rx="1.5" fill="#55dafa"/>
+      <text x="25" y="43" fill="#55dafa" font-size="15" font-weight="700" letter-spacing="2">01 / LOGIC</text>
+      <text x="25" y="95" fill="#f1f6ff" font-size="29" font-weight="700">API Development</text>
+      <text x="25" y="130" fill="#aac3db" font-size="17">Endpoints, data flow, validation</text>
+      <path d="M25 156h174" stroke="#437c9b" stroke-width="2" stroke-dasharray="3 10" stroke-linecap="round"/>
+      <circle cx="215" cy="156" r="4" fill="#55dafa"><animate attributeName="cx" values="35;215;35" dur="5s" repeatCount="indefinite"/></circle>
+    </g>
+    <g transform="translate(414 21)">
+      <rect width="372" height="188" rx="13" fill="#101e33" stroke="#3d4771"/>
+      <rect x="0" y="0" width="372" height="3" rx="1.5" fill="#918bfa"/>
+      <text x="25" y="43" fill="#a99bff" font-size="15" font-weight="700" letter-spacing="2">02 / DATA</text>
+      <text x="25" y="95" fill="#f1f6ff" font-size="29" font-weight="700">Databases</text>
+      <text x="25" y="130" fill="#aac3db" font-size="17">Models, queries, relationships</text>
+      <path d="M25 156h174" stroke="#7665ad" stroke-width="2" stroke-dasharray="3 10" stroke-linecap="round"/>
+      <circle cx="215" cy="156" r="4" fill="#a99bff"><animate attributeName="cx" values="35;215;35" dur="6s" repeatCount="indefinite"/></circle>
+    </g>
+    <g transform="translate(807 21)">
+      <rect width="372" height="188" rx="13" fill="#101e33" stroke="#2c5070"/>
+      <rect x="0" y="0" width="372" height="3" rx="1.5" fill="url(#accent)"/>
+      <text x="25" y="43" fill="#66d9ea" font-size="15" font-weight="700" letter-spacing="2">03 / GROWTH</text>
+      <text x="25" y="95" fill="#f1f6ff" font-size="29" font-weight="700">Better Code</text>
+      <text x="25" y="130" fill="#aac3db" font-size="17">Practice, debugging, improving</text>
+      <path d="M25 156h174" stroke="#437c9b" stroke-width="2" stroke-dasharray="3 10" stroke-linecap="round"/>
+      <circle cx="215" cy="156" r="4" fill="#55dafa"><animate attributeName="cx" values="35;215;35" dur="7s" repeatCount="indefinite"/></circle>
+    </g>
+  </g>
+</svg>
