@@ -1,68 +1,106 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="274" viewBox="0 0 1200 274" role="img" aria-labelledby="title desc">
-<title id="title">My backend focus: APIs and logic, database design, code quality</title>
-<desc id="desc">Three connected areas of backend development: build endpoints and server logic, structure databases and queries, and improve code through testing and debugging.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="370" viewBox="0 0 1200 370" role="img" aria-labelledby="title description">
+<title id="title">Backend System Map — Logic, Data, and Code Quality</title>
+<desc id="description">APIs and business logic exchange data with the database through two animated light paths. Code quality, testing, debugging and refactoring form a shared foundation that supports both.</desc>
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0" stop-color="#091526"/>
-    <stop offset=".58" stop-color="#0d1c32"/>
-    <stop offset="1" stop-color="#151735"/>
+  <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#091525"/>
+    <stop offset=".53" stop-color="#0b1931"/>
+    <stop offset="1" stop-color="#181636"/>
   </linearGradient>
-  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0" stop-color="#58dcef"/>
-    <stop offset=".54" stop-color="#608ddf"/>
-    <stop offset="1" stop-color="#af92fc"/>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#5adbf2"/>
+    <stop offset=".51" stop-color="#527ee1"/>
+    <stop offset="1" stop-color="#ac91fa"/>
   </linearGradient>
-  <pattern id="grid" width="31" height="31" patternUnits="userSpaceOnUse">
-    <path d="M31 0H0V31" fill="none" stroke="#9fb6da" stroke-width=".7" opacity=".075"/>
+  <linearGradient id="quality" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#112941"/>
+    <stop offset=".54" stop-color="#12263f"/>
+    <stop offset="1" stop-color="#20213f"/>
+  </linearGradient>
+  <radialGradient id="glow">
+    <stop offset="0" stop-color="#2993d3" stop-opacity=".23"/>
+    <stop offset="1" stop-color="#2993d3" stop-opacity="0"/>
+  </radialGradient>
+  <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+    <path d="M34 0H0V34" fill="none" stroke="#9bb3dc" stroke-width=".6" stroke-opacity=".08"/>
   </pattern>
-  <clipPath id="frame"><rect width="1200" height="274" rx="19"/></clipPath>
+  <clipPath id="frame"><rect width="1200" height="370" rx="20"/></clipPath>
 </defs>
 <g clip-path="url(#frame)">
-  <rect width="1200" height="274" fill="url(#bg)"/>
-  <rect width="1200" height="274" fill="url(#grid)"/>
-  <path d="M0 2H1200" stroke="url(#accent)" stroke-width="3" opacity=".75"/>
-  <rect x="23" y="23" width="215" height="29" rx="14.5" fill="#122b42" stroke="#2b5975"/>
-  <circle cx="43" cy="37.5" r="4" fill="#5bdab9"/>
-  <text x="58" y="42" font-family="Arial,Helvetica,sans-serif" font-size="12.5" font-weight="700" letter-spacing="1.7" fill="#abd9e9">BACKEND FOCUS</text>
-  <text x="1176" y="42" font-family="monospace" font-size="12" fill="#7a95b4" letter-spacing="1" text-anchor="end">THREE CORE AREAS</text>
-  <line x1="400" y1="78" x2="400" y2="227" stroke="#3a5375" stroke-opacity=".8"/>
-  <line x1="800" y1="78" x2="800" y2="227" stroke="#3a5375" stroke-opacity=".8"/>
-  <!-- Shared rail, making the three areas visibly connected. -->
-  <path d="M63 235H1137" fill="none" stroke="#406487" stroke-width="2" stroke-dasharray="3 9" stroke-linecap="round"/>
-  <path d="M63 235H1137" fill="none" stroke="url(#accent)" stroke-width="2" stroke-dasharray="2 30" stroke-linecap="round" opacity=".8">
-    <animate attributeName="stroke-dashoffset" values="0;-96" dur="12s" repeatCount="indefinite"/>
-  </path>
-  <!-- Pillar 1 -->
-  <g font-family="Arial,Helvetica,sans-serif">
-    <text x="35" y="94" font-size="15" font-weight="700" letter-spacing="1.7" fill="#60d9ef">01 / APPLICATION</text>
-    <rect x="319" y="76" width="49" height="49" rx="12" fill="#102e45" stroke="#36728a"/>
-    <path d="M337 90l-9 10 9 10m15-20 9 10-9 10m-9 5 7-29" fill="none" stroke="#6de0f4" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
-    <text x="35" y="153" font-size="31" font-weight="800" fill="#f2f7ff" letter-spacing="-.7">APIs &amp; Logic</text>
-    <text x="35" y="185" font-size="18" fill="#aec5df">Routes, requests, validation</text>
-    <rect x="35" y="198" width="245" height="27" rx="8" fill="#152b42" stroke="#305875" stroke-opacity=".75"/>
-    <text x="48" y="216.5" font-family="monospace" font-size="13.5" fill="#8ddcf0">REQUEST → RESPONSE</text>
-    <circle cx="181" cy="235" r="4.5" fill="#59def2"/>
-    <!-- Pillar 2 -->
-    <text x="432" y="94" font-size="15" font-weight="700" letter-spacing="1.7" fill="#a79bf3">02 / DATA</text>
-    <rect x="716" y="76" width="49" height="49" rx="12" fill="#242442" stroke="#635b9d"/>
-    <ellipse cx="741" cy="91" rx="15" ry="6" fill="none" stroke="#ae9df8" stroke-width="2.1"/>
-    <path d="M726 91v18c0 8 30 8 30 0V91m-30 9c0 8 30 8 30 0" fill="none" stroke="#ae9df8" stroke-width="2.1"/>
-    <text x="432" y="153" font-size="31" font-weight="800" fill="#f2f7ff" letter-spacing="-.7">Database Design</text>
-    <text x="432" y="185" font-size="18" fill="#aec5df">Models, queries, relationships</text>
-    <rect x="432" y="198" width="236" height="27" rx="8" fill="#1b2545" stroke="#5c567e" stroke-opacity=".78"/>
-    <text x="445" y="216.5" font-family="monospace" font-size="13.5" fill="#b0a2f4">STRUCTURE → STORE</text>
-    <circle cx="585" cy="235" r="4.5" fill="#a999f5"/>
-    <!-- Pillar 3 -->
-    <text x="834" y="94" font-size="15" font-weight="700" letter-spacing="1.7" fill="#65dbe9">03 / QUALITY</text>
-    <rect x="1117" y="76" width="49" height="49" rx="12" fill="#102b44" stroke="#3b6b86"/>
-    <path d="M1130 101l10 10 16-19" fill="none" stroke="#77e2e6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-    <circle cx="1142" cy="101" r="17" fill="none" stroke="#70cbeb" stroke-opacity=".4" stroke-width="1.5"/>
-    <text x="834" y="153" font-size="31" font-weight="800" fill="#f2f7ff" letter-spacing="-.7">Code Quality</text>
-    <text x="834" y="185" font-size="18" fill="#aec5df">Testing, debugging, improving</text>
-    <rect x="834" y="198" width="242" height="27" rx="8" fill="#152b42" stroke="#305875" stroke-opacity=".75"/>
-    <text x="847" y="216.5" font-family="monospace" font-size="13.5" fill="#8ddcf0">TEST → REFINE</text>
-    <circle cx="982" cy="235" r="4.5" fill="#79e2ec"/>
-  </g>
-  <rect x=".5" y=".5" width="1199" height="273" rx="18.5" fill="none" stroke="#365477" stroke-opacity=".7"/>
+  <rect width="1200" height="370" fill="url(#background)"/>
+  <rect width="1200" height="370" fill="url(#grid)"/>
+  <circle cx="601" cy="124" r="365" fill="url(#glow)"/>
+  <path d="M0 2H1200" stroke="url(#edge)" stroke-width="3"/>
+  <path d="M0 367H1200" stroke="url(#edge)" stroke-width="2" opacity=".65"/>
+
+  <!-- Section label -->
+  <rect x="35" y="22" width="224" height="32" rx="16" fill="#102c40" stroke="#2c5d77"/>
+  <circle cx="54" cy="38" r="4.5" fill="#54ddb7">
+    <animate attributeName="opacity" values=".5;1;.5" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <text x="70" y="43" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="13" letter-spacing="1.5" fill="#bce9f1">BACKEND SYSTEM MAP</text>
+  <text x="1162" y="43" text-anchor="end" font-family="monospace" font-size="13" letter-spacing="1" fill="#839ebc">ONE SYSTEM · CONNECTED DISCIPLINES</text>
+
+  <!-- Shared quality-layer connections (behind cards). -->
+  <path d="M270 241V277M930 241V277" stroke="#537b9c" stroke-width="2" fill="none" stroke-dasharray="4 6"/>
+  <circle cx="270" cy="246" r="3.5" fill="#64ddec">
+    <animate attributeName="cy" values="246;274;246" dur="3.9s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".5;1;.5" dur="3.9s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="930" cy="271" r="3.5" fill="#a695fb">
+    <animate attributeName="cy" values="271;245;271" dur="4.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".5;1;.5" dur="4.2s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Application node -->
+  <rect x="35" y="72" width="492" height="170" rx="16" fill="#101f34" stroke="#37627c" stroke-width="1.5"/>
+  <path d="M52 73H510" stroke="#5bdaec" stroke-width="2.8" stroke-linecap="round"/>
+  <rect x="56" y="96" width="49" height="49" rx="12" fill="#14364b" stroke="#37758e"/>
+  <path d="M74 109L65 120L74 131M89 109L98 120L89 131M85 105L79 135" stroke="#73e1f0" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <text x="123" y="111" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="1.65" fill="#60d9ec">APPLICATION LAYER</text>
+  <text x="122" y="141" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="800" letter-spacing="-.5" fill="#f2f7ff">APIs &amp; Logic</text>
+  <path d="M57 161H497" stroke="#2e4b66" stroke-width="1"/>
+  <text x="57" y="189" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#bdd1e5">Requests, validation &amp; business logic</text>
+  <text x="57" y="217" font-family="monospace" font-size="13" fill="#7faac9" letter-spacing=".5">ROUTES  /  ENDPOINTS  /  BEHAVIOR</text>
+
+  <!-- Data node -->
+  <rect x="673" y="72" width="492" height="170" rx="16" fill="#121e36" stroke="#57527f" stroke-width="1.5"/>
+  <path d="M690 73H1148" stroke="#a395fb" stroke-width="2.8" stroke-linecap="round"/>
+  <rect x="694" y="96" width="49" height="49" rx="12" fill="#272844" stroke="#6a5ea2"/>
+  <ellipse cx="718.5" cy="110" rx="14" ry="5.5" fill="none" stroke="#b3a3ff" stroke-width="2"/>
+  <path d="M704.5 110V128C704.5 135 732.5 135 732.5 128V110M704.5 119C704.5 126 732.5 126 732.5 119" fill="none" stroke="#b3a3ff" stroke-width="2"/>
+  <text x="761" y="111" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="1.65" fill="#b29ef6">DATA LAYER</text>
+  <text x="760" y="141" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="800" letter-spacing="-.5" fill="#f2f7ff">Database Design</text>
+  <path d="M695 161H1135" stroke="#3d4266" stroke-width="1"/>
+  <text x="695" y="189" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#bdd1e5">Models, relationships &amp; queries</text>
+  <text x="695" y="217" font-family="monospace" font-size="13" fill="#a69fd9" letter-spacing=".5">STRUCTURE  /  STORE  /  RETRIEVE</text>
+
+  <!-- Two-way communication tracks -->
+  <rect x="542" y="82" width="116" height="29" rx="14.5" fill="#162a43" stroke="#3d6085"/>
+  <text x="600" y="102" font-family="monospace" font-size="12" font-weight="700" text-anchor="middle" fill="#b9d5eb" letter-spacing="1.25">DATA FLOW</text>
+  <path d="M534 151H665" stroke="#4f7fa2" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M534 187H665" stroke="#615b91" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M660 145L668 151L660 157" fill="none" stroke="#68deef" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M540 181L532 187L540 193" fill="none" stroke="#ae9aff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle r="4.4" fill="#6be3ef">
+    <animateMotion dur="2.8s" repeatCount="indefinite" path="M540 151H655"/>
+  </circle>
+  <circle r="4.4" fill="#b3a1fa">
+    <animateMotion dur="3.2s" repeatCount="indefinite" path="M660 187H545"/>
+  </circle>
+
+  <!-- Continuous reliability layer -->
+  <rect x="35" y="276" width="1130" height="70" rx="14" fill="url(#quality)" stroke="#466587" stroke-width="1.4"/>
+  <path d="M51 277H1149" stroke="url(#edge)" stroke-width="2.5" stroke-linecap="round"/>
+  <rect x="56" y="289" width="44" height="44" rx="11" fill="#14364a" stroke="#4a8b9c"/>
+  <path d="M78 297L91 302V312C91 322 86 327 78 330C70 327 65 322 65 312V302Z" fill="none" stroke="#70e4dc" stroke-width="2.2" stroke-linejoin="round"/>
+  <path d="M72 313L76 317L84 308" fill="none" stroke="#70e4dc" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="119" y="311" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="800" fill="#f2f7ff">Code Quality</text>
+  <text x="120" y="333" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#b7cde1">Testing · Debugging · Refactoring</text>
+  <rect x="889" y="295" width="250" height="31" rx="15.5" fill="#1b2e48" stroke="#43678c"/>
+  <circle cx="907" cy="310.5" r="4" fill="#67e0c5"/>
+  <text x="920" y="316" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="1" fill="#add4e8">SUPPORTS BOTH LAYERS</text>
+
+  <rect x=".5" y=".5" width="1199" height="369" rx="19.5" fill="none" stroke="#48617e" stroke-opacity=".72"/>
 </g>
 </svg>
