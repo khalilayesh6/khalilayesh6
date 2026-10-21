@@ -39,7 +39,7 @@
 <br />
 
 <div align="center">
-  <img src="./assets/featured-finance-v1.svg" width="100%" alt="Featured project case study: Finance Management System — accounts, transactions and reporting. Private source code is not linked; illustrated dashboard is conceptual." />
+  <img src="./assets/featured-finance-v2.svg" width="100%" alt="Featured project case study: Finance Management System. Goal: organized financial activity. Includes accounts, transactions, and reporting. Source code remains private." />
 </div>
 
 ---
