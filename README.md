@@ -41,3 +41,11 @@
 <div align="center">
   <img src="./assets/selected-projects-cinematic.svg" width="100%" alt="Selected Projects animated stories: Mizan Finance depicts choosing a wallet account, saving an income or expense entry, updating a financial summary and account balance. Smart University Library shows a book moving from shelf to student and returning, with loan status and records updated and fines checked when overdue. Illustrative data; both repositories are private." />
 </div>
+
+<br />
+
+<div align="center">
+  <img src="./assets/mizan-ui-evidence.svg" width="100%" alt="Mizan Finance interface study — an illustrative vector overview informed by the supplied application screenshots, covering the dashboard, accounts, transactions, debt tracking, reconciliation, budgets, and financial reporting." />
+</div>
+
+<p align="center"><sub>Screen-based illustration. The actual application screenshots are shared separately for review.</sub></p>
