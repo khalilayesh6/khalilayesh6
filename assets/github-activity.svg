@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="410" viewBox="0 0 1200 410" role="img" aria-labelledby="title desc">
+<title id="title">GitHub Activity — Recent Public Profile Updates</title>
+<desc id="desc">An accurate historical snapshot of three merged pull requests in this public GitHub profile repository, all merged on October 21 2026. Pull request 8 grouped projects, pull request 9 connected animations to real workflows, and pull request 10 added cinematic system stories. Not a live contribution count.</desc>
+<defs>
+ <linearGradient id="night" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#081525"/><stop offset=".6" stop-color="#0d1b33"/><stop offset="1" stop-color="#1b1735"/></linearGradient>
+ <linearGradient id="stroke" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#5CDDEB"/><stop offset=".53" stop-color="#6090E2"/><stop offset="1" stop-color="#B6A3FF"/></linearGradient>
+ <radialGradient id="ambient"><stop offset="0" stop-color="#4388D5" stop-opacity=".15"/><stop offset="1" stop-color="#4388D5" stop-opacity="0"/></radialGradient>
+ <pattern id="mesh" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#82A0C5" stroke-width=".6" opacity=".085"/></pattern>
+ <clipPath id="clip"><rect width="1200" height="410" rx="21"/></clipPath>
+</defs>
+<g clip-path="url(#clip)" font-family="Arial,Helvetica,sans-serif">
+ <rect width="1200" height="410" fill="url(#night)"/>
+ <rect width="1200" height="410" fill="url(#mesh)"/>
+ <circle cx="905" cy="194" r="405" fill="url(#ambient)"/>
+ <path d="M0 2H1200" stroke="url(#stroke)" stroke-width="3.3"/>
+ <path d="M0 407H1200" stroke="url(#stroke)" stroke-width="1.8" opacity=".5"/>
+ <rect x="44" y="25" width="196" height="29" rx="14.5" fill="#123149" stroke="#386684"/>
+ <circle cx="62" cy="39.5" r="4.4" fill="#66E0C0"/>
+ <text x="75" y="44" fill="#B7DEEA" font-size="13" font-weight="700" letter-spacing="1.4">GITHUB ACTIVITY</text>
+ <text x="44" y="105" fill="#F0F7FF" font-size="36" font-weight="800" letter-spacing="-.5">Recent Public Work</text>
+ <text x="45" y="137" fill="#ABC4D8" font-size="17.2">A snapshot of how the profile evolved through reviewed changes.</text>
+ <text x="1156" y="70" text-anchor="end" font-family="monospace" font-size="13" letter-spacing="1" fill="#96B3CB">PROFILE REPOSITORY</text>
+ <text x="1156" y="92" text-anchor="end" font-family="monospace" font-size="12" letter-spacing="1" fill="#8CA7BE">21 OCT 2026 · SNAPSHOT</text>
+ <path d="M44 158H1156" stroke="#304A69" stroke-width="1"/>
+
+
+ <g>
+  <rect x="45" y="185" width="350" height="149" rx="16" fill="#13243D" stroke="#3B7891" stroke-opacity=".9" stroke-width="1.35"/>
+  <path d="M61 186H379" stroke="#65DAEB" stroke-width="2.6" stroke-linecap="round" opacity=".9"/>
+  <rect x="63" y="204" width="65" height="27" rx="13.5" fill="#1F3351" stroke="#3B7891" stroke-width=".8"/>
+  <text x="95" y="222" text-anchor="middle" font-family="monospace" fill="#65DAEB" font-size="12.5" font-weight="700">PR #08</text>
+  <circle cx="361" cy="218" r="4" fill="#68D7BA"/>
+  <text x="347" y="222" text-anchor="end" font-family="monospace" font-size="11.3" fill="#A1CFBF">MERGED</text>
+  <text x="63" y="270" fill="#EFF6FF" font-size="24" font-weight="800">Project Showcase</text>
+  <text x="63" y="299" fill="#B1C6DC" font-size="16">Organized two projects into</text>
+  <text x="63" y="321" fill="#B1C6DC" font-size="16">one curated portfolio section.</text>
+  <path d="M220 334V365" stroke="#4C647D" stroke-width="1.8" stroke-dasharray="2 5"/>
+  <circle cx="220" cy="365" r="5" fill="#152840" stroke="#65DAEB" stroke-width="2"/>
+ </g>
+
+ <g>
+  <rect x="425" y="185" width="350" height="149" rx="16" fill="#13243D" stroke="#4F6D9D" stroke-opacity=".9" stroke-width="1.35"/>
+  <path d="M441 186H759" stroke="#87B5FA" stroke-width="2.6" stroke-linecap="round" opacity=".9"/>
+  <rect x="443" y="204" width="65" height="27" rx="13.5" fill="#1F3351" stroke="#4F6D9D" stroke-width=".8"/>
+  <text x="475" y="222" text-anchor="middle" font-family="monospace" fill="#87B5FA" font-size="12.5" font-weight="700">PR #09</text>
+  <circle cx="741" cy="218" r="4" fill="#68D7BA"/>
+  <text x="727" y="222" text-anchor="end" font-family="monospace" font-size="11.3" fill="#A1CFBF">MERGED</text>
+  <text x="443" y="270" fill="#EFF6FF" font-size="24" font-weight="800">Meaningful Motion</text>
+  <text x="443" y="299" fill="#B1C6DC" font-size="16">Connected the animations</text>
+  <text x="443" y="321" fill="#B1C6DC" font-size="16">to each project's workflow.</text>
+  <path d="M600 334V365" stroke="#4C647D" stroke-width="1.8" stroke-dasharray="2 5"/>
+  <circle cx="600" cy="365" r="5" fill="#152840" stroke="#87B5FA" stroke-width="2"/>
+ </g>
+
+ <g>
+  <rect x="805" y="185" width="350" height="149" rx="16" fill="#13243D" stroke="#685BA0" stroke-opacity=".9" stroke-width="1.35"/>
+  <path d="M821 186H1139" stroke="#B29EFA" stroke-width="2.6" stroke-linecap="round" opacity=".9"/>
+  <rect x="823" y="204" width="65" height="27" rx="13.5" fill="#1F3351" stroke="#685BA0" stroke-width=".8"/>
+  <text x="855" y="222" text-anchor="middle" font-family="monospace" fill="#B29EFA" font-size="12.5" font-weight="700">PR #10</text>
+  <circle cx="1121" cy="218" r="4" fill="#68D7BA"/>
+  <text x="1107" y="222" text-anchor="end" font-family="monospace" font-size="11.3" fill="#A1CFBF">MERGED</text>
+  <text x="823" y="270" fill="#EFF6FF" font-size="24" font-weight="800">Cinematic Stories</text>
+  <text x="823" y="299" fill="#B1C6DC" font-size="16">Brought transactions and</text>
+  <text x="823" y="321" fill="#B1C6DC" font-size="16">library circulation to life.</text>
+  <path d="M980 334V365" stroke="#4C647D" stroke-width="1.8" stroke-dasharray="2 5"/>
+  <circle cx="980" cy="365" r="5" fill="#152840" stroke="#B29EFA" stroke-width="2"/>
+ </g>
+
+ <path d="M220 365H980" stroke="#3B536F" stroke-width="3" stroke-linecap="round" fill="none"/>
+ <path d="M220 365H980" stroke="url(#stroke)" stroke-width="2.5" stroke-linecap="round" opacity=".6" stroke-dasharray="6 19" fill="none">
+  <animate attributeName="stroke-dashoffset" values="0;-100" dur="9s" repeatCount="indefinite"/>
+ </path>
+ <circle r="6" fill="#E5F6FF" stroke="#91DDEA" stroke-width="1">
+  <animateMotion path="M220 365H980" keyPoints="0;0;.5;.5;1;1" keyTimes="0;.18;.46;.62;.91;1" calcMode="linear" dur="12s" repeatCount="indefinite"/>
+ </circle>
+ <text x="47" y="394" font-family="monospace" fill="#8CAAC3" font-size="12.5" letter-spacing=".6">VERIFIED MERGED PRS · HISTORICAL SNAPSHOT, NOT LIVE METRICS</text>
+ <text x="1152" y="394" font-family="monospace" text-anchor="end" fill="#A3BDCE" font-size="12.5" letter-spacing=".8">SEE LATEST ACTIVITY BELOW</text>
+ <rect x=".6" y=".6" width="1198.8" height="408.8" rx="20.4" fill="none" stroke="#425D7B" stroke-opacity=".68" stroke-width="1.2"/>
+</g>
+</svg>
