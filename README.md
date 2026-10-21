@@ -24,22 +24,13 @@
   <img src="./assets/focus.svg" width="100%" alt="Learning focus: API development, databases, and better code." />
 </div>
 
-### ✦ Technologies & tools
-
-<div align="center">
-
-**Learning & building with**
-
 <br />
 
-<img src="https://img.shields.io/badge/PHP-101C30?style=for-the-badge&amp;logo=php&amp;logoColor=88A7F7" alt="PHP" />
-<img src="https://img.shields.io/badge/Laravel-101C30?style=for-the-badge&amp;logo=laravel&amp;logoColor=FF6C72" alt="Laravel" />
-<img src="https://img.shields.io/badge/MySQL-101C30?style=for-the-badge&amp;logo=mysql&amp;logoColor=5CC5EC" alt="MySQL" />
-<img src="https://img.shields.io/badge/Java-101C30?style=for-the-badge&amp;logo=openjdk&amp;logoColor=E8A96B" alt="Java" />
-<img src="https://img.shields.io/badge/Git-101C30?style=for-the-badge&amp;logo=git&amp;logoColor=F77966" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-101C30?style=for-the-badge&amp;logo=github&amp;logoColor=E4ECFA" alt="GitHub" />
-
+<div align="center">
+  <img src="./assets/tech-stack.svg" width="100%" alt="Developer Toolkit: backend and languages PHP, Laravel, Java; database MySQL; version control Git and GitHub. Technologies I am learning and building with." />
 </div>
+
+<br />
 
 ### ✦ How I approach building
 
