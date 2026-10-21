@@ -18,15 +18,15 @@
 
 <br />
 
-<div align="center">
-  <img src="https://img.shields.io/badge/FOCUS-BACKEND%20DEVELOPMENT-10243A?style=flat-square&amp;labelColor=14253A&amp;color=167B97" alt="Backend development focus" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/MINDSET-ALWAYS%20LEARNING-231B42?style=flat-square&amp;labelColor=182438&amp;color=7867C7" alt="Always learning" />
-</div>
+<p align="center">
+  <code>BACKEND DEVELOPMENT</code>
+  &nbsp;&nbsp;
+  <code>ALWAYS LEARNING</code>
+</p>
 
 <br />
 
-### ✦ What I'm exploring
+<h3 align="center">What I’m Exploring</h3>
 
 <div align="center">
   <picture>
