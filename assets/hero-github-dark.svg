@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="370" viewBox="0 0 1200 370" role="img" aria-labelledby="title desc">
   <title id="title">Khalil H Ayesh — Backend Developer</title>
-  <desc id="desc">GitHub-native flat canvas: no image-wide background, no atmospheric overlays, dark contrast. Ambient-edge integrated GitHub design, coherent cyan-violet identity. Dark GitHub theme with transparent outer background. Animated dark navy developer workspace banner with cyan and violet lighting, and a code editor illustration.</desc>
+  <desc id="desc">Typography V4: Segoe UI editorial hierarchy and restrained Github-aligned color system. GitHub-native flat canvas: no image-wide background, no atmospheric overlays, dark contrast. Ambient-edge integrated GitHub design, coherent cyan-violet identity. Dark GitHub theme with transparent outer background. Animated dark navy developer workspace banner with cyan and violet lighting, and a code editor illustration.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#091322"/>
@@ -50,37 +50,37 @@
     <circle cx="97" cy="63" r="4.7" fill="#45dfbf">
       <animate attributeName="opacity" values="1;.32;1" dur="2.2s" repeatCount="indefinite"/>
     </circle>
-    <text x="113" y="68" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#b9e6ed" letter-spacing="1.5">HELLO, I'M</text>
-    <text x="77" y="162" font-family="Arial,Helvetica,sans-serif" font-size="67" font-weight="800" fill="#f2f7ff" letter-spacing="-1.6">Khalil Ayesh</text>
-    <text x="79" y="207" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="700" fill="#72d9f6" letter-spacing="3">BACKEND DEVELOPER</text>
+    <text x="113" y="68" font-family="Segoe UI,Arial,Helvetica,sans-serif" font-size="12" fill="#72D8EC" letter-spacing="1.08">HELLO, I'M</text>
+    <text x="77" y="162" font-family="Segoe UI,Arial,Helvetica,sans-serif" font-size="64" font-weight="700" fill="#F0F6FC" letter-spacing="-0.8">Khalil Ayesh</text>
+    <text x="79" y="207" font-family="Segoe UI,Arial,Helvetica,sans-serif" font-size="24" font-weight="700" fill="#F0F6FC" letter-spacing="1.2">BACKEND DEVELOPER</text>
     <rect x="79" y="225" width="58" height="3" rx="1.5" fill="#65dfff"/>
     <rect x="144" y="225" width="25" height="3" rx="1.5" fill="#9b8fff"/>
-    <text x="79" y="265" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#b6c8e6">Building practical projects.</text>
-    <text x="79" y="293" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#b6c8e6">Learning something new every day.</text>
-    <text x="79" y="335" font-family="monospace" font-size="12" letter-spacing="1.5" fill="#7794b5">BUILD  /  LEARN  /  IMPROVE</text>
+    <text x="79" y="265" font-family="Segoe UI,Arial,Helvetica,sans-serif" font-size="19" fill="#C9D1D9">Building practical projects.</text>
+    <text x="79" y="293" font-family="Segoe UI,Arial,Helvetica,sans-serif" font-size="19" fill="#C9D1D9">Learning something new every day.</text>
+    <text x="79" y="335" font-family="Consolas,Liberation Mono,monospace" font-size="12" letter-spacing="1.08" fill="#A7B2BE">BUILD  /  LEARN  /  IMPROVE</text>
     <g>
-      <rect x="720" y="49" width="422" height="273" rx="17" fill="#151B23" stroke="#30363D" stroke-width="1.15"/>
+      <rect x="720" y="49" width="422" height="273" rx="14" fill="#151B23" stroke="#3D444D" stroke-width="1.15"/>
       <rect x="720" y="49" width="422" height="42" rx="17" fill="#18243d"/>
       <path d="M720 78V91H1142V78" fill="#18243d"/>
       <line x1="720" y1="91" x2="1142" y2="91" stroke="#384968" stroke-width="1"/>
       <circle cx="749" cy="70" r="5.3" fill="#ff777c"/>
       <circle cx="768" cy="70" r="5.3" fill="#ffcc70"/>
       <circle cx="787" cy="70" r="5.3" fill="#47d3aa"/>
-      <text x="930" y="76" text-anchor="middle" font-family="monospace" font-size="13" fill="#96a9c8">developer.ts</text>
-      <text x="743" y="132" font-family="monospace" font-size="15" fill="#768ca9">01</text>
-      <text x="777" y="132" font-family="monospace" font-size="16" fill="#b39afa">const</text>
-      <text x="834" y="132" font-family="monospace" font-size="16" fill="#dfedff">developer = {</text>
-      <text x="743" y="169" font-family="monospace" font-size="15" fill="#768ca9">02</text>
-      <text x="804" y="169" font-family="monospace" font-size="16" fill="#6bd5f7">focus:</text>
-      <text x="870" y="169" font-family="monospace" font-size="16" fill="#b9e5a0">"backend",</text>
-      <text x="743" y="206" font-family="monospace" font-size="15" fill="#768ca9">03</text>
-      <text x="804" y="206" font-family="monospace" font-size="16" fill="#6bd5f7">mode:</text>
-      <text x="862" y="206" font-family="monospace" font-size="16" fill="#b9e5a0">"learning",</text>
-      <text x="743" y="243" font-family="monospace" font-size="15" fill="#768ca9">04</text>
-      <text x="804" y="243" font-family="monospace" font-size="16" fill="#6bd5f7">goal:</text>
-      <text x="862" y="243" font-family="monospace" font-size="16" fill="#b9e5a0">"build better"</text>
-      <text x="743" y="280" font-family="monospace" font-size="15" fill="#768ca9">05</text>
-      <text x="777" y="280" font-family="monospace" font-size="16" fill="#dfedff">};</text>
+      <text x="930" y="76" text-anchor="middle" font-family="Consolas,Liberation Mono,monospace" font-size="13" fill="#A7B2BE">developer.ts</text>
+      <text x="743" y="132" font-family="Consolas,Liberation Mono,monospace" font-size="15" fill="#A7B2BE">01</text>
+      <text x="777" y="132" font-family="Consolas,Liberation Mono,monospace" font-size="16" fill="#C1A7F7">const</text>
+      <text x="834" y="132" font-family="Consolas,Liberation Mono,monospace" font-size="16" fill="#C9D1D9">developer = {</text>
+      <text x="743" y="169" font-family="Consolas,Liberation Mono,monospace" font-size="15" fill="#A7B2BE">02</text>
+      <text x="804" y="169" font-family="Consolas,Liberation Mono,monospace" font-size="16" fill="#72D8EC">focus:</text>
+      <text x="870" y="169" font-family="Consolas,Liberation Mono,monospace" font-size="16" fill="#63D6B0">"backend",</text>
+      <text x="743" y="206" font-family="Consolas,Liberation Mono,monospace" font-size="15" fill="#A7B2BE">03</text>
+      <text x="804" y="206" font-family="Consolas,Liberation Mono,monospace" font-size="16" fill="#72D8EC">mode:</text>
+      <text x="862" y="206" font-family="Consolas,Liberation Mono,monospace" font-size="16" fill="#63D6B0">"learning",</text>
+      <text x="743" y="243" font-family="Consolas,Liberation Mono,monospace" font-size="15" fill="#A7B2BE">04</text>
+      <text x="804" y="243" font-family="Consolas,Liberation Mono,monospace" font-size="16" fill="#72D8EC">goal:</text>
+      <text x="862" y="243" font-family="Consolas,Liberation Mono,monospace" font-size="16" fill="#63D6B0">"build better"</text>
+      <text x="743" y="280" font-family="Consolas,Liberation Mono,monospace" font-size="15" fill="#A7B2BE">05</text>
+      <text x="777" y="280" font-family="Consolas,Liberation Mono,monospace" font-size="16" fill="#C9D1D9">};</text>
       <rect x="811" y="266" width="9" height="20" rx="1.5" fill="#5ce0fa">
         <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;.45;.5;.95;1" dur="1.2s" repeatCount="indefinite"/>
       </rect>
