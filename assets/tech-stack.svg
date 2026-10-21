@@ -1,60 +1,56 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="366" viewBox="0 0 1200 366" role="img" aria-labelledby="title desc">
-<title id="title">Developer Toolkit — Technologies and tools</title>
-<desc id="desc">Tools Khalil Ayesh is learning and building with. Backend and languages: PHP, Laravel, Java. Database: MySQL. Workflow tools: Git and GitHub.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="282" viewBox="0 0 1200 282" role="img" aria-labelledby="title desc">
+<title id="title">Technologies and tools — a simple developer toolkit</title>
+<desc id="desc">Learning and building with PHP, Laravel, Java, MySQL, Git and GitHub, grouped by backend development, database and workflow.</desc>
 <defs>
-<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#091322"/><stop offset=".53" stop-color="#0c1730"/><stop offset="1" stop-color="#17133b"/></linearGradient>
-<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#5cdef5"/><stop offset=".53" stop-color="#3472d5"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
-<radialGradient id="glow"><stop offset="0" stop-color="#258de2" stop-opacity=".22"/><stop offset="1" stop-color="#258de2" stop-opacity="0"/></radialGradient>
-<pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#acc8ff" stroke-width=".55" opacity=".07"/></pattern>
-<clipPath id="clip"><rect width="1200" height="366" rx="20"/></clipPath>
-</defs><g clip-path="url(#clip)">
-<rect width="1200" height="366" fill="url(#bg)"/><rect width="1200" height="366" fill="url(#grid)"/>
-<circle cx="870" cy="215" r="330" fill="url(#glow)"/>
-<rect y="0" width="1200" height="3" fill="url(#accent)"/>
-<rect y="363" width="1200" height="3" fill="url(#accent)" opacity=".6"/>
-<rect x="41" y="29" width="213" height="32" rx="16" fill="#112c40" stroke="#2d607a" />
-<circle cx="61" cy="45" r="4.5" fill="#54dcb9"><animate attributeName="opacity" values="1;.45;1" dur="3.2s" repeatCount="indefinite"/></circle>
-<text x="76" y="50" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="750" fill="#bce6ee" letter-spacing="1.5">DEVELOPER TOOLKIT</text>
-<text x="42" y="110" font-family="Arial,Helvetica,sans-serif" font-size="37" font-weight="800" fill="#f2f7ff" letter-spacing="-.6">Technologies &amp; tools</text>
-<text x="1157" y="108" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" fill="#82b3d0" letter-spacing="1.45" text-anchor="end">LEARNING &amp; BUILDING WITH</text>
-<path d="M43 132H1157" stroke="#334c69" stroke-width="1"/>
-<path d="M407 151V331M809 151V331" stroke="#405372" stroke-width="1.1" opacity=".65"/>
-<text x="52" y="173" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="750" fill="#68ddec" letter-spacing="1.25">01 / BACKEND &amp; LANGUAGES</text>
-<text x="448" y="173" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="750" fill="#ae9aff" letter-spacing="1.25">02 / DATABASE</text>
-<text x="837" y="173" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="750" fill="#68ddec" letter-spacing="1.25">03 / WORKFLOW</text>
-<text x="52" y="194" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="450" fill="#91acc7" >Application technologies</text>
-<text x="448" y="194" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="450" fill="#91acc7" >Relational data</text>
-<text x="837" y="194" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="450" fill="#91acc7" >Version control</text>
-<rect x="52" y="213" width="146" height="52" rx="12" fill="#142b43" stroke="#365875" />
-<rect x="62" y="222" width="35" height="34" rx="9" fill="#1c334b" stroke="#9dabfa" stroke-opacity=".58"/>
-<text x="79.5" y="245" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="750" fill="#9dabfa" text-anchor="middle">P</text>
-<text x="109" y="247" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="750" fill="#f2f7ff" >PHP</text>
-<rect x="210" y="213" width="183" height="52" rx="12" fill="#142b43" stroke="#365875" />
-<rect x="220" y="222" width="35" height="34" rx="9" fill="#1c334b" stroke="#f88883" stroke-opacity=".58"/>
-<text x="237.5" y="245" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="750" fill="#f88883" text-anchor="middle">L</text>
-<text x="267" y="247" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="750" fill="#f2f7ff" >Laravel</text>
-<rect x="52" y="275" width="147" height="52" rx="12" fill="#142b43" stroke="#365875" />
-<rect x="62" y="284" width="35" height="34" rx="9" fill="#1c334b" stroke="#ffc18c" stroke-opacity=".58"/>
-<text x="79.5" y="307" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="750" fill="#ffc18c" text-anchor="middle">J</text>
-<text x="109" y="309" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="750" fill="#f2f7ff" >Java</text>
-<text x="215" y="306" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="650" fill="#89a9c4" letter-spacing="1.25">SERVER SIDE</text>
-<rect x="447" y="213" width="234" height="52" rx="12" fill="#142b43" stroke="#365875" />
-<rect x="457" y="222" width="35" height="34" rx="9" fill="#1c334b" stroke="#6fdbec" stroke-opacity=".58"/>
-<text x="474.5" y="245" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="750" fill="#6fdbec" text-anchor="middle">D</text>
-<text x="504" y="247" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="750" fill="#f2f7ff" >MySQL</text>
-<rect x="447" y="275" width="327" height="45" rx="10" fill="#14283e" stroke="#304c68" />
-<circle cx="466" cy="297.5" r="4.2" fill="#a393f1"/>
-<text x="483" y="303" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="500" fill="#bed0e4" >Models · Queries · Relations</text>
-<rect x="836" y="213" width="128" height="52" rx="12" fill="#142b43" stroke="#365875" />
-<rect x="846" y="222" width="35" height="34" rx="9" fill="#1c334b" stroke="#fa9d82" stroke-opacity=".58"/>
-<text x="863.5" y="245" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="750" fill="#fa9d82" text-anchor="middle">G</text>
-<text x="893" y="247" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="750" fill="#f2f7ff" >Git</text>
-<rect x="976" y="213" width="182" height="52" rx="12" fill="#142b43" stroke="#365875" />
-<rect x="986" y="222" width="35" height="34" rx="9" fill="#1c334b" stroke="#a5b8ee" stroke-opacity=".58"/>
-<text x="1003.5" y="245" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="750" fill="#a5b8ee" text-anchor="middle">H</text>
-<text x="1033" y="247" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="750" fill="#f2f7ff" >GitHub</text>
-<rect x="836" y="275" width="322" height="45" rx="10" fill="#14283e" stroke="#304c68" />
-<path d="M857 290V306M857 290L866 299M857 306L866 299" stroke="#6bd9e6" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
-<text x="880" y="303" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="500" fill="#bed0e4" >Track · Review · Collaborate</text>
-<rect x=".5" y=".5" width="1199" height="365" rx="19.5" fill="none" stroke="#425b7d" stroke-opacity=".65"/>
-</g></svg>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#091322"/>
+    <stop offset=".55" stop-color="#0c1730"/>
+    <stop offset="1" stop-color="#17133b"/>
+  </linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#5cdef5"/>
+    <stop offset=".52" stop-color="#4a8add"/>
+    <stop offset="1" stop-color="#aa92fa"/>
+  </linearGradient>
+  <clipPath id="clip"><rect width="1200" height="282" rx="20"/></clipPath>
+</defs>
+<g clip-path="url(#clip)" font-family="Arial,Helvetica,sans-serif">
+  <rect width="1200" height="282" fill="url(#bg)"/>
+  <path d="M0 2H1200" stroke="url(#line)" stroke-width="3"/>
+  <path d="M0 279H1200" stroke="url(#line)" stroke-width="2" opacity=".5"/>
+  
+  <!-- Clear heading without an extra subtitle block -->
+  <circle cx="47" cy="47" r="4.4" fill="#5dd8bd">
+    <animate attributeName="opacity" values=".55;1;.55" dur="3.6s" repeatCount="indefinite"/>
+  </circle>
+  <text x="65" y="52" font-size="13" font-weight="700" letter-spacing="2" fill="#92cde0">TECH STACK</text>
+  <text x="45" y="97" font-size="34" font-weight="800" letter-spacing="-.5" fill="#f3f7ff">Tools &amp; technologies</text>
+  <text x="1153" y="96" text-anchor="end" font-size="14" font-weight="500" letter-spacing=".6" fill="#8fa9c6">Learning &amp; building with</text>
+
+  <path d="M45 122H1155" fill="none" stroke="#334c66" stroke-width="1"/>
+  <path d="M529 143V245M823 143V245" fill="none" stroke="#38516e" stroke-width="1" opacity=".65"/>
+
+  <!-- Three calm groups: the tool names, not decorative text, do the work -->
+  <text x="45" y="157" font-size="16" letter-spacing="1.5" font-weight="700" fill="#65d8ec">BACKEND &amp; LANGUAGES</text>
+  <text x="561" y="157" font-size="16" letter-spacing="1.5" font-weight="700" fill="#ac9cfa">DATABASE</text>
+  <text x="858" y="157" font-size="16" letter-spacing="1.5" font-weight="700" fill="#65d8ec">WORKFLOW</text>
+
+  <!-- Technologies: single consistent style, no repeated labels or extra descriptions -->
+  <rect x="45" y="181" width="109" height="59" rx="12" fill="#14293f" stroke="#3d5f7d"/>
+  <rect x="167" y="181" width="163" height="59" rx="12" fill="#14293f" stroke="#3d5f7d"/>
+  <rect x="343" y="181" width="122" height="59" rx="12" fill="#14293f" stroke="#3d5f7d"/>
+  <text x="99.5" y="219.5" font-size="25" font-weight="750" fill="#f2f7ff" text-anchor="middle">PHP</text>
+  <text x="248.5" y="219.5" font-size="25" font-weight="750" fill="#f2f7ff" text-anchor="middle">Laravel</text>
+  <text x="404" y="219.5" font-size="25" font-weight="750" fill="#f2f7ff" text-anchor="middle">Java</text>
+
+  <rect x="561" y="181" width="197" height="59" rx="12" fill="#1b2542" stroke="#5c548a"/>
+  <text x="659.5" y="219.5" font-size="26" font-weight="750" fill="#f2f7ff" text-anchor="middle">MySQL</text>
+
+  <rect x="858" y="181" width="100" height="59" rx="12" fill="#14293f" stroke="#3d5f7d"/>
+  <rect x="971" y="181" width="183" height="59" rx="12" fill="#14293f" stroke="#3d5f7d"/>
+  <text x="908" y="219.5" font-size="25" font-weight="750" fill="#f2f7ff" text-anchor="middle">Git</text>
+  <text x="1062.5" y="219.5" font-size="25" font-weight="750" fill="#f2f7ff" text-anchor="middle">GitHub</text>
+
+  <rect x=".5" y=".5" width="1199" height="281" rx="19.5" fill="none" stroke="#405879" opacity=".7"/>
+</g>
+</svg>
