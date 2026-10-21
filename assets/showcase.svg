@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="298" viewBox="0 0 800 298" role="img" aria-labelledby="t d">
+<title id="t">Selected work — preparing case studies</title>
+<desc id="d">A sophisticated dark developer portfolio placeholder that honestly says public project case studies are being prepared.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1a2e"/><stop offset=".62" stop-color="#101a33"/><stop offset="1" stop-color="#171b3b"/></linearGradient><linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#62e0ef"/><stop offset="1" stop-color="#ad95f7"/></linearGradient><radialGradient id="glow"><stop stop-color="#3e73c8" stop-opacity=".23"/><stop offset="1" stop-color="#3e73c8" stop-opacity="0"/></radialGradient></defs>
+<rect width="800" height="298" rx="17" fill="url(#bg)"/><circle cx="674" cy="172" r="210" fill="url(#glow)"/>
+<path d="M0 3H800" stroke="url(#accent)" stroke-width="4"/><path d="M0 294H800" stroke="url(#accent)" stroke-width="2" stroke-opacity=".55"/>
+<rect x="25" y="24" width="207" height="29" rx="14.5" fill="#10293b" stroke="#366280"/><circle cx="43" cy="38.5" r="4.5" fill="#5ae1be"/><text x="58" y="43.5" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="1.5" fill="#bce9f4">PORTFOLIO / WIP</text>
+<text x="25" y="113" font-family="Arial,Helvetica,sans-serif" font-size="37" font-weight="800" fill="#f2f7ff">Selected work</text>
+<text x="25" y="157" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="700" fill="#74dbf4">Taking shape, one project at a time.</text>
+<text x="25" y="196" font-family="Arial,Helvetica,sans-serif" font-size="20" fill="#bbcbdf">I'm preparing public, documented project examples.</text>
+<text x="25" y="225" font-family="Arial,Helvetica,sans-serif" font-size="20" fill="#bbcbdf">No placeholder achievements. Just real work.</text>
+<path d="M25 257H268" fill="none" stroke="#5dd8ed" stroke-width="2" stroke-dasharray="5 8"><animate attributeName="stroke-dashoffset" values="0;-52" dur="7s" repeatCount="indefinite"/></path>
+<g transform="translate(557 71)" fill="none" stroke-linejoin="round">
+<rect x="0" y="0" width="209" height="178" rx="14" fill="#0a1428" stroke="#527091" stroke-width="1.4"/>
+<rect width="209" height="32" rx="12" fill="#1c2c45"/><path d="M0 20V32H209V20" fill="#1c2c45"/>
+<circle cx="19" cy="16" r="4" fill="#f37785"/><circle cx="34" cy="16" r="4" fill="#f2c870"/><circle cx="49" cy="16" r="4" fill="#58dbba"/>
+<g stroke-width="7" stroke-linecap="round"><path d="M23 61h75" stroke="#61dcf0"/><path d="M23 82h135" stroke="#667da9"/><path d="M43 103h128" stroke="#a49af1"/><path d="M43 124h85" stroke="#5f7caa"/><path d="M23 145h108" stroke="#61dcf0"/></g>
+<rect x="143" y="135" width="11" height="18" rx="2" fill="#63dcf0"><animate attributeName="opacity" values="1;0;1" dur="1.5s" repeatCount="indefinite"/></rect>
+</g>
+<rect x=".5" y=".5" width="799" height="297" rx="16.5" fill="none" stroke="#496386" stroke-opacity=".6"/>
+</svg>
