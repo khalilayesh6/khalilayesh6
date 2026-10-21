@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-github-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/hero-github-light.svg" />
-    <img src="./assets/hero-github-light.svg" width="100%" alt="Khalil Ayesh — Backend Developer. Animated dark technical banner." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/editorial-hero-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/editorial-hero-light.svg" />
+    <img src="./assets/editorial-hero-light.svg" width="100%" alt="Khalil Ayesh — large editorial backend developer introduction with a moving application-to-database system diagram." />
   </picture>
 </div>
 
@@ -40,9 +40,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/tech-stack-flow-github-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/tech-stack-flow-github-light.svg" />
-    <img src="./assets/tech-stack-flow-github-light.svg" width="100%" alt="Developer Toolkit: backend and languages PHP, Laravel, Java; database MySQL; version control Git and GitHub. Technologies I am learning and building with." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/editorial-stack-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/editorial-stack-light.svg" />
+    <img src="./assets/editorial-stack-light.svg" width="100%" alt="Developer Toolkit: three architectural cards for PHP and Laravel, MySQL, and Git/GitHub, with Java listed separately as learning." />
   </picture>
 </div>
 
@@ -60,9 +60,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/selected-projects-cinematic-github-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/selected-projects-cinematic-github-light.svg" />
-    <img src="./assets/selected-projects-cinematic-github-light.svg" width="100%" alt="Selected Projects animated stories: Mizan Finance depicts choosing a wallet account, saving an income or expense entry, updating a financial summary and account balance. Smart University Library shows a book moving from shelf to student and returning, with loan status and records updated and fines checked when overdue. Illustrative data; both repositories are private." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/editorial-projects-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/editorial-projects-light.svg" />
+    <img src="./assets/editorial-projects-light.svg" width="100%" alt="Selected Projects: illustrated Mizan Finance workflow from account through saved transaction to updated report, and Smart University Library book circulation from catalog to borrower and back. Conceptual animations with illustrative values; repositories are private." />
   </picture>
 </div>
 
