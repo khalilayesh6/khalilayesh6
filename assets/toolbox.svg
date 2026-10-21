@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="154" viewBox="0 0 920 154" role="img" aria-labelledby="t d">
+<title id="t">Toolbox — Technologies I am learning and working with</title>
+<desc id="d">A dark technical section title with a decorative terminal prompt and blue-violet circuitry.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#091729"/><stop offset="1" stop-color="#171833"/></linearGradient><linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#5cdef0"/><stop offset="1" stop-color="#a693fb"/></linearGradient><pattern id="grid" width="31" height="31" patternUnits="userSpaceOnUse"><path d="M31 0H0V31" stroke="#92b4e0" stroke-width=".7" stroke-opacity=".11" fill="none"/></pattern></defs>
+<rect width="920" height="154" rx="16" fill="url(#bg)"/><rect width="920" height="154" rx="16" fill="url(#grid)"/>
+<rect width="5" height="154" rx="2" fill="url(#line)"/>
+<text x="31" y="46" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" letter-spacing="2" fill="#5fdbef">02 / TOOLKIT</text>
+<text x="31" y="105" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="800" fill="#f1f6ff">Technologies &amp; tools</text>
+<g transform="translate(692 36)" fill="none" stroke="#74c9f0" stroke-width="2" stroke-linejoin="round">
+<rect width="188" height="84" rx="9" fill="#10253b" stroke="#446180"/><path d="M0 21H188" stroke="#446180"/><circle cx="17" cy="11" r="3" fill="#56debe" stroke="none"/><circle cx="30" cy="11" r="3" fill="#947bfa" stroke="none"/>
+<path d="m20 42 18 14-18 14m28 1h20" stroke="#69ddf0" stroke-width="3" stroke-linecap="round"/><path d="M99 42h60M99 56h41" stroke="#a493fa" stroke-linecap="round"/>
+</g>
+<rect y="150" width="920" height="3" rx="2" fill="url(#line)" opacity=".72"/>
+</svg>
