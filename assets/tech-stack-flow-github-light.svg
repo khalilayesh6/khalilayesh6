@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="366" viewBox="0 0 1200 366" role="img" aria-labelledby="title desc">
 <title id="title">My developer toolkit — application, data and workflow</title>
-<desc id="desc">GitHub-native flat canvas: no image-wide background, no atmospheric overlays, light contrast. Ambient-edge integrated GitHub design, coherent cyan-violet identity. Light GitHub theme with transparent outer background. An animated visual shows PHP and Laravel used for application logic exchanging data with MySQL, and changes flowing from Git to GitHub. Java is shown separately as another language being learned.</desc>
+<desc id="desc">Unified hierarchy, high contrast type and calm native GitHub card strokes. GitHub-native flat canvas: no image-wide background, no atmospheric overlays, light contrast. Ambient-edge integrated GitHub design, coherent cyan-violet identity. Light GitHub theme with transparent outer background. An animated visual shows PHP and Laravel used for application logic exchanging data with MySQL, and changes flowing from Git to GitHub. Java is shown separately as another language being learned.</desc>
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
     <stop offset="0" stop-color="#F6F8FA"/>
@@ -18,7 +18,7 @@
   </radialGradient>
   <clipPath id="clip"><rect width="1200" height="366" rx="20"/></clipPath>
 </defs>
-<g clip-path="url(#clip)" font-family="Arial,Helvetica,sans-serif">
+<g clip-path="url(#clip)" font-family="Segoe UI,Arial,Helvetica,sans-serif">
 
   
   
@@ -30,34 +30,34 @@
   <circle cx="47" cy="45" r="4.3" fill="#5BE2B9">
     <animate attributeName="opacity" values=".5;1;.5" dur="3.5s" repeatCount="indefinite"/>
   </circle>
-  <text x="63" y="50" font-size="13" font-weight="700" fill="#1F2328" letter-spacing="2">DEVELOPER TOOLKIT</text>
-  <text x="39" y="131" font-size="37" font-weight="800" fill="#1F2328" letter-spacing="-.6">Tools that</text>
-  <text x="39" y="176" font-size="37" font-weight="800" fill="#1F2328" letter-spacing="-.6">work together.</text>
+  <text x="63" y="50" font-size="13" font-weight="700" fill="#096B83" letter-spacing="1.2">DEVELOPER TOOLKIT</text>
+  <text x="39" y="131" font-size="36" font-weight="700" fill="#1F2328" letter-spacing="-0.48">Tools that</text>
+  <text x="39" y="176" font-size="36" font-weight="700" fill="#1F2328" letter-spacing="-0.48">work together.</text>
   <path d="M39 199H119" stroke="#4D99B5" stroke-width="3" stroke-linecap="round"/>
   <path d="M126 199H158" stroke="#D0D7DE" stroke-width="3" stroke-linecap="round"/>
-  <text x="39" y="246" font-size="17" fill="#59636E">Application. Data.</text>
-  <text x="39" y="274" font-size="17" fill="#59636E">Version control.</text>
-  <text x="39" y="328" font-size="13" fill="#6854A7" font-weight="650" letter-spacing="1.7">LEARNING &amp; BUILDING</text>
+  <text x="39" y="246" font-size="17" fill="#3F4C59">Application. Data.</text>
+  <text x="39" y="274" font-size="17" fill="#3F4C59">Version control.</text>
+  <text x="39" y="328" font-size="13" fill="#59636E" font-weight="600" letter-spacing="1.2">LEARNING &amp; BUILDING</text>
 
   <!-- APPLICATION / DATA ROW -->
-  <text x="402" y="55" font-size="13.5" font-weight="700" letter-spacing="1.8" fill="#1A786C">01 / APPLICATION &amp; DATA</text>
-  <text x="1159" y="55" font-size="12.5" font-family="monospace" text-anchor="end" letter-spacing="1.2" fill="#59636E">REQUEST / RESPONSE</text>
+  <text x="402" y="55" font-size="13.5" font-weight="700" letter-spacing="1.2" fill="#59636E">01 / APPLICATION &amp; DATA</text>
+  <text x="1159" y="55" font-size="12.5" font-family="Consolas,Liberation Mono,monospace" text-anchor="end" letter-spacing="1.2" fill="#59636E">REQUEST / RESPONSE</text>
 
-  <rect x="402" y="79" width="405" height="127" rx="15" fill="#F6F8FA" stroke="#D0D7DE" stroke-width="1.15"/>
+  <rect x="402" y="79" width="405" height="127" rx="14" fill="#F6F8FA" stroke="#D0D7DE" stroke-width="1.15"/>
   <path d="M419 80H790" stroke="#4D99B5" stroke-width="2.8" stroke-linecap="round"/>
   <rect x="424" y="104" width="54" height="54" rx="12" fill="#F6F8FA" stroke="#D0D7DE"/>
   <path d="M443 119L435 131L443 143M459 119L467 131L459 143M455 114L448 148" fill="none" stroke="#4D99B5" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="494" y="133" font-size="29" font-weight="800" fill="#1F2328" letter-spacing="-.4">PHP + Laravel</text>
-  <text x="494" y="164" font-size="16.5" fill="#1F2328">Backend language &amp; framework</text>
-  <text x="424" y="189" font-size="13" font-family="monospace" fill="#6854A7" letter-spacing=".75">APPLICATION LOGIC</text>
+  <text x="494" y="133" font-size="29" font-weight="700" fill="#1F2328" letter-spacing="-0.4">PHP + Laravel</text>
+  <text x="494" y="164" font-size="16.5" fill="#3F4C59">Backend language &amp; framework</text>
+  <text x="424" y="189" font-size="13" font-family="Consolas,Liberation Mono,monospace" fill="#59636E" letter-spacing="0.75">APPLICATION LOGIC</text>
 
-  <rect x="936" y="79" width="223" height="127" rx="15" fill="#F6F8FA" stroke="#D0D7DE" stroke-width="1.35"/>
+  <rect x="936" y="79" width="223" height="127" rx="15" fill="#F6F8FA" stroke="#D0D7DE" stroke-width="1.2"/>
   <path d="M952 80H1142" stroke="#D0D7DE" stroke-width="2.8" stroke-linecap="round"/>
   <ellipse cx="971" cy="120" rx="16" ry="6" fill="none" stroke="#D0D7DE" stroke-width="2.3"/>
   <path d="M955 120V147C955 155 987 155 987 147V120M955 133C955 141 987 141 987 133" fill="none" stroke="#D0D7DE" stroke-width="2.3"/>
-  <text x="1002" y="134" font-size="27" font-weight="800" fill="#1F2328">MySQL</text>
-  <text x="956" y="177" font-size="16" fill="#1F2328">Data &amp; queries</text>
-  <text x="956" y="194" font-size="12.5" font-family="monospace" fill="#6854A7" letter-spacing=".8">DATABASE</text>
+  <text x="1002" y="134" font-size="27" font-weight="700" fill="#1F2328">MySQL</text>
+  <text x="956" y="177" font-size="16" fill="#3F4C59">Data &amp; queries</text>
+  <text x="956" y="194" font-size="12.5" font-family="Consolas,Liberation Mono,monospace" fill="#59636E" letter-spacing="0.8">DATABASE</text>
 
   <!-- Two meaning-bearing animated data tracks -->
   <path d="M819 117H923" fill="none" stroke="#D0D7DE" stroke-width="2" stroke-linecap="round"/>
@@ -72,12 +72,12 @@
   </circle>
   
   <!-- The separate Java language and a meaningful Git to GitHub progression -->
-  <text x="402" y="240" font-size="13.5" font-weight="700" letter-spacing="1.7" fill="#6854A7">02 / ALSO LEARNING</text>
-  <text x="659" y="240" font-size="13.5" font-weight="700" letter-spacing="1.7" fill="#1A786C">03 / VERSION CONTROL</text>
+  <text x="402" y="240" font-size="13.5" font-weight="700" letter-spacing="1.2" fill="#7048B4">02 / ALSO LEARNING</text>
+  <text x="659" y="240" font-size="13.5" font-weight="700" letter-spacing="1.2" fill="#096B83">03 / VERSION CONTROL</text>
   
   <rect x="402" y="261" width="204" height="69" rx="13" fill="#F6F8FA" stroke="#D0D7DE" stroke-width="1.2"/>
   <rect x="416" y="277" width="35" height="36" rx="9" fill="#F6F8FA" stroke="#896C63"/>
-  <text x="433.5" y="301" text-anchor="middle" font-size="18" font-weight="800" fill="#9C6F2C">J</text>
+  <text x="433.5" y="301" text-anchor="middle" font-size="18" font-weight="700" fill="#1F2328">J</text>
   <text x="465" y="304" font-size="25" font-weight="750" fill="#1F2328">Java</text>
 
   <rect x="659" y="261" width="177" height="69" rx="13" fill="#F6F8FA" stroke="#D0D7DE" stroke-width="1.2"/>
@@ -91,7 +91,7 @@
   <path d="M966 303L966 294M980 303L980 294M965 288L970 285M981 288L976 285" fill="none" stroke="#D0D7DE" stroke-width="1.7" stroke-linecap="round"/>
   <text x="1004" y="304" font-size="25" font-weight="750" fill="#1F2328">GitHub</text>
 
-  <text x="889" y="254" text-anchor="middle" font-family="monospace" font-size="12" fill="#6854A7" letter-spacing="1.2">PUSH</text>
+  <text x="889" y="254" text-anchor="middle" font-family="Consolas,Liberation Mono,monospace" font-size="12" fill="#59636E" letter-spacing="1.2">PUSH</text>
   <path d="M845 294H931" fill="none" stroke="#D0D7DE" stroke-width="2.2" stroke-linecap="round"/>
   <path d="M926 289L934 294L926 299" fill="none" stroke="#4D99B5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
   <circle r="4.3" fill="#79E5D9">
