@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="561" viewBox="0 0 1200 561" role="img" aria-labelledby="title desc">
+<title id="title">Developer Toolkit — Systems editorial, light</title>
+<desc id="desc">Fully transparent Github-friendly engineering toolkit. Large readable application, database and version control columns, meaningful data-flow animation, and Java marked as currently being learned.</desc>
+<defs>
+<linearGradient id="accentLine" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#087A95"/><stop offset=".7" stop-color="#7552B6"/><stop offset="1" stop-color="#7552B6" stop-opacity=".1"/></linearGradient>
+</defs>
+<g font-family="Segoe UI,Arial,Helvetica,sans-serif">
+<path d="M50 42H92" stroke="#087A95" stroke-width="3" stroke-linecap="round"/>
+<text x="108" y="47" fill="#087A95" font-size="14" font-weight="700" letter-spacing="2">02 / THE TOOLKIT</text>
+<text x="1147" y="47" font-family="Consolas,Liberation Mono,monospace" fill="#677687" text-anchor="end" font-size="13.5">APPLICATION  /  DATA  /  WORKFLOW</text>
+<text x="50" y="124" fill="#1F2328" font-size="53" font-weight="740" letter-spacing="-1.9">Tools that <tspan fill="#087A95">work together.</tspan></text>
+<text x="52" y="165" fill="#4D5C6B" font-size="19">A practical stack built around application logic, structured data and version control.</text>
+<path d="M52 188H1147" stroke="#D5DFE7" stroke-width="1.2"/>
+<!-- cards: separated internal layers, never a framed full-page backdrop -->
+<rect x="52" y="219" width="345" height="243" rx="15" fill="#F6F8FA" stroke="#D5DFE7" stroke-width="1.2"/>
+<rect x="424" y="219" width="345" height="243" rx="15" fill="#F6F8FA" stroke="#D5DFE7" stroke-width="1.2"/>
+<rect x="796" y="219" width="351" height="243" rx="15" fill="#F6F8FA" stroke="#D5DFE7" stroke-width="1.2"/>
+<path d="M69 220H150" stroke="#087A95" stroke-width="3" stroke-linecap="round"/>
+<path d="M441 220H522" stroke="#7552B6" stroke-width="3" stroke-linecap="round"/>
+<path d="M813 220H894" stroke="#16856B" stroke-width="3" stroke-linecap="round"/>
+<!-- Application: editable-looking source lines -->
+<text x="76" y="254" fill="#087A95" font-family="Consolas,Liberation Mono,monospace" font-size="13.5" font-weight="700" letter-spacing=".7">01 / APPLICATION</text>
+<text x="76" y="314" fill="#1F2328" font-size="36" font-weight="720" letter-spacing="-.8">PHP + Laravel</text>
+<text x="77" y="347" fill="#4D5C6B" font-size="17">Routes, validation and business logic.</text>
+<path d="M76 368H374" stroke="#D5DFE7" stroke-width="1"/>
+<rect x="76" y="389" width="137" height="42" rx="9" fill="#FFFFFF" stroke="#D5DFE7"/>
+<text x="144.5" y="415" text-anchor="middle" fill="#087A95" font-family="Consolas,Liberation Mono,monospace" font-weight="700" font-size="16">PHP</text>
+<rect x="224" y="389" width="150" height="42" rx="9" fill="#FFFFFF" stroke="#D5DFE7"/>
+<text x="299" y="415" text-anchor="middle" fill="#1F2328" font-family="Consolas,Liberation Mono,monospace" font-weight="700" font-size="16">LARAVEL</text>
+<!-- Database -->
+<text x="447" y="254" fill="#7552B6" font-family="Consolas,Liberation Mono,monospace" font-size="13.5" font-weight="700" letter-spacing=".7">02 / DATA</text>
+<text x="447" y="314" fill="#1F2328" font-size="36" font-weight="720" letter-spacing="-.8">MySQL</text>
+<text x="447" y="347" fill="#4D5C6B" font-size="17">Models, relationships and queries.</text>
+<path d="M447 368H747" stroke="#D5DFE7" stroke-width="1"/>
+<path d="M469 396C469 390 515 390 515 396V424C515 431 469 431 469 424Z" stroke="#7552B6" stroke-width="2" fill="none"/>
+<ellipse cx="492" cy="397" rx="23" ry="7" stroke="#7552B6" stroke-width="2" fill="#F6F8FA"/>
+<path d="M469 409C469 418 515 418 515 409" stroke="#7552B6" stroke-width="1.7" fill="none"/>
+<text x="536" y="406" fill="#1F2328" font-family="Consolas,Liberation Mono,monospace" font-weight="700" font-size="16">STRUCTURED</text>
+<text x="536" y="425" fill="#677687" font-size="14">Persistent data</text>
+<!-- Versioning -->
+<text x="819" y="254" fill="#16856B" font-family="Consolas,Liberation Mono,monospace" font-size="13.5" font-weight="700" letter-spacing=".7">03 / WORKFLOW</text>
+<text x="819" y="314" fill="#1F2328" font-size="36" font-weight="720" letter-spacing="-.8">Git / GitHub</text>
+<text x="820" y="347" fill="#4D5C6B" font-size="17">Track changes and collaborate.</text>
+<path d="M820 368H1124" stroke="#D5DFE7" stroke-width="1"/>
+<path d="M839 397V425H885V397" stroke="#16856B" stroke-width="2.3" fill="none" stroke-linecap="round"/>
+<circle cx="839" cy="393" r="5" fill="#F6F8FA" stroke="#16856B" stroke-width="2"/>
+<circle cx="885" cy="393" r="5" fill="#F6F8FA" stroke="#16856B" stroke-width="2"/>
+<circle cx="885" cy="425" r="5" fill="#F6F8FA" stroke="#16856B" stroke-width="2"/>
+<text x="915" y="406" font-family="Consolas,Liberation Mono,monospace" fill="#1F2328" font-size="16" font-weight="700">VERSIONED</text>
+<text x="915" y="425" fill="#677687" font-size="14">Repository workflow</text>
+<!-- motion only where the app actually exchanges data with persistence -->
+<path d="M397 335H424" stroke="#D5DFE7" stroke-width="2.4" stroke-linecap="round"/>
+<circle r="4.4" fill="#087A95"><animateMotion path="M400 335H421" dur="3.7s" repeatCount="indefinite"/></circle>
+<path d="M769 335H796" stroke="#D5DFE7" stroke-width="1.5" stroke-dasharray="2 6" opacity=".7"/>
+<!-- Secondary learning state is not misrepresented as proficiency -->
+<rect x="52" y="493" width="304" height="42" rx="10" fill="#F6F8FA" stroke="#D5DFE7"/>
+<circle cx="72" cy="514" r="4.5" fill="#7552B6"/>
+<text x="86" y="520" fill="#4D5C6B" font-family="Consolas,Liberation Mono,monospace" font-size="14">ALSO LEARNING</text>
+<text x="315" y="520" text-anchor="end" fill="#7552B6" font-size="16" font-weight="700">Java</text>
+<text x="1144" y="521" text-anchor="end" fill="#677687" font-size="14.5">Build with clarity. Connect the parts. Keep improving.</text>
+</g></svg>
