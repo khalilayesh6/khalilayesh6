@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140" role="img" aria-labelledby="title desc">
+<title id="title">Keep building. Keep learning.</title>
+<desc id="desc">Clean dark blue and violet closing banner for Khalil Ayesh's GitHub developer profile.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0a1729"/><stop offset="1" stop-color="#171631"/></linearGradient>
+<linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#55daee"/><stop offset=".5" stop-color="#617deb"/><stop offset="1" stop-color="#ad8dff"/></linearGradient>
+</defs>
+<rect width="1200" height="140" rx="17" fill="url(#bg)"/>
+<path d="M1 1H1199" stroke="url(#line)" stroke-width="3"/>
+<path d="M1 138H1199" stroke="url(#line)" stroke-width="2" opacity=".5"/>
+<text x="600" y="62" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="33" font-weight="800" fill="#f3f7ff">Keep building. Keep learning.</text>
+<text x="600" y="95" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing="2.7" fill="#86c7e9">ONE PROJECT AT A TIME</text>
+<g fill="#63dcee">
+<circle cx="465" cy="114" r="2.8"><animate attributeName="opacity" values=".2;1;.2" dur="3s" repeatCount="indefinite"/></circle>
+<circle cx="600" cy="114" r="2.8"><animate attributeName="opacity" values=".2;1;.2" dur="3s" begin=".7s" repeatCount="indefinite"/></circle>
+<circle cx="735" cy="114" r="2.8"><animate attributeName="opacity" values=".2;1;.2" dur="3s" begin="1.4s" repeatCount="indefinite"/></circle>
+</g>
+<path d="M50 70h96m-48-48v96M1054 70h96m-48-48v96" stroke="#577fa6" stroke-width="1" opacity=".28"/>
+<rect x=".5" y=".5" width="1199" height="139" rx="16.5" stroke="#435a7d" stroke-opacity=".55" fill="none"/>
+</svg>
