@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="919" viewBox="0 0 1200 919" role="img" aria-labelledby="title desc">
 <title id="title">Systems in Motion — Selected Projects</title>
-<desc id="desc">Flat GitHub canvas with no photo-frame background or ambient haze, optimized for light contrast. Ambient-edge integrated GitHub design, coherent cyan-violet identity. Light GitHub theme with transparent outer background. A premium portfolio showcase for Mizan Finance and Smart University Library. Two animated miniature stories show a finance transaction saved and reflected in a report and account balance, and a physical book going from catalog to student then returning while circulation records update. Illustrative workflows, not live software or real user data.</desc>
+<desc id="desc">Unified premium type system: restrained editorial headers, high contrast copy, and native GitHub UI borders. Flat GitHub canvas with no photo-frame background or ambient haze, optimized for light contrast. Ambient-edge integrated GitHub design, coherent cyan-violet identity. Light GitHub theme with transparent outer background. A premium portfolio showcase for Mizan Finance and Smart University Library. Two animated miniature stories show a finance transaction saved and reflected in a report and account balance, and a physical book going from catalog to student then returning while circulation records update. Illustrative workflows, not live software or real user data.</desc>
 
 <defs>
   <linearGradient id="scene" x1="0" y1="0" x2="1" y2="1">
@@ -21,7 +21,7 @@
   <clipPath id="clip"><rect width="1200" height="919" rx="23"/></clipPath>
 </defs>
 
-<g clip-path="url(#clip)" font-family="Arial,Helvetica,sans-serif">
+<g clip-path="url(#clip)" font-family="Segoe UI,Arial,Helvetica,sans-serif">
 
 
 
@@ -30,41 +30,41 @@
 
 
 
-<rect x="44" y="28" width="195" height="30" rx="15" fill="#F6F8FA" stroke="#D0D7DE"/>
+<rect x="44" y="28" width="195" height="30" rx="15" fill="#E9F3F6" stroke="#D0D7DE"/>
 <circle cx="62" cy="43" r="4.3" fill="#62DFBE"/>
-<text x="76" y="48" font-size="12.5" font-weight="700" letter-spacing="1.7" fill="#1F2328">SELECTED PROJECTS</text>
-<text x="44" y="114" font-size="44" letter-spacing="-.8" font-weight="800" fill="#1F2328">Systems in Motion</text>
-<text x="46" y="149" font-size="18.4" fill="#1F2328">Two projects, told through the actions that make them useful.</text>
-<text x="1154" y="102" font-family="monospace" font-size="13" letter-spacing="1.25" text-anchor="end" fill="#59636E">02 / INTERACTIVE STORIES</text>
+<text x="76" y="48" font-size="12.5" font-weight="700" letter-spacing="1.2" fill="#096B83">SELECTED PROJECTS</text>
+<text x="44" y="114" font-size="42" letter-spacing="-0.64" font-weight="700" fill="#1F2328">Systems in Motion</text>
+<text x="46" y="149" font-size="18.4" fill="#3F4C59">Two projects, told through the actions that make them useful.</text>
+<text x="1154" y="102" font-family="Consolas,Liberation Mono,monospace" font-size="13" letter-spacing="1.25" text-anchor="end" fill="#59636E">02 / INTERACTIVE STORIES</text>
 <path d="M44 163H1155" stroke="#D0D7DE" stroke-width="1"/>
 
 
 
-<rect x="43" y="181" width="1114" height="337" rx="19" fill="url(#mizanBg)" stroke="#D0D7DE" stroke-width="1.15"/>
+<rect x="43" y="181" width="1114" height="337" rx="14" fill="url(#mizanBg)" stroke="#D0D7DE" stroke-width="1.15"/>
 <path d="M65 182H380" stroke="#4D99B5" stroke-width="2.5" opacity=".9"/>
 <path d="M506 203V494" stroke="#D0D7DE" stroke-width="1.15" opacity=".7"/>
 
-<rect x="70" y="203" width="155" height="27" rx="13.5" fill="#F6F8FA" stroke="#D0D7DE" stroke-width=".9"/><text x="147.5" y="221" text-anchor="middle" font-family="monospace" font-size="11.8" letter-spacing=".3" font-weight="700" fill="#1F2328">01 / CASE STUDY</text>
-<text x="72" y="285" font-size="45" letter-spacing="-.7" font-weight="800" fill="#1F2328">Mizan</text>
-<text x="72" y="333" font-size="45" letter-spacing="-.7" font-weight="800" fill="#1F2328">Finance</text>
-<text x="72" y="371" font-size="14" font-weight="700" letter-spacing="1.8" fill="#176F93">FINANCIAL MANAGEMENT</text>
-<text x="72" y="409" font-size="17.2" fill="#1F2328">From recording a transaction</text>
-<text x="72" y="434" font-size="17.2" fill="#1F2328">to seeing its financial impact.</text>
-<rect x="72" y="462" width="102" height="27" rx="13.5" fill="#F6F8FA" stroke="#D0D7DE" stroke-width=".9"/><text x="123" y="480" text-anchor="middle" font-family="monospace" font-size="11.8" letter-spacing=".3" font-weight="700" fill="#1F2328">ACCOUNTS</text>
-<rect x="182" y="462" width="143" height="27" rx="13.5" fill="#F6F8FA" stroke="#D0D7DE" stroke-width=".9"/><text x="253.5" y="480" text-anchor="middle" font-family="monospace" font-size="11.8" letter-spacing=".3" font-weight="700" fill="#1F2328">TRANSACTIONS</text>
-<rect x="334" y="462" width="96" height="27" rx="13.5" fill="#F6F8FA" stroke="#D0D7DE" stroke-width=".9"/><text x="382" y="480" text-anchor="middle" font-family="monospace" font-size="11.8" letter-spacing=".3" font-weight="700" fill="#1F2328">REPORTS</text>
-<text x="535" y="224" font-family="monospace" font-size="13" letter-spacing="1.1" fill="#1F2328">TRANSACTION STORY</text>
-<text x="1130" y="224" text-anchor="end" font-family="monospace" font-size="12" fill="#1A786C">SAMPLE WORKFLOW</text>
+<rect x="70" y="203" width="155" height="27" rx="13.5" fill="#E9F3F6" stroke="#D0D7DE" stroke-width=".9"/><text x="147.5" y="221" text-anchor="middle" font-family="Consolas,Liberation Mono,monospace" font-size="11.8" letter-spacing="0.3" font-weight="700" fill="#096B83">01 / CASE STUDY</text>
+<text x="72" y="285" font-size="43" letter-spacing="-0.56" font-weight="700" fill="#1F2328">Mizan</text>
+<text x="72" y="333" font-size="43" letter-spacing="-0.56" font-weight="700" fill="#1F2328">Finance</text>
+<text x="72" y="371" font-size="14" font-weight="700" letter-spacing="1.2" fill="#096B83">FINANCIAL MANAGEMENT</text>
+<text x="72" y="409" font-size="17.2" fill="#3F4C59">From recording a transaction</text>
+<text x="72" y="434" font-size="17.2" fill="#3F4C59">to seeing its financial impact.</text>
+<rect x="72" y="462" width="102" height="27" rx="13.5" fill="#E9F3F6" stroke="#D0D7DE" stroke-width=".9"/><text x="123" y="480" text-anchor="middle" font-family="Consolas,Liberation Mono,monospace" font-size="11.8" letter-spacing="0.3" font-weight="700" fill="#096B83">ACCOUNTS</text>
+<rect x="182" y="462" width="143" height="27" rx="13.5" fill="#E9F3F6" stroke="#D0D7DE" stroke-width=".9"/><text x="253.5" y="480" text-anchor="middle" font-family="Consolas,Liberation Mono,monospace" font-size="11.8" letter-spacing="0.3" font-weight="700" fill="#096B83">TRANSACTIONS</text>
+<rect x="334" y="462" width="96" height="27" rx="13.5" fill="#E9F3F6" stroke="#D0D7DE" stroke-width=".9"/><text x="382" y="480" text-anchor="middle" font-family="Consolas,Liberation Mono,monospace" font-size="11.8" letter-spacing="0.3" font-weight="700" fill="#096B83">REPORTS</text>
+<text x="535" y="224" font-family="Consolas,Liberation Mono,monospace" font-size="13" letter-spacing="1.1" fill="#59636E">TRANSACTION STORY</text>
+<text x="1130" y="224" text-anchor="end" font-family="Consolas,Liberation Mono,monospace" font-size="12" fill="#59636E">SAMPLE WORKFLOW</text>
 <!-- Account module -->
 <rect x="533" y="242" width="170" height="194" rx="14" fill="#F6F8FA" stroke="#D0D7DE" stroke-width="1.1"/>
 <circle cx="559" cy="269" r="8.8" fill="#F6F8FA" stroke="#4D99B5" stroke-width="1.2"/>
 <path d="M554 268H564M554 272H562" stroke="#4D99B5" stroke-width="1.5" stroke-linecap="round"/>
-<text x="576" y="273" font-size="14.2" font-weight="700" fill="#1F2328">Account</text>
-<text x="549" y="319" font-family="monospace" font-size="11.4" fill="#176F93" letter-spacing=".8">SOURCE</text>
+<text x="576" y="273" font-size="14.2" font-weight="700" fill="#59636E">Account</text>
+<text x="549" y="319" font-family="Consolas,Liberation Mono,monospace" font-size="11.4" fill="#59636E" letter-spacing="0.8">SOURCE</text>
 <text x="549" y="350" font-size="17.5" font-weight="700" fill="#1F2328">Primary wallet</text>
 <text x="549" y="377" font-size="13.4" fill="#59636E">Selected account</text>
-<rect x="549" y="398" width="137" height="25" rx="12.5" fill="#F6F8FA" stroke="#D0D7DE"/>
-<text x="617" y="415" text-anchor="middle" font-family="monospace" font-size="12" fill="#1A786C">READY</text>
+<rect x="549" y="398" width="137" height="25" rx="12.5" fill="#E9F3F6" stroke="#D0D7DE"/>
+<text x="617" y="415" text-anchor="middle" font-family="Consolas,Liberation Mono,monospace" font-size="12" fill="#59636E">READY</text>
 <rect x="549" y="398" width="137" height="25" rx="12.5" fill="#F6F8FA" stroke="#4D99B5" opacity=".06">
   <animate attributeName="opacity" values=".95;.95;.08;.08;.95" keyTimes="0;.22;.27;.9;1" dur="12s" repeatCount="indefinite"/>
 </rect>
@@ -72,15 +72,15 @@
 <!-- Transaction module -->
 <rect x="747" y="242" width="171" height="194" rx="14" fill="#F6F8FA" stroke="#D0D7DE" stroke-width="1.1"/>
 <path d="M763 264H778M773 259L780 264L773 269" stroke="#D0D7DE" stroke-width="1.9" fill="none" stroke-linecap="round"/>
-<text x="788" y="273" font-size="14.2" font-weight="700" fill="#1F2328">Transaction</text>
-<text x="763" y="319" font-family="monospace" font-size="11.4" fill="#176F93" letter-spacing=".8">ACTION</text>
+<text x="788" y="273" font-size="14.2" font-weight="700" fill="#59636E">Transaction</text>
+<text x="763" y="319" font-family="Consolas,Liberation Mono,monospace" font-size="11.4" fill="#59636E" letter-spacing="0.8">ACTION</text>
 <text x="763" y="349" font-size="17.5" font-weight="700" fill="#1F2328">Add entry</text>
 <text x="763" y="377" font-size="13.4" fill="#59636E">Income / expense</text>
-<rect x="761" y="399" width="142" height="24" rx="12" fill="#F6F8FA" stroke="#D0D7DE"/>
-<text x="832" y="415" text-anchor="middle" font-family="monospace" font-size="11.9" fill="#1F2328">ENTRY PENDING
+<rect x="761" y="399" width="142" height="24" rx="12" fill="#E9F3F6" stroke="#D0D7DE"/>
+<text x="832" y="415" text-anchor="middle" font-family="Consolas,Liberation Mono,monospace" font-size="11.9" fill="#59636E">ENTRY PENDING
  <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;.28;.34;.90;1" dur="12s" repeatCount="indefinite"/>
 </text>
-<text x="832" y="415" text-anchor="middle" font-family="monospace" font-size="11.9" fill="#1A786C" opacity="0">ENTRY SAVED
+<text x="832" y="415" text-anchor="middle" font-family="Consolas,Liberation Mono,monospace" font-size="11.9" fill="#087F69" opacity="0">ENTRY SAVED
  <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.28;.34;.9;1" dur="12s" repeatCount="indefinite"/>
 </text>
 <rect x="747" y="242" width="171" height="194" rx="14" fill="none" stroke="#4D99B5" stroke-width="1.8" opacity=".08">
@@ -91,8 +91,8 @@
 <rect x="962" y="242" width="170" height="194" rx="14" fill="#F6F8FA" stroke="#D0D7DE" stroke-width="1.1"/>
 <path d="M977 273V259H995" fill="none" stroke="#D0D7DE" stroke-width="1.7" stroke-linecap="round"/>
 <path d="M980 271L985 264L989 267L997 257" fill="none" stroke="#D0D7DE" stroke-width="1.7"/>
-<text x="1004" y="273" font-size="14.2" font-weight="700" fill="#1F2328">Reporting</text>
-<text x="978" y="319" font-family="monospace" font-size="11.4" letter-spacing=".8" fill="#1F2328">RESULT</text>
+<text x="1004" y="273" font-size="14.2" font-weight="700" fill="#59636E">Reporting</text>
+<text x="978" y="319" font-family="Consolas,Liberation Mono,monospace" font-size="11.4" letter-spacing="0.8" fill="#59636E">RESULT</text>
 <g>
  <rect x="980" y="354" width="20" height="36" rx="3" fill="#43748B"/>
  <rect x="1009" y="337" width="20" height="53" rx="3" fill="#467DA7"/>
@@ -103,7 +103,7 @@
   <animate attributeName="height" values="35;35;56;56;35" keyTimes="0;.53;.65;.9;1" dur="12s" repeatCount="indefinite"/>
  </rect>
 </g>
-<text x="978" y="415" font-family="monospace" font-size="12" fill="#6854A7">SUMMARY UPDATED
+<text x="978" y="415" font-family="Consolas,Liberation Mono,monospace" font-size="12" fill="#087F69">SUMMARY UPDATED
  <animate attributeName="opacity" values=".37;.37;.37;1;1;.37" keyTimes="0;.36;.54;.65;.9;1" dur="12s" repeatCount="indefinite"/>
 </text>
 <rect x="962" y="242" width="170" height="194" rx="14" fill="none" stroke="#D0D7DE" stroke-width="1.8" opacity=".08">
@@ -128,79 +128,79 @@
   <animateMotion path="M940 335V452H619V437" dur="12s" keyPoints="0;0;0;1;1" keyTimes="0;.62;.65;.87;1" calcMode="linear" repeatCount="indefinite"/>
   <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.62;.66;.86;1" dur="12s" repeatCount="indefinite"/>
 </circle>
-<text x="535" y="503" font-family="monospace" font-size="12.2" letter-spacing=".6" fill="#59636E">SELECT ACCOUNT  /  SAVE ENTRY  /  UPDATE BALANCE &amp; REPORT</text>
+<text x="535" y="503" font-family="Consolas,Liberation Mono,monospace" font-size="12.2" letter-spacing="0.6" fill="#59636E">SELECT ACCOUNT  /  SAVE ENTRY  /  UPDATE BALANCE &amp; REPORT</text>
 
 
 
-<rect x="43" y="531" width="1114" height="337" rx="19" fill="url(#libraryBg)" stroke="#D0D7DE" stroke-width="1.15"/>
+<rect x="43" y="531" width="1114" height="337" rx="14" fill="url(#libraryBg)" stroke="#D0D7DE" stroke-width="1.15"/>
 <path d="M65 532H380" stroke="#D0D7DE" stroke-width="2.5" opacity=".9"/>
 <path d="M506 553V844" stroke="#D0D7DE" stroke-width="1.15" opacity=".7"/>
 
-<rect x="70" y="553" width="155" height="27" rx="13.5" fill="#F6F8FA" stroke="#D0D7DE" stroke-width=".9"/><text x="147.5" y="571" text-anchor="middle" font-family="monospace" font-size="11.8" letter-spacing=".3" font-weight="700" fill="#1F2328">02 / CASE STUDY</text>
-<text x="72" y="634" font-size="36" letter-spacing="-.65" font-weight="800" fill="#1F2328">Smart University</text>
-<text x="72" y="677" font-size="44" letter-spacing="-.65" font-weight="800" fill="#1F2328">Library</text>
-<text x="72" y="712" font-size="13.4" font-weight="700" letter-spacing="1.75" fill="#6854A7">JAVA · JAVAFX · MAVEN</text>
-<text x="72" y="755" font-size="17.2" fill="#1F2328">Follow a book from the shelf</text>
-<text x="72" y="780" font-size="17.2" fill="#1F2328">to a student and back.</text>
-<rect x="72" y="814" width="97" height="27" rx="13.5" fill="#F6F8FA" stroke="#D0D7DE" stroke-width=".9"/><text x="120.5" y="832" text-anchor="middle" font-family="monospace" font-size="11.8" letter-spacing=".3" font-weight="700" fill="#1F2328">CATALOG</text>
-<rect x="177" y="814" width="175" height="27" rx="13.5" fill="#F6F8FA" stroke="#D0D7DE" stroke-width=".9"/><text x="264.5" y="832" text-anchor="middle" font-family="monospace" font-size="11.8" letter-spacing=".3" font-weight="700" fill="#1F2328">BORROW / RETURN</text>
-<text x="535" y="574" font-family="monospace" font-size="13" letter-spacing="1.1" fill="#1F2328">LIBRARY CIRCULATION STORY</text>
-<text x="1130" y="574" text-anchor="end" font-family="monospace" font-size="12" fill="#6854A7">SAMPLE WORKFLOW</text>
+<rect x="70" y="553" width="155" height="27" rx="13.5" fill="#F2EFF9" stroke="#D0D7DE" stroke-width=".9"/><text x="147.5" y="571" text-anchor="middle" font-family="Consolas,Liberation Mono,monospace" font-size="11.8" letter-spacing="0.3" font-weight="700" fill="#7048B4">02 / CASE STUDY</text>
+<text x="72" y="634" font-size="35" letter-spacing="-0.52" font-weight="700" fill="#1F2328">Smart University</text>
+<text x="72" y="677" font-size="42" letter-spacing="-0.52" font-weight="700" fill="#1F2328">Library</text>
+<text x="72" y="712" font-size="13.4" font-weight="700" letter-spacing="1.2" fill="#7048B4">JAVA · JAVAFX · MAVEN</text>
+<text x="72" y="755" font-size="17.2" fill="#3F4C59">Follow a book from the shelf</text>
+<text x="72" y="780" font-size="17.2" fill="#3F4C59">to a student and back.</text>
+<rect x="72" y="814" width="97" height="27" rx="13.5" fill="#F2EFF9" stroke="#D0D7DE" stroke-width=".9"/><text x="120.5" y="832" text-anchor="middle" font-family="Consolas,Liberation Mono,monospace" font-size="11.8" letter-spacing="0.3" font-weight="700" fill="#7048B4">CATALOG</text>
+<rect x="177" y="814" width="175" height="27" rx="13.5" fill="#F2EFF9" stroke="#D0D7DE" stroke-width=".9"/><text x="264.5" y="832" text-anchor="middle" font-family="Consolas,Liberation Mono,monospace" font-size="11.8" letter-spacing="0.3" font-weight="700" fill="#7048B4">BORROW / RETURN</text>
+<text x="535" y="574" font-family="Consolas,Liberation Mono,monospace" font-size="13" letter-spacing="1.1" fill="#59636E">LIBRARY CIRCULATION STORY</text>
+<text x="1130" y="574" text-anchor="end" font-family="Consolas,Liberation Mono,monospace" font-size="12" fill="#59636E">SAMPLE WORKFLOW</text>
 
 <!-- Shelf -->
 <rect x="535" y="596" width="166" height="198" rx="14" fill="#F6F8FA" stroke="#D0D7DE" stroke-width="1.2"/>
-<text x="550" y="625" font-size="14.2" font-weight="700" fill="#1F2328">Catalog</text>
-<text x="550" y="644" font-size="12.5" fill="#1F2328">Books &amp; students</text>
+<text x="550" y="625" font-size="14.2" font-weight="700" fill="#59636E">Catalog</text>
+<text x="550" y="644" font-size="12.5" fill="#59636E">Books &amp; students</text>
 <path d="M549 725H687" stroke="#D0D7DE" stroke-width="2.2" stroke-linecap="round"/>
 <rect x="556" y="664" width="17" height="60" rx="2" fill="#526EAB" stroke="#D0D7DE"/>
 <rect x="579" y="679" width="17" height="45" rx="2" fill="#806DB4" stroke="#D0D7DE"/>
 <rect x="602" y="670" width="17" height="54" rx="2" fill="#3F8FAD" stroke="#4D99B5"/>
 <rect x="625" y="664" width="17" height="60" rx="2" fill="#A18ACE" stroke="#D0D7DE"/>
 <path d="M556 683H572 M579 697H595 M603 689H618 M626 685H641" stroke="#D0D7DE" opacity=".5"/>
-<rect x="548" y="752" width="140" height="27" rx="13.5" fill="#F6F8FA" stroke="#D0D7DE"/>
-<text x="618" y="770" text-anchor="middle" font-family="monospace" font-size="12.4" fill="#1F2328">
+<rect x="548" y="752" width="140" height="27" rx="13.5" fill="#F2EFF9" stroke="#D0D7DE"/>
+<text x="618" y="770" text-anchor="middle" font-family="Consolas,Liberation Mono,monospace" font-size="12.4" fill="#087F69">
   AVAILABLE
   <animate attributeName="opacity" values="1;1;0;0;1;1" keyTimes="0;.25;.31;.70;.81;1" dur="12s" repeatCount="indefinite"/>
 </text>
-<text x="618" y="770" text-anchor="middle" font-family="monospace" font-size="12.4" fill="#1F2328" opacity="0">
+<text x="618" y="770" text-anchor="middle" font-family="Consolas,Liberation Mono,monospace" font-size="12.4" fill="#087F69" opacity="0">
   BORROWED
   <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.25;.31;.70;.81;1" dur="12s" repeatCount="indefinite"/>
 </text>
 
 <!-- Student / circulation -->
 <rect x="736" y="596" width="179" height="198" rx="14" fill="#F6F8FA" stroke="#D0D7DE" stroke-width="1.2"/>
-<text x="751" y="625" font-size="14.2" font-weight="700" fill="#1F2328">Borrow / Return</text>
-<text x="751" y="644" font-size="12.5" fill="#1F2328">Student circulation</text>
+<text x="751" y="625" font-size="14.2" font-weight="700" fill="#59636E">Borrow / Return</text>
+<text x="751" y="644" font-size="12.5" fill="#59636E">Student circulation</text>
 <circle cx="817" cy="686" r="13" fill="none" stroke="#D0D7DE" stroke-width="2"/>
 <path d="M788 730Q788 703 817 703Q846 703 846 730" stroke="#D0D7DE" stroke-width="2" fill="none" stroke-linecap="round"/>
 <path d="M793 741H840" stroke="#D0D7DE" stroke-width="1.4"/>
-<rect x="749" y="752" width="152" height="27" rx="13.5" fill="#F6F8FA" stroke="#D0D7DE"/>
-<text x="825" y="770" text-anchor="middle" font-family="monospace" font-size="11.6" fill="#1F2328">WAITING
+<rect x="749" y="752" width="152" height="27" rx="13.5" fill="#F2EFF9" stroke="#D0D7DE"/>
+<text x="825" y="770" text-anchor="middle" font-family="Consolas,Liberation Mono,monospace" font-size="11.6" fill="#59636E">WAITING
  <animate attributeName="opacity" values="1;1;0;0;1;1" keyTimes="0;.25;.31;.7;.82;1" dur="12s" repeatCount="indefinite"/>
 </text>
-<text x="825" y="770" text-anchor="middle" font-family="monospace" font-size="11.6" fill="#1F2328" opacity="0">LOAN RECORDED
+<text x="825" y="770" text-anchor="middle" font-family="Consolas,Liberation Mono,monospace" font-size="11.6" fill="#59636E" opacity="0">LOAN RECORDED
  <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.25;.31;.7;.82;1" dur="12s" repeatCount="indefinite"/>
 </text>
 
 <!-- Records with discrete loan/return state changes -->
 <rect x="947" y="596" width="185" height="198" rx="14" fill="#F6F8FA" stroke="#D0D7DE" stroke-width="1.2"/>
-<text x="962" y="625" font-size="14.2" font-weight="700" fill="#1F2328">Records</text>
-<text x="962" y="644" font-size="12.5" fill="#1F2328">Status &amp; fines</text>
+<text x="962" y="625" font-size="14.2" font-weight="700" fill="#59636E">Records</text>
+<text x="962" y="644" font-size="12.5" fill="#59636E">Status &amp; fines</text>
 <rect x="961" y="660" width="157" height="41" rx="9" fill="#F6F8FA" stroke="#D0D7DE"/>
 <circle cx="973" cy="681" r="3.8" fill="#7A9ADE"/>
-<text x="984" y="678" font-family="monospace" font-size="11.2" fill="#1F2328">LOAN ENTRY</text>
-<text x="984" y="692" font-family="monospace" font-size="10.7" fill="#59636E">Saved when lent</text>
+<text x="984" y="678" font-family="Consolas,Liberation Mono,monospace" font-size="11.2" fill="#087F69">LOAN ENTRY</text>
+<text x="984" y="692" font-family="Consolas,Liberation Mono,monospace" font-size="10.7" fill="#59636E">Saved when lent</text>
 <rect x="961" y="712" width="157" height="43" rx="9" fill="#F6F8FA" stroke="#D0D7DE"/>
 <circle cx="973" cy="733" r="3.8" fill="#B6A8F0"/>
-<text x="984" y="730" font-family="monospace" font-size="11.1" fill="#1F2328">RETURN ENTRY</text>
-<text x="984" y="744" font-family="monospace" font-size="10.7" fill="#59636E">Fine if overdue</text>
+<text x="984" y="730" font-family="Consolas,Liberation Mono,monospace" font-size="11.1" fill="#087F69">RETURN ENTRY</text>
+<text x="984" y="744" font-family="Consolas,Liberation Mono,monospace" font-size="10.7" fill="#59636E">Fine if overdue</text>
 <rect x="961" y="660" width="157" height="41" rx="9" fill="none" stroke="#D0D7DE" stroke-width="1.8" opacity=".06">
  <animate attributeName="opacity" values=".06;.06;.9;.9;.06" keyTimes="0;.29;.37;.55;1" dur="12s" repeatCount="indefinite"/>
 </rect>
 <rect x="961" y="712" width="157" height="43" rx="9" fill="none" stroke="#D0D7DE" stroke-width="1.8" opacity=".06">
  <animate attributeName="opacity" values=".06;.06;.06;.9;.9;.06" keyTimes="0;.67;.77;.83;.91;1" dur="12s" repeatCount="indefinite"/>
 </rect>
-<text x="962" y="777" font-family="monospace" font-size="11" fill="#1F2328">PERSIST TO FILE</text>
+<text x="962" y="777" font-family="Consolas,Liberation Mono,monospace" font-size="11" fill="#59636E">PERSIST TO FILE</text>
 
 <!-- The book icon travels shelf → student → shelf. Unlike generic packets it signifies a book. -->
 <path d="M679 705Q749 693 817 719" stroke="#D0D7DE" stroke-width="1.9" stroke-dasharray="3 6"/>
@@ -223,12 +223,12 @@
  <animateMotion path="M916 706H946" keyPoints="0;0;1;1;1" keyTimes="0;.77;.83;.9;1" dur="12s" repeatCount="indefinite"/>
  <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;.76;.83;.9;1" dur="12s" repeatCount="indefinite"/>
 </circle>
-<text x="535" y="848" font-family="monospace" font-size="12.2" letter-spacing=".48" fill="#1F2328">REGISTER BOOK  /  BORROW &amp; RETURN  /  UPDATE RECORD &amp; FINE STATUS</text>
+<text x="535" y="848" font-family="Consolas,Liberation Mono,monospace" font-size="12.2" letter-spacing="0.48" fill="#59636E">REGISTER BOOK  /  BORROW &amp; RETURN  /  UPDATE RECORD &amp; FINE STATUS</text>
 
 
 <path d="M44 883H1155" stroke="#D0D7DE"/>
-<text x="45" y="905" font-family="monospace" font-size="12" fill="#59636E" letter-spacing="1">PROJECT CASE STUDIES  ·  DEMONSTRATION ONLY</text>
-<text x="1151" y="905" text-anchor="end" font-family="monospace" font-size="12" fill="#59636E" letter-spacing=".7">PRIVATE REPOSITORIES</text>
+<text x="45" y="905" font-family="Consolas,Liberation Mono,monospace" font-size="12" fill="#59636E" letter-spacing="1">PROJECT CASE STUDIES  ·  DEMONSTRATION ONLY</text>
+<text x="1151" y="905" text-anchor="end" font-family="Consolas,Liberation Mono,monospace" font-size="12" fill="#59636E" letter-spacing="0.7">PRIVATE REPOSITORIES</text>
 
 
 </g></svg>

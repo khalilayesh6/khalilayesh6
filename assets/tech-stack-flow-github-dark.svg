@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="366" viewBox="0 0 1200 366" role="img" aria-labelledby="title desc">
 <title id="title">My developer toolkit — application, data and workflow</title>
-<desc id="desc">GitHub-native flat canvas: no image-wide background, no atmospheric overlays, dark contrast. Ambient-edge integrated GitHub design, coherent cyan-violet identity. Dark GitHub theme with transparent outer background. An animated visual shows PHP and Laravel used for application logic exchanging data with MySQL, and changes flowing from Git to GitHub. Java is shown separately as another language being learned.</desc>
+<desc id="desc">Unified hierarchy, high contrast type and calm native GitHub card strokes. GitHub-native flat canvas: no image-wide background, no atmospheric overlays, dark contrast. Ambient-edge integrated GitHub design, coherent cyan-violet identity. Dark GitHub theme with transparent outer background. An animated visual shows PHP and Laravel used for application logic exchanging data with MySQL, and changes flowing from Git to GitHub. Java is shown separately as another language being learned.</desc>
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
     <stop offset="0" stop-color="#091321"/>
@@ -18,7 +18,7 @@
   </radialGradient>
   <clipPath id="clip"><rect width="1200" height="366" rx="20"/></clipPath>
 </defs>
-<g clip-path="url(#clip)" font-family="Arial,Helvetica,sans-serif">
+<g clip-path="url(#clip)" font-family="Segoe UI,Arial,Helvetica,sans-serif">
 
   
   
@@ -30,34 +30,34 @@
   <circle cx="47" cy="45" r="4.3" fill="#5be2b9">
     <animate attributeName="opacity" values=".5;1;.5" dur="3.5s" repeatCount="indefinite"/>
   </circle>
-  <text x="63" y="50" font-size="13" font-weight="700" fill="#9fcfdf" letter-spacing="2">DEVELOPER TOOLKIT</text>
-  <text x="39" y="131" font-size="37" font-weight="800" fill="#f1f7ff" letter-spacing="-.6">Tools that</text>
-  <text x="39" y="176" font-size="37" font-weight="800" fill="#f1f7ff" letter-spacing="-.6">work together.</text>
+  <text x="63" y="50" font-size="13" font-weight="700" fill="#72D8EC" letter-spacing="1.2">DEVELOPER TOOLKIT</text>
+  <text x="39" y="131" font-size="36" font-weight="700" fill="#F0F6FC" letter-spacing="-0.48">Tools that</text>
+  <text x="39" y="176" font-size="36" font-weight="700" fill="#F0F6FC" letter-spacing="-0.48">work together.</text>
   <path d="M39 199H119" stroke="#5cddec" stroke-width="3" stroke-linecap="round"/>
   <path d="M126 199H158" stroke="#a99af5" stroke-width="3" stroke-linecap="round"/>
-  <text x="39" y="246" font-size="17" fill="#a5bad5">Application. Data.</text>
-  <text x="39" y="274" font-size="17" fill="#a5bad5">Version control.</text>
-  <text x="39" y="328" font-size="13" fill="#769bb9" font-weight="650" letter-spacing="1.7">LEARNING &amp; BUILDING</text>
+  <text x="39" y="246" font-size="17" fill="#C9D1D9">Application. Data.</text>
+  <text x="39" y="274" font-size="17" fill="#C9D1D9">Version control.</text>
+  <text x="39" y="328" font-size="13" fill="#A7B2BE" font-weight="600" letter-spacing="1.2">LEARNING &amp; BUILDING</text>
 
   <!-- APPLICATION / DATA ROW -->
-  <text x="402" y="55" font-size="13.5" font-weight="700" letter-spacing="1.8" fill="#76ddeb">01 / APPLICATION &amp; DATA</text>
-  <text x="1159" y="55" font-size="12.5" font-family="monospace" text-anchor="end" letter-spacing="1.2" fill="#809bbd">REQUEST / RESPONSE</text>
+  <text x="402" y="55" font-size="13.5" font-weight="700" letter-spacing="1.2" fill="#A7B2BE">01 / APPLICATION &amp; DATA</text>
+  <text x="1159" y="55" font-size="12.5" font-family="Consolas,Liberation Mono,monospace" text-anchor="end" letter-spacing="1.2" fill="#A7B2BE">REQUEST / RESPONSE</text>
 
-  <rect x="402" y="79" width="405" height="127" rx="15" fill="#151B23" stroke="#30363D" stroke-width="1.15"/>
+  <rect x="402" y="79" width="405" height="127" rx="14" fill="#151B23" stroke="#3D444D" stroke-width="1.15"/>
   <path d="M419 80H790" stroke="#5bd9e9" stroke-width="2.8" stroke-linecap="round"/>
   <rect x="424" y="104" width="54" height="54" rx="12" fill="#153548" stroke="#39778e"/>
   <path d="M443 119L435 131L443 143M459 119L467 131L459 143M455 114L448 148" fill="none" stroke="#72e2f0" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="494" y="133" font-size="29" font-weight="800" fill="#f1f7ff" letter-spacing="-.4">PHP + Laravel</text>
-  <text x="494" y="164" font-size="16.5" fill="#a8c0d9">Backend language &amp; framework</text>
-  <text x="424" y="189" font-size="13" font-family="monospace" fill="#76a5c1" letter-spacing=".75">APPLICATION LOGIC</text>
+  <text x="494" y="133" font-size="29" font-weight="700" fill="#F0F6FC" letter-spacing="-0.4">PHP + Laravel</text>
+  <text x="494" y="164" font-size="16.5" fill="#C9D1D9">Backend language &amp; framework</text>
+  <text x="424" y="189" font-size="13" font-family="Consolas,Liberation Mono,monospace" fill="#A7B2BE" letter-spacing="0.75">APPLICATION LOGIC</text>
 
-  <rect x="936" y="79" width="223" height="127" rx="15" fill="#212830" stroke="#595486" stroke-width="1.35"/>
+  <rect x="936" y="79" width="223" height="127" rx="15" fill="#212830" stroke="#3D444D" stroke-width="1.2"/>
   <path d="M952 80H1142" stroke="#a799f7" stroke-width="2.8" stroke-linecap="round"/>
   <ellipse cx="971" cy="120" rx="16" ry="6" fill="none" stroke="#b8a8ff" stroke-width="2.3"/>
   <path d="M955 120V147C955 155 987 155 987 147V120M955 133C955 141 987 141 987 133" fill="none" stroke="#b8a8ff" stroke-width="2.3"/>
-  <text x="1002" y="134" font-size="27" font-weight="800" fill="#f2f7ff">MySQL</text>
-  <text x="956" y="177" font-size="16" fill="#b2c0dd">Data &amp; queries</text>
-  <text x="956" y="194" font-size="12.5" font-family="monospace" fill="#a89ee2" letter-spacing=".8">DATABASE</text>
+  <text x="1002" y="134" font-size="27" font-weight="700" fill="#F0F6FC">MySQL</text>
+  <text x="956" y="177" font-size="16" fill="#C9D1D9">Data &amp; queries</text>
+  <text x="956" y="194" font-size="12.5" font-family="Consolas,Liberation Mono,monospace" fill="#A7B2BE" letter-spacing="0.8">DATABASE</text>
 
   <!-- Two meaning-bearing animated data tracks -->
   <path d="M819 117H923" fill="none" stroke="#3f6b8d" stroke-width="2" stroke-linecap="round"/>
@@ -72,26 +72,26 @@
   </circle>
   
   <!-- The separate Java language and a meaningful Git to GitHub progression -->
-  <text x="402" y="240" font-size="13.5" font-weight="700" letter-spacing="1.7" fill="#b5a2e6">02 / ALSO LEARNING</text>
-  <text x="659" y="240" font-size="13.5" font-weight="700" letter-spacing="1.7" fill="#73dce6">03 / VERSION CONTROL</text>
+  <text x="402" y="240" font-size="13.5" font-weight="700" letter-spacing="1.2" fill="#C1A7F7">02 / ALSO LEARNING</text>
+  <text x="659" y="240" font-size="13.5" font-weight="700" letter-spacing="1.2" fill="#72D8EC">03 / VERSION CONTROL</text>
   
-  <rect x="402" y="261" width="204" height="69" rx="13" fill="#14253a" stroke="#465673" stroke-width="1.2"/>
+  <rect x="402" y="261" width="204" height="69" rx="13" fill="#14253a" stroke="#3D444D" stroke-width="1.2"/>
   <rect x="416" y="277" width="35" height="36" rx="9" fill="#2c2b3b" stroke="#896c63"/>
-  <text x="433.5" y="301" text-anchor="middle" font-size="18" font-weight="800" fill="#f2bf8b">J</text>
-  <text x="465" y="304" font-size="25" font-weight="750" fill="#f1f7ff">Java</text>
+  <text x="433.5" y="301" text-anchor="middle" font-size="18" font-weight="700" fill="#F0F6FC">J</text>
+  <text x="465" y="304" font-size="25" font-weight="750" fill="#F0F6FC">Java</text>
 
-  <rect x="659" y="261" width="177" height="69" rx="13" fill="#14253a" stroke="#45617c" stroke-width="1.2"/>
+  <rect x="659" y="261" width="177" height="69" rx="13" fill="#14253a" stroke="#3D444D" stroke-width="1.2"/>
   <rect x="674" y="277" width="35" height="36" rx="9" fill="#312b38" stroke="#8b635a"/>
   <path d="M692 284V305M692 287L700 295M692 305L700 295" fill="none" stroke="#f4a183" stroke-width="2.1" stroke-linecap="round"/>
-  <text x="723" y="304" font-size="25" font-weight="750" fill="#f1f7ff">Git</text>
+  <text x="723" y="304" font-size="25" font-weight="750" fill="#F0F6FC">Git</text>
 
-  <rect x="941" y="261" width="218" height="69" rx="13" fill="#181f38" stroke="#5c5788" stroke-width="1.2"/>
+  <rect x="941" y="261" width="218" height="69" rx="13" fill="#181f38" stroke="#3D444D" stroke-width="1.2"/>
   <rect x="955" y="277" width="35" height="36" rx="9" fill="#292c47" stroke="#6a68a0"/>
   <circle cx="973" cy="295" r="11" fill="none" stroke="#b4a8f7" stroke-width="2"/>
   <path d="M966 303L966 294M980 303L980 294M965 288L970 285M981 288L976 285" fill="none" stroke="#b4a8f7" stroke-width="1.7" stroke-linecap="round"/>
-  <text x="1004" y="304" font-size="25" font-weight="750" fill="#f1f7ff">GitHub</text>
+  <text x="1004" y="304" font-size="25" font-weight="750" fill="#F0F6FC">GitHub</text>
 
-  <text x="889" y="254" text-anchor="middle" font-family="monospace" font-size="12" fill="#749fbd" letter-spacing="1.2">PUSH</text>
+  <text x="889" y="254" text-anchor="middle" font-family="Consolas,Liberation Mono,monospace" font-size="12" fill="#A7B2BE" letter-spacing="1.2">PUSH</text>
   <path d="M845 294H931" fill="none" stroke="#4a7096" stroke-width="2.2" stroke-linecap="round"/>
   <path d="M926 289L934 294L926 299" fill="none" stroke="#78dcea" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
   <circle r="4.3" fill="#79e5d9">
