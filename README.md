@@ -36,6 +36,18 @@
   <img src="./assets/how-i-build.svg" width="100%" alt="How I approach building: Understand the problem, design the data, build logic, test and debug, then improve through continuous iteration." />
 </div>
 
+<br />
+
+<div align="center">
+  <img src="./assets/featured-mizan-v3.svg" width="100%" alt="Featured project 1: Mizan Finance Management System. Accounts, transactions and reporting. Source code is private." />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="./assets/featured-library-v1.svg" width="100%" alt="Featured project 2: Smart University Library Management System. Java, JavaFX, Maven, books, students, borrowing, returns, fines and file storage. Source code is private." />
+</div>
+
 ---
 
 <div align="center">
